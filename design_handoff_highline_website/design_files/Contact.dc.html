@@ -1,0 +1,188 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<script src="./support.js"></script>
+</head>
+<body>
+<x-dc>
+<helmet>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin="anonymous">
+<link href="https://fonts.googleapis.com/css2?family=Hanken+Grotesk:wght@400;500;600;700;800&display=swap" rel="stylesheet">
+<script src="image-slot.js"></script>
+<style>
+body{margin:0;background:#EDF3F9;font-family:'Hanken Grotesk',sans-serif;color:#14181D;-webkit-font-smoothing:antialiased}
+a{text-decoration:none;color:#14181D}
+a:hover{color:#1E7CCF}
+</style>
+</helmet>
+
+<div style="padding:16px 16px 0">
+  <div style="position:relative;border-radius:28px;overflow:hidden;height:520px;background:linear-gradient(160deg,#2E8FE0,#1E7CCF)">
+    <image-slot id="contact-hero" shape="rect" placeholder="Hero photo — two trainees in coveralls carrying extinguishers across the training yard"></image-slot>
+    <div style="position:absolute;inset:0;background:linear-gradient(to top,rgba(23,90,158,.88) 0%,rgba(46,143,224,.25) 55%,rgba(30,124,207,.30) 100%);pointer-events:none"></div>
+    <div style="position:absolute;top:0;left:0;right:0">
+      <dc-import name="SiteNav" active="contact" hint-size="100%,86px"></dc-import>
+    </div>
+    <h1 style="position:absolute;left:52px;bottom:48px;margin:0;color:#fff;font-size:72px;font-weight:500;line-height:1.05;letter-spacing:-.025em;max-width:min(680px, calc(100% - 500px));text-wrap:pretty">Ready to Train at High Line?</h1>
+    <div style="position:absolute;right:52px;bottom:56px;max-width:360px">
+      <div style="display:flex;align-items:center;gap:8px"><span style="width:6px;height:6px;border-radius:50%;background:#F4581C"></span><span style="font-size:12px;font-weight:700;letter-spacing:.16em;color:#fff">GET IN TOUCH</span></div>
+      <p style="margin:10px 0 0;color:rgba(255,255,255,.92);font-size:14.5px;line-height:1.55">Contact our team to learn about courses, batch schedules, and how to join the High Line training community.</p>
+    </div>
+  </div>
+</div>
+
+<div style="padding:100px 64px;display:grid;grid-template-columns:440px 1fr;gap:64px;align-items:stretch">
+  <div style="position:relative;border-radius:26px;overflow:hidden;min-height:560px" data-reveal="0">
+    <image-slot id="contact-photo" shape="rect" placeholder="Photo: instructor guiding a trainee through an extinguisher drill, blue yard"></image-slot>
+    <span style="position:absolute;top:18px;left:18px;background:rgba(255,255,255,.85);backdrop-filter:blur(8px);border-radius:999px;padding:8px 16px;font-size:12.5px;font-weight:700;pointer-events:none">ISO 9001:2015 Certified</span>
+    <span style="position:absolute;top:18px;right:18px;background:rgba(255,255,255,.85);backdrop-filter:blur(8px);border-radius:999px;padding:8px 16px;font-size:12.5px;font-weight:700;pointer-events:none">Fire &amp; Safety Institute</span>
+    <div style="position:absolute;left:18px;right:18px;bottom:18px;display:flex;flex-wrap:wrap;gap:8px;pointer-events:none;justify-content:center">
+      <span style="background:rgba(255,255,255,.85);backdrop-filter:blur(8px);border-radius:999px;padding:8px 16px;font-size:12.5px;font-weight:700">✓ Accredited Trainers</span>
+      <span style="background:rgba(255,255,255,.85);backdrop-filter:blur(8px);border-radius:999px;padding:8px 16px;font-size:12.5px;font-weight:700">✓ Placement Assistance</span>
+      <span style="background:rgba(255,255,255,.85);backdrop-filter:blur(8px);border-radius:999px;padding:8px 16px;font-size:12.5px;font-weight:700">✓ Practical Drill Training</span>
+    </div>
+  </div>
+  <div data-reveal="1">
+    <div style="display:inline-flex;align-items:center;gap:8px"><span style="width:6px;height:6px;border-radius:50%;background:#2E8FE0"></span><span style="font-size:12px;font-weight:700;letter-spacing:.16em;color:#5B6672">SEND A MESSAGE</span></div>
+    <h2 style="margin:14px 0 0;font-size:44px;font-weight:500;letter-spacing:-.02em;line-height:1.1">Take Your Career Further</h2>
+    <p style="margin:14px 0 0;font-size:14.5px;color:#5B6672;line-height:1.6;max-width:560px">Reach out to High Line for course inquiries, admission assistance, or industry partnership opportunities.</p>
+    <div style="display:grid;grid-template-columns:1fr 1fr;gap:18px;margin-top:32px">
+      <label style="display:block"><span style="font-size:13px;font-weight:700;display:block;margin-bottom:7px">Full Name</span><input type="text" placeholder="Your full name" style="width:100%;box-sizing:border-box;border:none;background:#fff;border-radius:12px;padding:14px 18px;font-size:14px;font-family:'Hanken Grotesk',sans-serif;outline:none;color:#14181D"></label>
+      <label style="display:block"><span style="font-size:13px;font-weight:700;display:block;margin-bottom:7px">Email Address</span><input type="email" placeholder="Your email address" style="width:100%;box-sizing:border-box;border:none;background:#fff;border-radius:12px;padding:14px 18px;font-size:14px;font-family:'Hanken Grotesk',sans-serif;outline:none;color:#14181D"></label>
+      <label style="display:block"><span style="font-size:13px;font-weight:700;display:block;margin-bottom:7px">Phone Number</span><input type="tel" placeholder="Your phone number" style="width:100%;box-sizing:border-box;border:none;background:#fff;border-radius:12px;padding:14px 18px;font-size:14px;font-family:'Hanken Grotesk',sans-serif;outline:none;color:#14181D"></label>
+      <label style="display:block"><span style="font-size:13px;font-weight:700;display:block;margin-bottom:7px">Course of Interest</span><select style="width:100%;box-sizing:border-box;border:none;background:#fff;border-radius:12px;padding:14px 18px;font-size:14px;font-family:'Hanken Grotesk',sans-serif;outline:none;color:#14181D"><option>Choose a course</option><option>DFS — Diploma in Fire Safety</option><option>ADHSE — Advance Diploma in HSE</option><option>IOSH Managing Safely</option><option>Diploma in Construction &amp; Industrial Safety</option><option>NEBOSH IGC</option><option>Diploma in Oil &amp; Gas Safety</option></select></label>
+      <label style="display:block;grid-column:1 / -1"><span style="font-size:13px;font-weight:700;display:block;margin-bottom:7px">Message</span><textarea placeholder="Write your message here" rows="5" style="width:100%;box-sizing:border-box;border:none;background:#fff;border-radius:14px;padding:14px 18px;font-size:14px;font-family:'Hanken Grotesk',sans-serif;outline:none;color:#14181D;resize:vertical"></textarea></label>
+    </div>
+    <div style="display:flex;align-items:center;justify-content:space-between;gap:24px;margin-top:26px">
+      <p style="margin:0;font-size:13px;color:#8B96A2;line-height:1.55;max-width:380px">Our team will review your inquiry and contact you soon with batch dates and the details you need.</p>
+      <button style="border:none;display:inline-flex;align-items:center;gap:12px;background:#D6E9FA;border-radius:999px;padding:9px 9px 9px 22px;font-size:14px;font-weight:600;font-family:'Hanken Grotesk',sans-serif;cursor:pointer;flex:none">Send Course Inquiry <span style="width:32px;height:32px;border-radius:50%;background:#fff;display:inline-flex;align-items:center;justify-content:center;font-size:13px">↗</span></button>
+    </div>
+  </div>
+</div>
+
+<div style="margin:0 16px;background:#fff;border-radius:28px;padding:100px 64px">
+  <div style="text-align:center" data-reveal="0">
+    <div style="display:inline-flex;align-items:center;gap:8px"><span style="width:6px;height:6px;border-radius:50%;background:#2E8FE0"></span><span style="font-size:12px;font-weight:700;letter-spacing:.16em;color:#5B6672">CONTACT INFO</span></div>
+    <h2 style="margin:14px 0 0;font-size:48px;font-weight:500;letter-spacing:-.02em;line-height:1.1">Reach Out to High Line</h2>
+    <p style="margin:16px auto 0;font-size:15px;color:#5B6672;max-width:560px;line-height:1.6">Visit the campus, call, or write — we&#39;re beside Geetha Bhavan in the heart of Karimnagar.</p>
+  </div>
+  <div style="border-radius:22px;overflow:hidden;margin-top:48px;height:400px" data-reveal="0">
+    <iframe src="https://www.openstreetmap.org/export/embed.html?bbox=79.088%2C18.408%2C79.170%2C18.470&amp;layer=mapnik&amp;marker=18.4386%2C79.1288" style="width:100%;height:100%;border:0;display:block" title="High Line Fire and Safety Training Institute — Karimnagar map"></iframe>
+  </div>
+  <div style="display:grid;grid-template-columns:1fr 1fr 1fr;gap:24px;margin-top:24px">
+    <div style="background:#F6FAFD;border:1px solid #E4EDF5;border-radius:22px;padding:36px;text-align:center" data-reveal="0">
+      <span style="width:52px;height:52px;border-radius:50%;background:#D6E9FA;color:#1E7CCF;display:inline-flex;align-items:center;justify-content:center;font-size:20px">✉</span>
+      <p style="margin:18px 0 0;font-size:16.5px;font-weight:700"><a href="mailto:highlinefireandsafety@gmail.com">highlinefireandsafety@gmail.com</a></p>
+      <p style="margin:10px 0 0;font-size:13.5px;color:#5B6672;line-height:1.6">Email us for course information and admission inquiries.</p>
+    </div>
+    <div style="background:#F6FAFD;border:1px solid #E4EDF5;border-radius:22px;padding:36px;text-align:center" data-reveal="1">
+      <span style="width:52px;height:52px;border-radius:50%;background:#D6E9FA;color:#1E7CCF;display:inline-flex;align-items:center;justify-content:center;font-size:20px">✆</span>
+      <p style="margin:18px 0 0;font-size:16.5px;font-weight:700"><a href="tel:+918121118000">+91 812 111 8000</a> · <a href="tel:+919392882152">+91 93928 82152</a></p>
+      <p style="margin:10px 0 0;font-size:13.5px;color:#5B6672;line-height:1.6">Call for batch schedules and enrollment questions — or <a href="https://wa.me/919392882152" target="_blank" rel="noopener" style="font-weight:700;color:#1E7CCF">message us on WhatsApp</a>.</p>
+    </div>
+    <div style="background:#F6FAFD;border:1px solid #E4EDF5;border-radius:22px;padding:36px;text-align:center" data-reveal="2">
+      <span style="width:52px;height:52px;border-radius:50%;background:#D6E9FA;color:#1E7CCF;display:inline-flex;align-items:center;justify-content:center;font-size:20px">⌖</span>
+      <p style="margin:18px 0 0;font-size:16.5px;font-weight:700;line-height:1.4">Beside Geetha Bhavan, opp. Jafri Masjid, Karimnagar – 505001</p>
+      <p style="margin:10px 0 0;font-size:13.5px;color:#5B6672;line-height:1.6">Visit our campus at the location shown on the map above.</p>
+    </div>
+  </div>
+</div>
+
+<div style="padding:110px 64px 90px;display:grid;grid-template-columns:1fr 360px;gap:64px;align-items:start">
+  <div>
+    <div data-reveal="0">
+      <div style="display:inline-flex;align-items:center;gap:8px"><span style="width:6px;height:6px;border-radius:50%;background:#2E8FE0"></span><span style="font-size:12px;font-weight:700;letter-spacing:.16em;color:#5B6672">FAQ</span></div>
+      <h2 style="margin:14px 0 0;font-size:44px;font-weight:500;letter-spacing:-.02em;line-height:1.1">Training &amp; Admission Guide</h2>
+      <p style="margin:14px 0 0;font-size:14.5px;color:#5B6672;line-height:1.6;max-width:560px">Quick answers to common questions about High Line courses, admissions, and training sessions.</p>
+    </div>
+    <div style="display:flex;flex-direction:column;gap:12px;margin-top:36px">
+      <sc-for list="{{ faqs }}" as="f" hint-placeholder-count="4">
+        <div onClick="{{ f.toggle }}" style="background:#fff;border-radius:18px;padding:20px 26px;cursor:pointer">
+          <div style="display:flex;align-items:center;gap:20px">
+            <span style="font-size:15px;font-weight:800;color:{{ f.numColor }};width:28px;flex:none">{{ f.n }}</span>
+            <span style="font-size:16.5px;font-weight:700;flex:1">{{ f.q }}</span>
+            <span style="width:32px;height:32px;border-radius:50%;background:#F6FAFD;border:1px solid #E4EDF5;display:inline-flex;align-items:center;justify-content:center;font-size:16px;color:#1E7CCF;flex:none">{{ f.icon }}</span>
+          </div>
+          <div style="{{ f.bodyStyle }}"><p style="margin:14px 0 4px 48px;font-size:14px;color:#5B6672;line-height:1.65;max-width:620px">{{ f.a }}</p></div>
+        </div>
+      </sc-for>
+    </div>
+  </div>
+  <div style="display:flex;flex-direction:column;gap:20px">
+    <div style="display:flex;flex-wrap:wrap;gap:8px" data-reveal="0">
+      <sc-for list="{{ cats }}" as="c" hint-placeholder-count="3">
+        <span onClick="{{ c.pick }}" style="{{ c.chipStyle }}">{{ c.label }}</span>
+      </sc-for>
+    </div>
+    <div style="position:relative;border-radius:22px;overflow:hidden;min-height:300px;margin-top:8px" data-reveal="1">
+      <image-slot id="faq-cta" shape="rect" placeholder="Photo: orange extinguisher on blue yard, diagonal white line"></image-slot>
+      <div style="position:absolute;inset:0;background:linear-gradient(to top,rgba(23,90,158,.9),rgba(46,143,224,.2) 65%);pointer-events:none"></div>
+      <span style="position:absolute;top:16px;left:16px;display:flex;pointer-events:none">
+        <span style="width:28px;height:28px;border-radius:50%;background:#2E8FE0;color:#fff;display:inline-flex;align-items:center;justify-content:center;font-size:10px;font-weight:700;border:2px solid #fff">DB</span>
+        <span style="width:28px;height:28px;border-radius:50%;background:#D6E9FA;color:#1E7CCF;display:inline-flex;align-items:center;justify-content:center;font-size:10px;font-weight:700;border:2px solid #fff;margin-left:-8px">SK</span>
+        <span style="width:28px;height:28px;border-radius:50%;background:#14181D;color:#fff;display:inline-flex;align-items:center;justify-content:center;font-size:10px;font-weight:700;border:2px solid #fff;margin-left:-8px">NP</span>
+      </span>
+      <div style="position:absolute;left:22px;right:22px;bottom:22px;pointer-events:none">
+        <p style="margin:0;color:#fff;font-size:26px;font-weight:600;letter-spacing:-.01em;line-height:1.2">Ready to Take the Next Step?</p>
+        <a href="Home.dc.html#courses" style="pointer-events:auto;display:inline-flex;align-items:center;gap:12px;background:#fff;border-radius:999px;padding:9px 9px 9px 22px;font-size:14px;font-weight:600;margin-top:16px">Explore Our Courses <span style="width:32px;height:32px;border-radius:50%;background:#2E8FE0;color:#fff;display:inline-flex;align-items:center;justify-content:center;font-size:13px">↗</span></a>
+      </div>
+    </div>
+  </div>
+</div>
+
+<dc-import name="SiteFooter" hint-size="100%,700px"></dc-import>
+</x-dc>
+<script type="text/x-dc" data-dc-script>
+class Component extends DCLogic {
+  state = {cat: 0, faq: 0};
+  catData = [
+    {label: 'Training Courses', faqs: [
+      {q: 'Which courses does High Line offer?', a: 'DFS (Diploma in Fire Safety), ADHSE, IOSH Managing Safely, Diploma in Construction & Industrial Safety, NEBOSH IGC, and Diploma in Oil & Gas Safety — plus short certificate courses.'},
+      {q: 'How often are practical drill sessions held?', a: 'Every diploma batch has at least one dedicated practical drill day per week on the campus drill yard, using certified extinguishers, hoses, and breathing apparatus.'},
+      {q: 'What batch timings are available?', a: 'Weekday morning and afternoon batches, Saturday weekend batches, and fast-track options — see the weekly batch schedule on the home page.'},
+      {q: 'What should I bring to training sessions?', a: 'Comfortable clothing and closed shoes. All PPE and drill equipment is provided and certified by the institute.'}
+    ]},
+    {label: 'Admissions', faqs: [
+      {q: 'What is the eligibility to join a course?', a: 'Most courses accept 10th pass and above. Diploma and international tracks have course-specific eligibility explained during free counselling.'},
+      {q: 'How do I register for a batch?', a: 'Send an inquiry through this page, call us, or message on WhatsApp — our co-ordinator will confirm seat availability and guide you through registration.'},
+      {q: 'Can fees be paid in installments?', a: 'Yes — installment plans are available on diploma and international tracks. Final fee structure is confirmed by the institute at admission.'},
+      {q: 'Can I enroll in more than one course?', a: 'Yes. Many students pair a diploma with IOSH or NEBOSH certification; batch timings are planned so combined tracks fit together.'}
+    ]},
+    {label: 'Institute Details', faqs: [
+      {q: 'What accreditations does High Line hold?', a: 'High Line is ISO 9001:2015 certified, IBSP approved, and an IOSH-accredited training provider, with NEBOSH IGC preparation offered on the international track.'},
+      {q: 'Does the institute provide placement assistance?', a: 'Yes — resume preparation, interview practice, and campus placement drives with industry partners are part of every diploma and international track.'},
+      {q: 'Where is the campus located?', a: 'Beside Geetha Bhavan, opposite Jafri Masjid, Karimnagar, Telangana – 505001. The map above shows the exact location.'},
+      {q: 'How do I reach the team quickly?', a: 'Call +91 812 111 8000 or +91 93928 82152, or message us on WhatsApp — the fastest way to get batch dates and seat availability.'}
+    ]}
+  ];
+  renderVals() {
+    const S = this.state;
+    const open = {maxHeight: '220px', opacity: 1, overflow: 'hidden', transition: 'max-height .5s cubic-bezier(.22,1,.36,1), opacity .4s'};
+    const shut = {maxHeight: '0px', opacity: 0, overflow: 'hidden', transition: 'max-height .35s cubic-bezier(.22,1,.36,1), opacity .25s'};
+    return {
+      cats: this.catData.map((c, i) => ({label: c.label, pick: () => this.setState({cat: i, faq: 0}), chipStyle: {padding: '9px 20px', borderRadius: 999, fontSize: '13.5px', fontWeight: 700, cursor: 'pointer', background: S.cat === i ? '#D6E9FA' : '#fff', border: S.cat === i ? '1px solid #8FC1EE' : '1px solid #E4EDF5', color: S.cat === i ? '#1E7CCF' : '#5B6672', transition: 'all .25s'}})),
+      faqs: this.catData[S.cat].faqs.map((f, i) => ({...f, n: '0' + (i + 1), toggle: () => this.setState({faq: S.faq === i ? -1 : i}), icon: S.faq === i ? '−' : '+', numColor: S.faq === i ? '#1E7CCF' : '#9AA6B2', bodyStyle: S.faq === i ? open : shut}))
+    };
+  }
+  componentDidMount() {
+    const els = [...document.querySelectorAll('[data-reveal]')];
+    els.forEach(el => {el.style.opacity = '0'; el.style.transform = 'translateY(24px)';});
+    const io = new IntersectionObserver(es => es.forEach(e => {
+      if (!e.isIntersecting) return;
+      io.unobserve(e.target);
+      const d = (+e.target.dataset.reveal % 3) * 90;
+      setTimeout(() => {
+        e.target.style.transition = 'opacity .7s cubic-bezier(.22,1,.36,1), transform .7s cubic-bezier(.22,1,.36,1)';
+        e.target.style.opacity = '1';
+        e.target.style.transform = 'none';
+      }, d);
+    }), {threshold: .12, rootMargin: '0px 0px -5% 0px'});
+    els.forEach(el => io.observe(el));
+  }
+}
+</script>
+</body>
+</html>
