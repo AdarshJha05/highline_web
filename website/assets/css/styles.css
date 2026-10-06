@@ -308,23 +308,9 @@ h1, h2, h3, p, blockquote, figure { margin: 0; }
   flex-direction: column;
   justify-content: center;
 }
-.hero__title {
-  margin: 20px 0;
-  color: var(--white);
-  font-family: 'Montserrat', sans-serif;
-  font-size: clamp(42px, 5vw, 64px);
-  font-weight: 800;
-  line-height: 1.1;
-  max-width: 800px;
-  text-wrap: balance;
-}
-.hero__blurb p {
-  color: rgba(255,255,255,.9);
-  font-size: clamp(16px, 1.2vw, 18px);
-  max-width: 600px;
-  line-height: 1.6;
-}
-.hero__actions { margin-top: 32px; display: flex; gap: 16px; }
+
+
+
 .hero__trust {
   margin-top: 64px;
   display: flex;
@@ -343,138 +329,77 @@ h1, h2, h3, h4 { font-family: 'Montserrat', sans-serif; color: var(--navy); }
 .section { padding: 100px var(--pad-x); }
 
 /* ----------------------------------------------------------------- 7. Hero */
-.hero-wrap { padding: var(--gutter) var(--gutter) 0; }
+.hero-wrap { padding: 0; }
 .hero {
   position: relative;
-  border-radius: var(--r-section);
   overflow: hidden;
-  background: linear-gradient(160deg, var(--blue), var(--blue-deep));
+  background: var(--navy);
   isolation: isolate;
+  min-height: 85vh;
+  display: flex;
+  align-items: center;
 }
-.hero--home { height: 790px; }
-.hero--inner { height: 560px; }
-.hero--contact { height: 520px; }
-.hero > .ph { position: absolute; inset: 0; z-index: -2; }
-/* Two layers. The first is a top-down fade that guarantees the nav row and the
-   floating pills a dark backdrop; without it their legibility depends on
-   whichever slice of the photo object-fit:cover happens to land there, which
-   changes with viewport width. The second is the handoff's bottom-up blue. */
+.hero > .ph { position: absolute; inset: 0; z-index: -2; width: 100%; height: 100%; object-fit: cover; }
 .hero__scrim {
   position: absolute; inset: 0; z-index: -1; pointer-events: none;
-  background:
-    linear-gradient(to bottom,
-      rgba(9, 32, 56, .58) 0%,
-      rgba(9, 32, 56, .30) 45%,
-      rgba(9, 32, 56, 0) 100%) top / 100% 200px no-repeat,
-    linear-gradient(to top,
-      rgba(9, 32, 56, .34) 0%,
-      rgba(9, 32, 56, .18) 55%,
-      rgba(9, 32, 56, 0) 100%) bottom / 100% 300px no-repeat,
-    linear-gradient(to top,
-      rgba(23, 90, 158, .88) 0%,
-      rgba(46, 143, 224, .36) 48%,
-      rgba(30, 124, 207, .30) 100%);
-}
-.hero--inner .hero__scrim,
-.hero--contact .hero__scrim {
-  background:
-    linear-gradient(to bottom,
-      rgba(9, 32, 56, .58) 0%,
-      rgba(9, 32, 56, .30) 45%,
-      rgba(9, 32, 56, 0) 100%) top / 100% 200px no-repeat,
-    linear-gradient(to top,
-      rgba(9, 32, 56, .34) 0%,
-      rgba(9, 32, 56, .18) 55%,
-      rgba(9, 32, 56, 0) 100%) bottom / 100% 300px no-repeat,
-    linear-gradient(to top,
-      rgba(23, 90, 158, .88) 0%,
-      rgba(46, 143, 224, .25) 55%,
-      rgba(30, 124, 207, .30) 100%);
+  background: linear-gradient(to right, rgba(11, 60, 109, 0.9) 0%, rgba(11, 60, 109, 0.6) 50%, rgba(11, 60, 109, 0.2) 100%),
+              linear-gradient(to top, rgba(11, 60, 109, 0.8) 0%, transparent 40%);
 }
 
-.hero__title {
+.hero__content {
+  position: relative;
+  z-index: 10;
+  padding: 80px var(--pad-x);
+  max-width: 1440px;
+  margin: 0 auto;
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+
+
+
+
+
+
+
+.hero__trust {
+  margin-top: 64px;
+  display: flex;
+  gap: 48px;
+  flex-wrap: wrap;
+}
+
+.trust-metric { 
+  color: #fff; 
+  display: flex; 
+  flex-direction: column; 
+  gap: 6px;
+  position: relative;
+}
+.trust-metric:not(:last-child)::after {
+  content: '';
   position: absolute;
-  left: 52px;
-  bottom: 150px;
-  margin: 0;
-  color: #fff;
-  font-weight: 500;
-  letter-spacing: -.025em;
-  text-wrap: pretty;
-  font-size: clamp(38px, 5.7vw, 82px);
-  line-height: 1.03;
-  max-width: min(760px, calc(100% - 460px));
-  text-shadow: 0 2px 20px rgba(9, 32, 56, .32);
-}
-.hero--inner .hero__title,
-.hero--contact .hero__title {
-  bottom: 48px;
-  font-size: clamp(34px, 5vw, 72px);
-  line-height: 1.05;
-  max-width: min(700px, calc(100% - 460px));
+  right: -24px;
+  top: 15%;
+  height: 70%;
+  width: 1px;
+  background: rgba(255, 255, 255, 0.2);
 }
 
-.hero__actions {
-  position: absolute; left: 52px; bottom: 52px;
-  display: flex; align-items: center; gap: 22px;
+.trust-metric b { 
+  font-size: clamp(28px, 3vw, 36px); 
+  font-weight: 800; 
+  color: var(--orange); 
+  line-height: 1;
 }
-.hero__scroll {
-  color: #fff; font-size: 13px; font-weight: 500; letter-spacing: .04em;
-  text-shadow: 0 1px 10px rgba(9, 32, 56, .5);
-}
-.hero__actions .btn { box-shadow: 0 8px 24px rgba(9, 32, 56, .32); }
-
-.hero__blurb {
-  position: absolute; right: 52px; bottom: 52px;
-  max-width: 360px;
-}
-.hero--inner .hero__blurb,
-.hero--contact .hero__blurb { bottom: 56px; }
-.hero__blurb p {
-  margin-top: 10px;
-  color: rgba(255, 255, 255, .92);
-  font-size: 14.5px;
-  line-height: 1.55;
-}
-
-.hero__badge {
-  position: absolute; right: 52px; top: 130px;
-  display: flex; align-items: center; gap: 14px;
-  background: rgba(255, 255, 255, .92);
-  backdrop-filter: blur(8px);
-  -webkit-backdrop-filter: blur(8px);
-  border-radius: var(--r-inner);
-  padding: 14px 20px;
-  box-shadow: var(--sh-float);
-  animation: hlFloat 5.5s ease-in-out infinite;
-}
-.hero__badge b { font-size: 15px; font-weight: 700; display: block; }
-.hero__badge small { font-size: 12px; color: var(--muted); }
-.hero__badge .av { border-color: #fff; }
-
-.hero__accred {
-  position: absolute; right: 52px; top: 224px;
-  background: rgba(11, 34, 60, .34);
-  border: 1px solid rgba(255, 255, 255, .45);
-  backdrop-filter: blur(8px);
-  -webkit-backdrop-filter: blur(8px);
-  border-radius: 999px;
-  padding: 9px 18px;
-  color: #fff;
-  font-size: 12.5px; font-weight: 600; letter-spacing: .06em;
-  animation: hlFloat 6.5s ease-in-out infinite;
-  white-space: nowrap;
-}
-
-.hero__cluster { position: absolute; right: 110px; top: 285px; width: 300px; height: 280px; }
-.hero__cluster svg { position: absolute; }
-.hero__flame { left: 0; top: 6px; width: 64px; filter: drop-shadow(0 14px 20px rgba(9, 40, 72, .4)); animation: hlFloatC 5s .3s ease-in-out infinite; }
-.hero__shield { left: 16px; bottom: 0; width: 104px; filter: drop-shadow(0 20px 26px rgba(9, 40, 72, .4)); animation: hlFloatB 7.5s .6s ease-in-out infinite; }
-.hero__ext { right: 0; top: 0; width: 150px; filter: drop-shadow(0 26px 30px rgba(9, 40, 72, .45)); animation: hlFloatA 6.5s ease-in-out infinite; }
-.hero__helmet {
-  position: absolute; left: 56px; top: 150px; width: 132px;
-  filter: drop-shadow(0 22px 26px rgba(9, 40, 72, .45));
-  animation: hlFloatC 7s ease-in-out infinite;
+.trust-metric span { 
+  font-size: 13px; 
+  font-weight: 600; 
+  text-transform: uppercase; 
+  letter-spacing: 0.08em; 
+  color: rgba(255, 255, 255, 0.85); 
 }
 
 /* -------------------------------------------------------------- 8. Marquee */
@@ -1323,8 +1248,8 @@ h1, h2, h3, h4 { font-family: 'Montserrat', sans-serif; color: var(--navy); }
 /* ---- ≤1360px: pull in the generous desktop gutters ---- */
 @media (max-width: 1360px) {
   :root { --pad-x: 48px; --sec-y: 84px; --open-y: 96px; --open-y-end: 88px; }
-  .hero__title, .hero__actions, .hero__blurb { left: 40px; }
-  .hero__blurb { right: 40px; left: auto; }
+  
+  
   .hero__badge, .hero__accred { right: 40px; }
   .hero__cluster { right: 72px; }
   .footer__card { padding: 48px 40px 40px; gap: 40px; }
@@ -1370,26 +1295,13 @@ h1, h2, h3, h4 { font-family: 'Montserrat', sans-serif; color: var(--navy); }
   /* The desktop hero pins the title, buttons and blurb to fixed offsets from
      the bottom. Below the nav breakpoint there is no longer room for that, so
      the copy goes back into normal flow and the panel grows to fit. */
-  .hero {
-    height: auto;
-    min-height: 620px;
-    display: flex;
-    flex-direction: column;
-    justify-content: flex-end;
-    padding: 260px 40px 44px;
-  }
+  
   .hero--inner,
   .hero--contact { min-height: 480px; padding-top: 180px; }
-  .hero__title,
-  .hero__actions,
-  .hero__blurb {
-    position: static;
-    max-width: none;
-    left: auto; right: auto; bottom: auto;
-  }
-  .hero__title { max-width: 760px; }
-  .hero__actions { margin-top: 26px; }
-  .hero__blurb { margin-top: 26px; max-width: 560px; }
+  
+  
+  
+  
   /* pills move left so the vector cluster keeps the top-right corner */
   .hero__badge { top: 96px; left: 40px; right: auto; padding: 11px 16px; }
   .hero__badge b { font-size: 14px; }
@@ -1470,13 +1382,13 @@ h1, h2, h3, h4 { font-family: 'Montserrat', sans-serif; color: var(--navy); }
   .hero { min-height: 590px; padding: 262px 20px 26px; }
   .hero--inner,
   .hero--contact { min-height: 460px; padding-top: 150px; }
-  .hero__title { font-size: clamp(34px, 10.2vw, 46px); max-width: none; }
+  
   .hero--inner .hero__title,
-  .hero--contact .hero__title { font-size: clamp(32px, 9.4vw, 44px); }
-  .hero__actions { margin-top: 22px; gap: 14px; }
+  .hero--contact 
+  
   .hero__scroll { display: none; }
-  .hero__blurb { margin-top: 22px; max-width: none; }
-  .hero__blurb p { font-size: 13.5px; }
+  
+  
   .hero__badge {
     right: auto; left: 20px; top: 76px;
     padding: 9px 14px; gap: 10px;
@@ -1640,4 +1552,20 @@ h1, h2, h3, h4 { font-family: 'Montserrat', sans-serif; color: var(--navy); }
 @media print {
   .nav, .drawer, .marquee, .clay { display: none !important; }
   body { background: #fff; }
+}
+
+/* Responsive overrides for new hero */
+@media (max-width: 1024px) {
+  .hero { min-height: 60vh; }
+  .hero__content { padding: 60px var(--pad-x); }
+  .trust-metric:not(:last-child)::after { display: none; }
+  .hero__trust { gap: 32px; margin-top: 48px; }
+}
+@media (max-width: 760px) {
+  .hero { min-height: auto; padding: 40px 0; }
+  .hero__content { padding: 40px var(--pad-x); }
+  .hero__title { font-size: clamp(32px, 8vw, 42px); }
+  .hero__actions { flex-direction: column; align-items: stretch; gap: 12px; margin-top: 32px; }
+  .hero__actions .btn { justify-content: center; }
+  .hero__trust { flex-direction: column; gap: 24px; margin-top: 40px; }
 }
