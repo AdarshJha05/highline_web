@@ -1,0 +1,314 @@
+<!DOCTYPE html>
+
+<html lang="en">
+<head>
+<meta charset="utf-8"/>
+<meta content="width=device-width, initial-scale=1" name="viewport"/>
+<title>NEBOSH-oriented training | Highline Fire & Safety Training Institute</title>
+<meta content="NEBOSH is a globally recognized safety qualification body based in the UK. NEBOSH courses are designed to develop professional-level knowledge in occu..." name="description"/>
+<link href="https://highlinefireandsafety.com/" rel="canonical"/>
+<meta content="Highline Fire &amp; Safety Training Institute" property="og:title"/>
+<meta content="Building safety careers beyond the classroom — certified fire &amp; safety courses in Karimnagar, Telangana." property="og:description"/>
+<meta content="website" property="og:type"/>
+<meta content="assets/img/hero-home.jpg" property="og:image"/>
+<link href="../assets/logo.webp" rel="icon" type="image/webp"/>
+<link href="../assets/logo.webp" rel="apple-touch-icon"/>
+<meta content="#2E8FE0" name="theme-color"/>
+<link href="https://fonts.googleapis.com" rel="preconnect"/>
+<link crossorigin="" href="https://fonts.gstatic.com" rel="preconnect"/>
+<link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600&amp;family=Montserrat:wght@600;700;800&amp;display=swap" rel="stylesheet"/>
+<link href="../assets/css/styles.css" rel="stylesheet"/>
+
+<style>
+/* Responsive course details grid */
+@media (max-width: 1024px) {
+  #main > .section > div { grid-template-columns: 1fr !important; gap: 40px !important; }
+  .panel { position: static !important; }
+}
+</style>
+  <link rel="canonical" href="https://www.highlinefireandsafety.in/courses/nebosh.html">
+  <script type="application/ld+json">{"@context": "https://schema.org", "@type": "Course", "name": "NEBOSH-oriented training", "description": "NEBOSH is a globally recognized safety qualification body based in the UK. NEBOSH courses are designed to develop professional-level knowledge in occupational health, safety, and environmental management. We offer NEBOSH-oriented training to help you gain in-depth understanding of workplace safety standards and risk management practices. Through this course, we explain how to identify hazards, assess risks, and implement effective control measures to prevent accidents, injuries, and occupational illnesses. In this program, we guide you through advanced safety topics such as health and safety management systems, legal requirements, incident investigation, fire and workplace safety, and emergency planning. The focus is on developing analytical thinking and practical application of safety principles in real working environments. NEBOSH training is suitable for students and professionals who want to pursue senior safety roles.", "provider": {"@type": "Organization", "name": "Highline Fire & Safety Training Institute", "sameAs": "https://www.highlinefireandsafety.in"}}</script>
+</head>
+<body>
+<a class="skip-link" href="#main">Skip to content</a>
+<!-- ==================== HEADER ==================== -->
+<header class="site-header">
+<nav aria-label="Primary" class="nav">
+<a aria-label="Highline Fire and Safety — Home" class="nav__brand" href="../index.html">
+<span class="nav__mark"><img alt="Highline Logo" height="32" src="../assets/logo.webp" width="32"/></span>
+<span class="nav__word"><b>Highline</b><span>FIRE &amp; SAFETY</span></span>
+</a>
+<div class="nav__links"><a class="nav__link" href="../index.html">Home</a>
+<a aria-current="page" class="nav__link is-active" href="../courses.html">Courses</a>
+<a class="nav__link" href="../about.html">About</a>
+<a class="nav__link" href="../admissions.html">Admissions</a>
+<a class="nav__link" href="../resources.html">Resources</a>
+<a class="nav__link" href="../contact.html">Contact</a>
+</div>
+<div class="nav__right">
+<a class="btn btn--primary" href="../admissions.html">Apply / Enquire</a>
+<button aria-controls="site-drawer" aria-expanded="false" aria-label="Open menu" class="nav__burger" data-burger="" type="button"><span></span><span></span><span></span></button>
+</div>
+</nav>
+</header>
+<script>
+  document.addEventListener('DOMContentLoaded', function() {
+    const params = new URLSearchParams(window.location.search);
+    const courseId = params.get('id');
+
+    if (!courseId) {
+      document.getElementById('course-title').textContent = "Course Not Found";
+      document.getElementById('course-desc').textContent = "Please return to the courses page to select a valid course.";
+      return;
+    }
+
+    fetch('assets/data/courses.json')
+      .then(response => response.json())
+      .then(courses => {
+        const course = courses.find(c => c.id === courseId);
+        
+        if (!course) {
+          document.getElementById('course-title').textContent = "Course Not Found";
+          document.getElementById('course-desc').textContent = "We could not find the details for this specific course.";
+          return;
+        }
+
+        // Hero
+        document.title = course.title + " | Highline Fire & Safety";
+        document.getElementById('course-title').textContent = course.title;
+        document.getElementById('course-desc').textContent = course.description;
+        document.getElementById('course-accreditation').textContent = "Accreditation: " + course.accreditation;
+        if(course.image) {
+            document.getElementById('course-hero-img').src = course.image;
+            document.getElementById('course-hero-img').style.opacity = '0.4';
+        }
+
+        // Main Content
+        document.getElementById('course-audience').textContent = course.audience;
+        
+        const outcomesList = document.getElementById('course-outcomes');
+        outcomesList.innerHTML = '';
+        course.outcomes.forEach(out => {
+          outcomesList.innerHTML += `<li style="display: flex; align-items: flex-start; gap: 12px;">
+              <span aria-hidden="true" style="color: var(--orange); font-size: 20px;">✓</span>
+              <p style="color: var(--navy); font-size: 16px; line-height: 1.5; margin: 0;">${out}</p>
+            </li>`;
+        });
+
+        const modulesList = document.getElementById('course-modules');
+        modulesList.innerHTML = '';
+        course.modules.forEach(mod => {
+          modulesList.innerHTML += `<div style="padding: 16px 20px; background: var(--mist); border-radius: 8px; border: 1px solid var(--border); font-weight: 600; color: var(--navy);">
+              ${mod}
+            </div>`;
+        });
+
+        const faqsList = document.getElementById('course-faqs');
+        faqsList.innerHTML = '';
+        course.faqs.forEach(faq => {
+          faqsList.innerHTML += `<div style="padding: 20px; border: 1px solid var(--border); border-radius: 12px; margin-bottom: 12px;">
+              <h4 style="font-size: 16px; font-weight: 700; color: var(--navy); margin-bottom: 8px;">${faq.q}</h4>
+              <p style="color: var(--muted-deep); font-size: 15px; margin: 0; line-height: 1.5;">${faq.a}</p>
+            </div>`;
+        });
+
+        // Sidebar
+        document.getElementById('course-duration').textContent = course.duration;
+        document.getElementById('course-mode').textContent = course.mode + " | " + course.location;
+        document.getElementById('course-eligibility').textContent = course.eligibility;
+        document.getElementById('course-fee').textContent = course.fee;
+        document.getElementById('course-batch').textContent = course.batch_dates;
+        document.getElementById('course-certification').textContent = course.certification;
+        
+      })
+      .catch(error => {
+        console.error("Error loading course:", error);
+        document.getElementById('course-title').textContent = "Data Error";
+        document.getElementById('course-desc').textContent = "Failed to load course information.";
+      });
+  });
+</script>
+
+</body></html>
+
+  <!-- ============================================================== HERO === -->
+  <header class="hero hero--inner" style="min-height: 50vh; padding-top: 140px; padding-bottom: 80px;">
+    <img id="course-hero-img" alt="Course Training" class="ph" fetchpriority="high" src="../assets/img/hero-home.jpg" style="object-fit: cover; opacity: 0.2;" />
+    <div class="hero__scrim"></div>
+    <div class="hero__content" style="padding-top: 0; max-width: 1000px; margin: 0 auto;">
+      <span class="eyebrow eyebrow--light" id="course-accreditation" style="display: inline-flex; background: rgba(255,255,255,0.1); padding: 8px 16px; border-radius: 100px; margin-bottom: 24px;">NEBOSH-oriented training</span>
+      <h1 class="hero__title" id="course-title" style="margin-bottom: 24px;">NEBOSH-oriented training</h1>
+      <div class="hero__blurb" style="max-width: 800px; font-size: 18px; line-height: 1.6; color: rgba(255,255,255,0.85);">
+        <p id="course-desc">NEBOSH is a globally recognized safety qualification body based in the UK. NEBOSH courses are designed to develop professional-level knowledge in occupational health, safety, and environmental management. We offer NEBOSH-oriented training to help you gain in-depth understanding of workplace safety standards and risk management practices. Through this course, we explain how to identify hazards, assess risks, and implement effective control measures to prevent accidents, injuries, and occupational illnesses. In this program, we guide you through advanced safety topics such as health and safety management systems, legal requirements, incident investigation, fire and workplace safety, and emergency planning. The focus is on developing analytical thinking and practical application of safety principles in real working environments. NEBOSH training is suitable for students and professionals who want to pursue senior safety roles.</p>
+      </div>
+    </div>
+  </header>
+
+  <main id="main">
+    
+    <section class="section" style="padding-top: 60px; padding-bottom: 80px;">
+      <div style="display: grid; grid-template-columns: 2fr 1fr; gap: 60px; align-items: start;">
+        
+        <!-- Left Column: Main Content -->
+        <div style="display: flex; flex-direction: column; gap: 48px;">
+          
+          <!-- Overview & Audience -->
+          <div>
+            <h2 class="h2" style="font-size: 28px; margin-bottom: 20px;">Course Overview</h2>
+            <p id="course-audience" style="color: var(--muted-deep); line-height: 1.7; font-size: 16px;">Ideal for: Safety Officer, HSE Officer, Safety Engineer, Safety Manager, HSE Consultant. Eligibility: 12th pass / Diploma / Degree, Recommended for serious safety career seekers, Basic English understanding required.</p>
+          </div>
+          
+          <!-- Learning Outcomes -->
+          <div>
+            <h2 class="h2" style="font-size: 28px; margin-bottom: 20px;">Learning Outcomes</h2>
+            <ul id="course-outcomes" style="list-style: none; padding: 0; margin: 0; display: flex; flex-direction: column; gap: 16px;"><li style="color: var(--muted-deep);">Refer to the course curriculum for detailed learning outcomes.</li></ul>
+          </div>
+          
+          <!-- Modules -->
+          <div>
+            <h2 class="h2" style="font-size: 28px; margin-bottom: 20px;">Course Modules</h2>
+            <div id="course-modules" style="display: flex; flex-direction: column; gap: 12px;"><div style="padding: 16px; border: 1px solid var(--border); border-radius: 8px; font-weight: 600; color: var(--navy);">Health & safety management</div><div style="padding: 16px; border: 1px solid var(--border); border-radius: 8px; font-weight: 600; color: var(--navy);">Risk assessment</div><div style="padding: 16px; border: 1px solid var(--border); border-radius: 8px; font-weight: 600; color: var(--navy);">Fire safety</div><div style="padding: 16px; border: 1px solid var(--border); border-radius: 8px; font-weight: 600; color: var(--navy);">Construction safety</div><div style="padding: 16px; border: 1px solid var(--border); border-radius: 8px; font-weight: 600; color: var(--navy);">Environmental safety</div><div style="padding: 16px; border: 1px solid var(--border); border-radius: 8px; font-weight: 600; color: var(--navy);">International safety laws</div></div>
+          </div>
+          
+          <!-- FAQs -->
+          <div>
+            <h2 class="h2" style="font-size: 28px; margin-bottom: 20px;">Frequently Asked Questions</h2>
+            <div id="course-faqs" style="display: flex; flex-direction: column; gap: 16px;"><div style="padding: 20px; border: 1px solid var(--border); border-radius: 12px; margin-bottom: 12px;"><h4 style="font-size: 16px; font-weight: 700; color: var(--navy); margin-bottom: 8px;">Are there placement guarantees?</h4><p style="color: var(--muted-deep); font-size: 15px; margin: 0; line-height: 1.5;">No. We provide placement assistance, interview preparation, and skill building. Success depends on individual performance.</p></div></div>
+          </div>
+
+        </div>
+
+        <!-- Right Column: Key Info Sidebar -->
+        <div class="panel" style="position: sticky; top: 120px; padding: 32px; box-shadow: var(--sh-panel); background: #fff;">
+          <h3 class="h3" style="font-size: 22px; margin-bottom: 24px; border-bottom: 1px solid var(--border-mid); padding-bottom: 16px;">Key Information</h3>
+          
+          <div style="display: flex; flex-direction: column; gap: 20px; margin-bottom: 32px;">
+            <div>
+              <span style="font-size: 12px; font-weight: 700; color: var(--faint); text-transform: uppercase; letter-spacing: 0.05em;">Duration</span>
+              <p id="course-duration" style="font-weight: 600; color: var(--navy); margin-top: 4px;">NEBOSH IGC: 10 Days online classes<br>NEBOSH HSA: 4 Days</p>
+            </div>
+            <div>
+              <span style="font-size: 12px; font-weight: 700; color: var(--faint); text-transform: uppercase; letter-spacing: 0.05em;">Delivery Mode & Location</span>
+              <p id="course-mode" style="font-weight: 600; color: var(--navy); margin-top: 4px;">Classroom, Online</p>
+            </div>
+            <div>
+              <span style="font-size: 12px; font-weight: 700; color: var(--faint); text-transform: uppercase; letter-spacing: 0.05em;">Eligibility</span>
+              <p id="course-eligibility" style="font-weight: 600; color: var(--navy); margin-top: 4px;">12th pass / Diploma / Degree<br>Recommended for serious safety career seekers<br>Basic English understanding required</p>
+            </div>
+            <div>
+              <span style="font-size: 12px; font-weight: 700; color: var(--faint); text-transform: uppercase; letter-spacing: 0.05em;">Course Fee</span>
+              <p id="course-fee" style="font-weight: 600; color: var(--navy); margin-top: 4px;">Contact us for current fee structures.</p>
+            </div>
+            <div>
+              <span style="font-size: 12px; font-weight: 700; color: var(--faint); text-transform: uppercase; letter-spacing: 0.05em;">Batch Availability</span>
+              <p id="course-batch" style="font-weight: 600; color: var(--navy); margin-top: 4px;">Contact admissions for schedule.</p>
+            </div>
+            <div>
+              <span style="font-size: 12px; font-weight: 700; color: var(--faint); text-transform: uppercase; letter-spacing: 0.05em;">Certification</span>
+              <p id="course-certification" style="font-weight: 600; color: var(--navy); margin-top: 4px; font-size: 14px; line-height: 1.5;">International General Certificate / Diploma</p>
+            </div>
+          </div>
+          
+          <a href="../admissions.html" class="btn btn--primary btn--block" style="justify-content: center; padding: 16px;">Apply / Enquire Now <span aria-hidden="true" style="margin-left:8px;">→</span></a>
+        </div>
+
+      </div>
+    </section>
+
+  </main>
+
+<footer class="footer">
+<div class="footer__card">
+<div class="footer__tile"><img alt="Safety helmet and gloves laid out on a workbench" class="ph" loading="lazy" src="../assets/img/footer-tile.jpg"/></div>
+<div>
+<div class="footer__brand">
+<img alt="" height="36" src="../assets/logo.webp" width="36"/>
+<b>Highline <em>Fire &amp; Safety</em></b>
+</div>
+<p class="footer__mission">Building safety professionals through structured training and certified education.</p>
+<form class="newsletter" data-newsletter="">
+<label class="sr-only" for="nl-email">Your email address</label>
+<input autocomplete="email" id="nl-email" placeholder="Your Email Address" required="" type="email"/>
+<button type="submit">Subscribe</button>
+</form>
+<p class="footer__fine">Subscribe to receive admission announcements, batch schedules, and safety training tips from Highline.</p>
+<p class="form-note" data-note="" role="status"></p>
+</div>
+<div class="footer__cols">
+<div class="footer__col">
+<p>Quick Links</p>
+<div class="link-grid">
+<a href="../index.html">Home <span aria-hidden="true">↗</span></a>
+<a href="../index.html#courses">Courses <span aria-hidden="true">↗</span></a>
+<a href="../about.html">About Us <span aria-hidden="true">↗</span></a>
+<a href="../index.html#blog">Blog <span aria-hidden="true">↗</span></a>
+<a href="../contact.html">Contact <span aria-hidden="true">↗</span></a>
+<a href="../index.html#fees">Fees <span aria-hidden="true">↗</span></a>
+</div>
+<p>Social Media</p>
+<div class="link-grid">
+<a href="https://www.facebook.com/highlinefireandsafety" rel="noopener" target="_blank">Facebook <span aria-hidden="true">↗</span></a>
+<a href="https://www.instagram.com/highlinefireandsafety" rel="noopener" target="_blank">Instagram <span aria-hidden="true">↗</span></a>
+<a href="https://www.linkedin.com/company/highlinefireandsafety" rel="noopener" target="_blank">LinkedIn <span aria-hidden="true">↗</span></a>
+<a href="https://wa.me/919392882152" rel="noopener" target="_blank">WhatsApp <span aria-hidden="true">↗</span></a>
+</div>
+<p class="footer__copy">© <span data-year="">2026</span> Highline Fire &amp; Safety Training Institute. All rights reserved. EOSH Approved Training Provider · IOSH Approved Training Provider 5380 · Bharat Sevak Samaj (TEL/9473)</p>
+</div>
+</div>
+</div>
+<div aria-hidden="true" class="footer__wordmark"><div>HighLine</div></div>
+<div class="footer__bar">
+<a href="mailto:highlinefireandsafety@gmail.com">highlinefireandsafety@gmail.com</a>
+<span><a href="tel:+918121118000">+91 812 111 8000</a> · <a href="tel:+919392882152">+91 93928 82152</a></span>
+<span>Beside Geetha Bhavan, opp. Jafri Masjid, Karimnagar, Telangana – 505001</span>
+</div>
+</footer>
+<!-- ==================================================== MOBILE DRAWER === -->
+<div class="drawer" data-drawer="" id="site-drawer">
+<div aria-label="Site menu" aria-modal="true" class="drawer__panel" role="dialog">
+<div class="drawer__head">
+<span class="drawer__brand"><img alt="" height="34" src="../assets/logo.webp" width="34"/>Highline <em>F&amp;S</em></span>
+<button aria-label="Close menu" class="drawer__close" data-drawer-close="" type="button">×</button>
+</div><a class="drawer__link" href="../index.html">Home</a>
+<a aria-current="page" class="drawer__link is-active" href="../courses.html">Courses</a>
+<a class="drawer__link" href="../about.html">About</a>
+<a class="drawer__link" href="../admissions.html">Admissions</a>
+<a class="drawer__link" href="../resources.html">Resources</a>
+<a class="drawer__link" href="../contact.html">Contact</a>
+<a class="btn btn--primary" href="../admissions.html">Apply / Enquire</a>
+<div class="drawer__meta">
+<a href="tel:+918121118000">+91 812 111 8000</a><br/>
+<a href="mailto:highlinefireandsafety@gmail.com">highlinefireandsafety@gmail.com</a><br/>
+      Beside Geetha Bhavan, Karimnagar – 505001
+    </div>
+</div>
+</div>
+<script>
+
+</script>
+<script defer="" src="../assets/js/site.js"></script>
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "EducationalOrganization",
+  "name": "Highline Fire and Safety Training Institute",
+  "url": "https://highlinefireandsafety.com/",
+  "email": "highlinefireandsafety@gmail.com",
+  "telephone": ["+918121118000", "+919392882152"],
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Beside Geetha Bhavan, opp. Jafri Masjid",
+    "addressLocality": "Karimnagar",
+    "addressRegion": "Telangana",
+    "postalCode": "505001",
+    "addressCountry": "IN"
+  },
+  "geo": { "@type": "GeoCoordinates", "latitude": 18.4386, "longitude": 79.1288 }
+}
+</script>
+<!-- FLOATING WHATSAPP -->
+<a aria-label="Chat on WhatsApp" class="float-wa" href="https://wa.me/919392882152" rel="noopener" target="_blank">
+<svg fill="currentColor" height="24" viewbox="0 0 24 24" width="24"><path d="M17.472 14.382c-.297-.149-1.758-.867-2.03-.967-.273-.099-.471-.148-.67.15-.197.297-.767.966-.94 1.164-.173.199-.347.223-.644.075-.297-.15-1.255-.463-2.39-1.475-.888-.788-1.489-1.761-1.663-2.06-.173-.297-.018-.458.13-.606.134-.133.298-.347.446-.52.149-.174.198-.298.298-.497.099-.198.05-.371-.025-.52-.075-.149-.669-1.612-.916-2.207-.242-.579-.487-.5-.669-.51a12.8 12.8 0 0 0-.57-.01c-.198 0-.52.074-.792.372-.272.297-1.04 1.016-1.04 2.479 0 1.462 1.065 2.875 1.213 3.074.149.198 2.096 3.2 5.077 4.487.709.306 1.262.489 1.694.625.712.227 1.36.195 1.871.118.571-.085 1.758-.719 2.006-1.413.248-.694.248-1.289.173-1.413-.074-.124-.272-.198-.57-.347m-5.421 7.403h-.004a9.87 9.87 0 0 1-5.031-1.378l-.361-.214-3.741.982.998-3.648-.235-.374a9.86 9.86 0 0 1-1.51-5.26c.001-5.45 4.436-9.884 9.888-9.884 2.64 0 5.122 1.03 6.988 2.898a9.82 9.82 0 0 1 2.893 6.994c-.003 5.45-4.437 9.884-9.885 9.884m8.413-18.297A11.81 11.81 0 0 0 12.05 0C5.495 0 .16 5.335.157 11.892c0 2.096.547 4.142 1.588 5.945L.057 24l6.305-1.654a11.88 11.88 0 0 0 5.683 1.448h.005c6.554 0 11.89-5.335 11.893-11.893a11.82 11.82 0 0 0-3.48-8.413Z"></path></svg>
+</a>
+
+

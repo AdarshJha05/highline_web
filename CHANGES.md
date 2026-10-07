@@ -12,3 +12,13 @@ The following dev scripts generated unsupported facts and have been quarantined 
 - **Batches**: Removed all global batch date promises.
 - **Scope Misrepresentations**: Removed "Confirm & Pay" text and payment gateway illusions from the admissions flow.
 
+
+## Phase 2: Scope Honesty
+- **Admissions Flow**: Rewrote the 'Confirm & Pay' section to explicitly clarify it is an enquiry workflow. Added fallback instructions for the 'mailto:' action.
+- **Legal Placeholders**: Created privacy.html and 	erms.html pending legal review.
+- **Funnel Architecture**: Drafted docs/REGISTRATION_PLAN.md to outline the future Vercel serverless integration.
+
+## Phase 3: SEO & Routing
+- **Static Generation**: Created 	ools/generate_pages.py to statically render the 16 courses into website/courses/<slug>.html.
+- **Routing**: Updated courses.html and index.html to point directly to the static .html files. Added ercel.json to handle redirects from the old query-param URLs.
+- **Sitemap**: Generated sitemap.xml listing all top-level pages and the 16 course pages.
