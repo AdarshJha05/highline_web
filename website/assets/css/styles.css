@@ -1382,9 +1382,6 @@ h1, h2, h3, h4 { font-family: 'Montserrat', sans-serif; color: var(--navy); }
   .hero { min-height: 590px; padding: 262px 20px 26px; }
   
   
-  .hero--inner .hero__title,
-  .hero--contact 
-  
   .hero__scroll { display: none; }
   
   
