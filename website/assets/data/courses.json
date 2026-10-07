@@ -2,78 +2,61 @@
   {
     "id": "advanced-diploma-hse",
     "slug": "advanced-diploma-hse",
-    "title": "Advanced Diploma in HSE (ADHSE)",
+    "title": "Advance Diploma in Health, Safety & Environment (ADHSE)",
     "category": "Diplomas & Advanced Diplomas",
     "level": "Advanced Diploma",
-    "duration_text": "Minimum 200 taught hours | 1 Year",
-    "description": "A comprehensive professional program designed for learners who want to build a strong foundation and develop practical expertise in workplace Health, Safety and Environmental management. Covers occupational safety, hazard identification, risk assessment, fire safety, construction safety, industrial safety, emergency preparedness and environmental management.",
+    "duration_text": "1 Year",
+    "description": "We offer the Advance Diploma in Health, Safety & Environment (HSE) to support you in building a confident and successful career in the safety profession. We guide you through the core principles of occupational health, workplace safety, and environmental management — helping you understand not just the rules, but the reasons behind them.",
+    "overview": "We offer the Advance Diploma in Health, Safety & Environment (HSE) to support you in building a confident and successful career in the safety profession. In this program, we guide you through the core principles of occupational health, workplace safety, and environmental management, helping you understand not just the rules—but the reasons behind them.\n\nWe focus on real-world safety practices used across construction sites, industries, and high-risk work environments. You will learn how to identify workplace hazards, assess risks, develop control measures, and implement safety systems that protect people, property, and the environment.\n\nThrough practical training, case studies, and industry-relevant guidance, we prepare you to meet professional safety responsibilities with confidence. Our goal is to equip you with the knowledge, skills, and mindset needed to promote a strong safety culture and make a real difference in workplaces.",
+    "who_is_it_for": "Suitable for students, freshers, safety professionals and working personnel who want to develop a career in Health, Safety and Environment. No prior experience required.",
     "eligibility": [
-      "No entry requirements",
-      "Suitable standard of English recommended (IELTS 5.0 equivalent or higher)"
+      "10th or above",
+      "Freshers or working professionals",
+      "No prior experience required"
     ],
     "duration": [
       {
         "label": "Duration",
-        "verbatim": "1 Year (minimum 200 taught hours)"
+        "verbatim": "1 Year"
       }
     ],
-    "overview": "The Advanced Diploma in Health, Safety and Environment (ADHSE) is a comprehensive professional program designed for learners who want to build a strong foundation and develop practical expertise in workplace Health, Safety and Environmental management. The program covers important aspects of occupational safety, hazard identification, risk assessment, fire safety, construction safety, industrial safety, emergency preparedness and environmental management. It is designed to help learners understand how safety principles can be applied effectively in real workplace situations.",
-    "who_is_it_for": "Anyone who needs to understand the principles of health and safety as part of their job will benefit from taking this qualification. The course provides a valuable overview, which can act as a sound basis for further study. This course can be your first step towards a rewarding career in the field of health and safety.",
+    "topics": [
+      "Management of Health & Safety",
+      "Safeguarding People's Safety in the Workplace",
+      "Safeguarding People's Health in the Workplace"
+    ],
     "learner_benefits": [
-      "The course is a perfect foundation to Health and Safety knowledge for beginners",
-      "The course provides the ability to inspect the workplace, recognize a range of common safety and health hazards, evaluate risks (taking account of current controls), recommending further control measures and assigning actions."
+      "Build a strong foundation in Health, Safety and Environmental management",
+      "Identify workplace hazards and assess risks effectively",
+      "Develop and implement safety control measures",
+      "Promote a strong safety culture in real workplaces"
     ],
     "employer_benefits": [
-      "Reduce incident and injury rates, and the associated lost time and absence",
+      "Reduce incident and injury rates and associated lost time",
       "Foster greater health and safety awareness amongst employees",
       "Improve employee engagement and enhance safety culture",
       "Secure higher levels of compliance with organisational safety measures"
     ],
-    "topics": [
-      "Unit 1: Management of Health & Safety",
-      "Unit 2: Safeguarding People's Safety in the Workplace",
-      "Unit 3: Safeguarding People's Health in the Workplace"
-    ],
-    "assessment": [
-      "Unit 1: Scenario based OBE and Viva (closing interview)",
-      "Unit 2: MCQs and Practical risk assessment",
-      "Unit 3: MCQs and Practical risk assessment"
-    ],
-    "careerBenefits": [
-      "First step towards a rewarding career in Health, Safety and Environment",
-      "Ability to conduct workplace inspections and hazard identification",
-      "Foundation for further study in IOSH, NEBOSH, OSHA/IASP qualifications",
-      "Improved competency for workplace safety roles"
-    ],
     "jobRoles": [
-      "HSE Officer",
-      "Safety Assistant",
-      "Safety Supervisor",
-      "Safety Coordinator",
-      "EHS Executive"
+      "Fire Safety Officer",
+      "Fire Marshal",
+      "Emergency Response Staff",
+      "Safety Officer"
     ],
-    "progression": [
-      "IOSH Managing Safely",
-      "NEBOSH International General Certificate",
-      "NEBOSH National General Certificate",
-      "NASP / IASP Advance Diploma in OSH"
+    "workAreas": [
+      "Factories",
+      "Malls",
+      "Hospitals",
+      "Construction Sites",
+      "Oil & Gas Plants"
     ],
-    "suitableFor": "Students, freshers, safety professionals and working personnel who want to develop a career in Health, Safety and Environment.",
-    "trainingMethod": "Classroom Training, Online Training, Blended Learning",
+    "trainingMethod": "Classroom Training and Online Classes",
     "deliveryMode": [
       "Classroom",
-      "Online",
-      "Blended Learning"
+      "Online"
     ],
-    "certification": "Advanced Diploma in HSE (ADHSE) from Highline Fire and Safety Training Institute",
-    "fee": null,
-    "workAreas": [
-      "Construction",
-      "Oil & Gas",
-      "Industrial",
-      "Manufacturing",
-      "Healthcare"
-    ]
+    "certification": "Advance Diploma in HSE (ADHSE) from Highline Fire and Safety Training Institute",
+    "fee": null
   },
   {
     "id": "pg-diploma-fire-safety",
@@ -82,39 +65,19 @@
     "category": "Diplomas & Advanced Diplomas",
     "level": "PG Diploma",
     "duration_text": "1 Year",
-    "description": "A comprehensive professional programme designed to develop knowledge and practical skills in fire prevention, fire protection, emergency preparedness and fire risk management. Covers fire science principles, firefighting systems, fire safety management and emergency response across industrial, construction and commercial environments.",
+    "description": "A comprehensive professional programme to develop knowledge and practical skills in fire prevention, fire protection, emergency preparedness and fire risk management. Covers fire science principles, firefighting systems, fire safety management and emergency response across industrial, construction and commercial environments.",
+    "overview": "The PG Diploma in Fire Safety is a comprehensive professional programme designed to develop knowledge and practical skills in fire prevention, fire protection, emergency preparedness and fire risk management. The programme provides learners with an understanding of the principles of fire science, fire prevention, firefighting systems, fire safety management and emergency response. It also covers the identification of fire hazards, assessment of fire risks and implementation of appropriate control measures to help protect people, property and the environment.",
+    "who_is_it_for": "Anyone who wants to develop professional knowledge and skills in fire safety and emergency management. Suitable for students, freshers and working professionals who want to build a career in fire safety or strengthen their existing knowledge related to workplace fire prevention and emergency response.",
     "eligibility": [
       "Any Degree (preferred)",
       "Diploma holders and 12th-pass candidates may also be considered",
-      "Suitable level of English language proficiency recommended"
+      "Suitable English language proficiency recommended"
     ],
     "duration": [
       {
         "label": "Duration",
         "verbatim": "1 Year"
       }
-    ],
-    "overview": "The PG Diploma in Fire Safety is a comprehensive professional programme designed to develop knowledge and practical skills in fire prevention, fire protection, emergency preparedness and fire risk management. The programme provides learners with an understanding of the principles of fire science, fire prevention, firefighting systems, fire safety management and emergency response.",
-    "who_is_it_for": "Anyone who wants to develop professional knowledge and skills in fire safety and emergency management. Suitable for students, freshers and working professionals who want to build a career in fire safety or strengthen their existing knowledge and responsibilities related to workplace fire prevention and emergency response.",
-    "learner_benefits": [
-      "Understand the fundamental principles of fire and fire behaviour",
-      "Identify common workplace fire hazards and sources of ignition",
-      "Understand the different classes of fire and appropriate extinguishing methods",
-      "Assess fire risks and recommend suitable control measures",
-      "Understand the selection and use of firefighting equipment",
-      "Develop awareness of fire detection and alarm systems",
-      "Understand emergency evacuation procedures and emergency response arrangements",
-      "Participate in fire safety inspections and identify areas requiring improvement",
-      "Understand basic fire protection systems used in buildings and industrial facilities",
-      "Support the development of workplace emergency plans and fire safety procedures"
-    ],
-    "employer_benefits": [
-      "Reduce the likelihood and potential impact of workplace fires",
-      "Improve fire prevention and emergency preparedness",
-      "Increase employee awareness of fire hazards and safe working practices",
-      "Strengthen workplace fire safety culture",
-      "Improve emergency response and evacuation arrangements",
-      "Protect employees, visitors, property and business operations"
     ],
     "topics": [
       "Module 1: Fundamentals of Fire Safety",
@@ -128,19 +91,27 @@
       "Module 9: Emergency Response and Incident Management",
       "Module 10: Fire Safety Inspection and Management"
     ],
+    "learner_benefits": [
+      "Understand the fundamental principles of fire and fire behaviour",
+      "Identify common workplace fire hazards and sources of ignition",
+      "Understand different classes of fire and appropriate extinguishing methods",
+      "Assess fire risks and recommend suitable control measures",
+      "Develop awareness of fire detection, alarm and fixed suppression systems",
+      "Support emergency evacuation planning and emergency drills"
+    ],
+    "employer_benefits": [
+      "Reduce the likelihood and impact of workplace fires",
+      "Improve fire prevention and emergency preparedness",
+      "Strengthen workplace fire safety culture",
+      "Protect employees, visitors, property and business operations"
+    ],
     "assessment": [
       "Written examinations",
       "Multiple Choice Questions (MCQs)",
       "Practical assignments",
       "Fire risk assessment activities",
       "Fire safety inspection exercises",
-      "Case studies and scenario-based activities",
-      "Practical demonstrations"
-    ],
-    "careerBenefits": [
-      "Career opportunities in fire prevention, fire protection and emergency management",
-      "Foundation for further study in IOSH, NEBOSH, OSHA/EOSH qualifications",
-      "Practical skills applicable across industrial, commercial and construction environments"
+      "Case studies and scenario-based activities"
     ],
     "jobRoles": [
       "Fire Safety Officer",
@@ -154,21 +125,6 @@
       "Fire Safety Inspector",
       "HSE / EHS Professional"
     ],
-    "progression": [
-      "Occupational Health and Safety",
-      "Fire Risk Assessment",
-      "Emergency Management",
-      "IOSH, NEBOSH, OSHA/IASP, EOSH qualifications"
-    ],
-    "suitableFor": "12th-pass students, diploma holders, graduates, freshers, fire and safety students, working professionals, safety supervisors and officers.",
-    "trainingMethod": "Classroom Training, Online Training, Blended Learning",
-    "deliveryMode": [
-      "Classroom",
-      "Online",
-      "Blended Learning"
-    ],
-    "certification": "PG Diploma in Fire Safety from Highline Fire and Safety Training Institute",
-    "fee": null,
     "workAreas": [
       "Manufacturing",
       "Construction",
@@ -178,7 +134,15 @@
       "Hotels",
       "Commercial Buildings",
       "Educational Institutions"
-    ]
+    ],
+    "trainingMethod": "Classroom Training, Online Training, Blended Learning",
+    "deliveryMode": [
+      "Classroom",
+      "Online",
+      "Blended Learning"
+    ],
+    "certification": "PG Diploma in Fire Safety from Highline Fire and Safety Training Institute",
+    "fee": null
   },
   {
     "id": "diploma-fire-safety",
@@ -187,11 +151,13 @@
     "category": "Diplomas & Advanced Diplomas",
     "level": "Diploma",
     "duration_text": "6 Months",
-    "description": "A professional programme designed to provide learners with essential knowledge and practical skills in fire prevention, fire protection and emergency response. Covers fire hazards, firefighting equipment, fire safety procedures and effective emergency response.",
+    "description": "Designed to provide learners with essential knowledge and practical skills to prevent, control, and respond to fire emergencies in the workplace. Covers causes of fire, types of extinguishers, alarm systems, evacuation procedures, and emergency response techniques.",
+    "overview": "The Diploma in Fire Safety is designed to provide learners with essential knowledge and practical skills to prevent, control, and respond to fire emergencies in the workplace. Fires can occur in any environment, including offices, factories, construction sites, and industrial plants, and proper training is necessary to minimise risks and protect lives and property.\n\nThis course teaches students about the causes of fire, types of fire extinguishers, alarm systems, evacuation procedures, and emergency response techniques. With a strong focus on safety awareness and hands-on practice, learners become confident in handling fire-related incidents. This diploma is ideal for those who wish to build a career as a fire safety officer, fire marshal, or emergency response professional.",
+    "who_is_it_for": "Ideal for 10th-pass students, freshers and working professionals who want to build a career in fire safety and emergency response. No prior fire safety experience is required.",
     "eligibility": [
-      "10th pass or above",
-      "Freshers and working professionals",
-      "No prior fire safety experience required"
+      "10th or above",
+      "Freshers or working professionals",
+      "No prior experience required"
     ],
     "duration": [
       {
@@ -199,58 +165,43 @@
         "verbatim": "6 Months"
       }
     ],
-    "overview": "The Diploma in Fire Safety is a professional programme designed to provide learners with essential knowledge and practical skills in fire prevention, fire protection and emergency response. The course helps learners understand fire hazards, firefighting equipment, fire safety procedures and effective emergency response.",
-    "who_is_it_for": "Suitable for 10th-pass students, freshers and working professionals who want to build a career in fire safety and emergency response. No prior fire safety experience is required.",
-    "learner_benefits": [
-      "Identify common fire hazards",
-      "Understand different classes of fire",
-      "Select appropriate fire extinguishers",
-      "Understand basic firefighting equipment",
-      "Identify and assess fire risks",
-      "Implement suitable fire safety control measures",
-      "Support emergency evacuation and response",
-      "Conduct basic fire safety inspections"
-    ],
     "topics": [
-      "Introduction to Fire & Fire Science",
-      "Fire Triangle & Fire Behaviour",
-      "Classes of Fire",
-      "Types of Fire Extinguishers",
-      "Firefighting Equipment",
-      "Fire Prevention & Control Measures",
+      "Fundamentals of Fire Science",
+      "Fire Prevention & Protection",
+      "Firefighting Equipment & Techniques",
+      "Emergency Planning & Evacuation",
       "Fire Risk Assessment",
-      "Fire Alarm & Detection Systems",
-      "Fire Hydrant & Sprinkler Systems",
-      "Emergency Evacuation",
-      "Workplace Fire Safety",
-      "Basic First Aid & Emergency Response",
-      "Fire Safety Inspection"
+      "Industrial Fire Safety",
+      "Legal Framework & Standards",
+      "Practical Training & Drills"
     ],
-    "careerBenefits": [
-      "Entry-level roles in fire safety and emergency management",
-      "Foundation for further professional development in fire safety"
+    "learner_benefits": [
+      "Identify common fire hazards in any workplace environment",
+      "Select and operate appropriate fire extinguishers",
+      "Conduct basic fire risk assessments",
+      "Support emergency evacuation and response procedures",
+      "Conduct basic fire safety inspections"
     ],
     "jobRoles": [
       "Fire Safety Officer",
-      "Fire Safety Assistant",
       "Fire Marshal",
-      "Fire Safety Supervisor",
       "Emergency Response Staff",
-      "Fire & Safety Assistant"
+      "Safety Officer"
     ],
-    "trainingMethod": "Classroom Training, Online Training",
+    "workAreas": [
+      "Factories",
+      "Malls",
+      "Hospitals",
+      "Construction Sites",
+      "Oil & Gas Plants"
+    ],
+    "trainingMethod": "Classroom Training and Online Classes",
     "deliveryMode": [
       "Classroom",
       "Online"
     ],
     "certification": "Diploma in Fire Safety from Highline Fire and Safety Training Institute",
-    "fee": null,
-    "workAreas": [
-      "Industrial",
-      "Construction",
-      "Commercial",
-      "Residential"
-    ]
+    "fee": null
   },
   {
     "id": "diploma-construction-safety",
@@ -258,68 +209,56 @@
     "title": "Diploma in Construction Safety",
     "category": "Diplomas & Advanced Diplomas",
     "level": "Diploma",
-    "duration_text": "6 Months",
-    "description": "Designed to provide practical knowledge of construction site safety, hazard identification, risk management and appropriate control measures. Prepares participants to promote safe working practices and support effective safety management on construction sites.",
+    "duration_text": "1–4 Weeks",
+    "description": "Focuses on promoting safe working practices in construction environments where risk of accidents is higher due to heavy machinery, heights, and moving equipment. Covers hazard identification, PPE, accident prevention, site inspections, and safety procedures.",
+    "overview": "The Construction Safety course focuses on promoting safe working practices in construction environments, where the risk of accidents is often higher due to heavy machinery, heights, and moving equipment. This program helps learners understand common construction hazards and teaches them how to follow safety rules, use personal protective equipment correctly, and maintain a secure worksite.\n\nStudents gain practical knowledge in accident prevention, site inspections, and safety procedures that reduce injuries and ensure smooth project operations. This course is highly beneficial for individuals planning to work on construction sites as safety officers, supervisors, or skilled workers who want to prioritise safety at work.",
+    "who_is_it_for": "Suitable for construction workers, supervisors, safety officers, engineers, freshers and anyone wanting to build a career in construction site safety.",
     "eligibility": [
-      "10th / 12th Pass Students",
-      "Freshers",
-      "Construction Workers & Supervisors",
-      "Safety Professionals, Engineers, Working Professionals"
+      "10th / 12th Pass",
+      "Freshers and working professionals",
+      "No prior experience required"
     ],
     "duration": [
       {
         "label": "Duration",
-        "verbatim": "6 Months"
+        "verbatim": "1–4 Weeks"
       }
     ],
-    "overview": "The Diploma in Construction Safety is designed to provide practical knowledge of construction site safety, hazard identification, risk management and appropriate control measures. The course prepares participants to promote safe working practices and support effective safety management on construction sites.",
-    "who_is_it_for": "Suitable for 10th/12th Pass Students, Freshers, Construction Workers & Supervisors, Safety Professionals, Engineers, Site Supervisors and Working Professionals.",
-    "learner_benefits": [
-      "Identify construction site hazards",
-      "Conduct basic risk assessments",
-      "Implement appropriate control measures",
-      "Promote safe use of PPE and equipment",
-      "Support work-at-height and excavation safety",
-      "Assist in construction site safety inspections"
-    ],
     "topics": [
-      "Construction Safety Fundamentals",
+      "Introduction to Construction Safety",
+      "Construction Safety Management",
       "Hazard Identification & Risk Assessment",
-      "Personal Protective Equipment (PPE)",
-      "Work at Height & Fall Protection",
-      "Scaffolding Safety",
-      "Excavation & Trenching Safety",
-      "Machinery & Equipment Safety",
-      "Electrical Safety",
-      "Lifting & Material Handling",
-      "Fire Safety & Emergency Response",
-      "Housekeeping & Site Safety",
-      "Accident Prevention & Reporting"
+      "Site Safety Practices",
+      "Work at Height Safety",
+      "Lifting Operations & Equipment Safety",
+      "Excavation & Confined Space Safety",
+      "Emergency Preparedness & Incident Investigation",
+      "Legal Requirements & Standards",
+      "Practical Training & Site Visits"
     ],
-    "careerBenefits": [
-      "Entry-level roles in construction safety",
-      "Foundation for advanced construction safety qualifications"
+    "learner_benefits": [
+      "Identify and control common construction site hazards",
+      "Apply safe work-at-height and excavation practices",
+      "Support site safety inspections and reporting",
+      "Promote safe use of PPE and equipment on site"
     ],
     "jobRoles": [
       "Construction Safety Officer",
-      "Site Safety Supervisor",
-      "Safety Assistant",
-      "HSE Assistant",
-      "Construction Safety Coordinator",
-      "Site Supervisor"
+      "Site Supervisor",
+      "Safety Assistant"
     ],
-    "trainingMethod": "Classroom Training, Online Training",
+    "workAreas": [
+      "Construction Sites",
+      "Infrastructure Projects",
+      "Industrial Facilities"
+    ],
+    "trainingMethod": "Classroom Training and Online Classes",
     "deliveryMode": [
       "Classroom",
       "Online"
     ],
     "certification": "Diploma in Construction Safety from Highline Fire and Safety Training Institute",
-    "fee": null,
-    "workAreas": [
-      "Construction Sites",
-      "Infrastructure Projects",
-      "Industrial Facilities"
-    ]
+    "fee": null
   },
   {
     "id": "diploma-industrial-safety",
@@ -327,82 +266,463 @@
     "title": "Diploma in Industrial Safety",
     "category": "Diplomas & Advanced Diplomas",
     "level": "Diploma",
-    "duration_text": "6 Months",
-    "description": "Provides practical knowledge of workplace safety, hazard identification, risk assessment and appropriate control measures. Prepares participants to support effective safety management across industrial and workplace environments.",
+    "duration_text": "Certificate: 3–6 months | Diploma: 1 Year | Advanced/PG Diploma: 1–2 Years",
+    "description": "Designed to train learners in maintaining safe working conditions in factories, construction sites, warehouses and manufacturing industries. Focuses on accident prevention, hazard identification, fire prevention, risk control, and compliance with safety regulations.",
+    "overview": "The Industrial Safety course is designed to train learners in maintaining safe working conditions in factories, construction sites, warehouses, and manufacturing industries. It focuses on preventing workplace accidents, reducing hazards, and ensuring compliance with safety rules and regulations. Learners develop knowledge in hazard identification, risk control, fire prevention, and worker protection, helping organisations create a safe and productive work environment.",
+    "who_is_it_for": "Suitable for 10th/12th pass students, ITI/Diploma/Degree holders, freshers and working professionals. No prior safety experience required.",
     "eligibility": [
-      "10th / 12th Pass Students",
-      "Freshers",
-      "Safety Professionals, Industrial Workers & Supervisors",
-      "Engineers, Working Professionals"
+      "10th / 12th pass or above",
+      "ITI / Diploma / Degree holders can apply",
+      "Freshers and working professionals",
+      "No prior safety experience required"
     ],
     "duration": [
       {
-        "label": "Duration",
-        "verbatim": "6 Months"
+        "label": "Certificate",
+        "verbatim": "3–6 months"
+      },
+      {
+        "label": "Diploma",
+        "verbatim": "1 Year"
+      },
+      {
+        "label": "Advanced / PG Diploma",
+        "verbatim": "1–2 Years"
       }
     ],
-    "overview": "The Diploma in Industrial Safety provides practical knowledge of workplace safety, hazard identification, risk assessment and appropriate control measures. The course prepares participants to support effective safety management across industrial and workplace environments.",
-    "who_is_it_for": "Suitable for 10th/12th Pass Students, Freshers, Safety Professionals, Industrial Workers & Supervisors, Engineers, Site & Safety Supervisors and Working Professionals.",
-    "learner_benefits": [
-      "Identify workplace and industrial hazards",
-      "Conduct basic risk assessments",
-      "Implement appropriate control measures",
-      "Support safety inspections and monitoring",
-      "Promote safe working practices",
-      "Assist in accident prevention and emergency response"
-    ],
     "topics": [
-      "Industrial Safety Fundamentals",
-      "Hazard Identification & Risk Assessment",
-      "Personal Protective Equipment (PPE)",
-      "Fire Safety & Emergency Response",
+      "Safety Management System (SMS)",
+      "Hazard Identification & Risk Assessment (HIRA/JSA)",
+      "Fire Prevention & Firefighting",
+      "Construction Safety",
       "Electrical Safety",
-      "Machine & Equipment Safety",
-      "Work at Height",
-      "Scaffolding Safety",
-      "Lifting & Material Handling",
-      "Chemical & Hazardous Substance Safety",
-      "Permit-to-Work System",
-      "Accident Prevention & Investigation",
+      "PPE & Work Permit System",
+      "First Aid",
+      "Accident Investigation",
       "Industrial Hygiene",
-      "Workplace Safety Inspections"
+      "Safety Laws & Regulations"
     ],
-    "careerBenefits": [
-      "Entry-level roles in industrial safety",
-      "Foundation for advanced safety qualifications"
+    "learner_benefits": [
+      "Identify and control workplace and industrial hazards",
+      "Conduct basic risk assessments and safety inspections",
+      "Implement fire prevention and emergency response measures",
+      "Support accident prevention and comply with safety regulations"
     ],
     "jobRoles": [
       "Safety Officer",
-      "Industrial Safety Supervisor",
-      "Safety Assistant",
-      "HSE Assistant",
-      "Safety Coordinator",
-      "Safety Supervisor"
+      "HSE Officer",
+      "Site Safety Supervisor",
+      "Safety Inspector",
+      "EHS Executive",
+      "Fire & Safety Technician"
     ],
-    "trainingMethod": "Classroom Training, Online Training",
+    "workAreas": [
+      "Factories",
+      "Manufacturing",
+      "Construction Sites",
+      "Warehouses",
+      "Power Plants"
+    ],
+    "trainingMethod": "Classroom Training and Online Classes",
     "deliveryMode": [
       "Classroom",
       "Online"
     ],
     "certification": "Diploma in Industrial Safety from Highline Fire and Safety Training Institute",
-    "fee": null,
+    "fee": null
+  },
+  {
+    "id": "diploma-oil-gas-safety",
+    "slug": "diploma-oil-gas-safety",
+    "title": "Diploma in Oil & Gas Safety",
+    "category": "Diplomas & Advanced Diplomas",
+    "level": "Diploma",
+    "duration_text": "Certificate: 3–6 months | Diploma: 1 Year | PG Diploma/Advanced: 1–2 Years",
+    "description": "A specialised safety training program focused on high-risk operations in refineries, offshore rigs, drilling sites, pipelines and petrochemical plants. Prepares learners to manage explosions, toxic gases, confined spaces and process hazards while ensuring strict safety compliance.",
+    "overview": "The Oil & Gas Safety course is a specialised safety training program focused on high-risk operations in refineries, offshore rigs, drilling sites, pipelines, and petrochemical plants. It prepares learners to manage explosions, toxic gases, confined spaces, and process hazards while ensuring strict safety compliance. This field requires advanced safety skills and offers higher salary and overseas opportunities.",
+    "who_is_it_for": "Suitable for students and professionals targeting careers in the oil & gas, petrochemical and offshore industries. Ideal for those seeking Gulf and international safety roles.",
+    "eligibility": [
+      "10th / 12th pass or above",
+      "Freshers and working professionals",
+      "No prior experience required"
+    ],
+    "duration": [
+      {
+        "label": "Certificate",
+        "verbatim": "3–6 months"
+      },
+      {
+        "label": "Diploma",
+        "verbatim": "1 Year"
+      },
+      {
+        "label": "PG Diploma / Advanced",
+        "verbatim": "1–2 Years"
+      }
+    ],
+    "topics": [
+      "Process Safety Management (PSM)",
+      "Permit-to-Work System",
+      "HAZOP & HAZID Studies",
+      "Confined Space Safety",
+      "Fire & Explosion Prevention",
+      "Gas Detection & Monitoring",
+      "Chemical Handling Safety",
+      "Emergency & Disaster Management",
+      "Lockout–Tagout (LOTO)",
+      "Offshore & Rig Safety"
+    ],
+    "learner_benefits": [
+      "Manage process and explosion hazards in oil & gas environments",
+      "Implement permit-to-work and isolation procedures",
+      "Conduct HAZOP/HAZID studies and gas detection monitoring",
+      "Prepare and execute emergency and disaster response plans"
+    ],
+    "jobRoles": [
+      "HSE Officer (Oil & Gas)",
+      "Process Safety Engineer",
+      "Rig Safety Officer",
+      "Offshore Safety Supervisor",
+      "Fire & Rescue Officer",
+      "Safety Auditor",
+      "Loss Prevention Engineer"
+    ],
     "workAreas": [
-      "Industrial Facilities",
-      "Manufacturing",
-      "Oil & Gas",
-      "Construction"
-    ]
+      "Oil Refineries",
+      "Offshore Rigs",
+      "Drilling Sites",
+      "Petrochemical Plants",
+      "Pipelines"
+    ],
+    "trainingMethod": "Classroom Training and Online Classes",
+    "deliveryMode": [
+      "Classroom",
+      "Online"
+    ],
+    "certification": "Diploma in Oil & Gas Safety from Highline Fire and Safety Training Institute",
+    "fee": null
+  },
+  {
+    "id": "bss-advanced-diploma-oshem",
+    "slug": "bss-advanced-diploma-oshem",
+    "title": "BSS Advanced Diploma in Occupational Safety, Health & Environmental Management",
+    "category": "Diplomas & Advanced Diplomas",
+    "level": "Advanced Diploma",
+    "duration_text": "1 Year",
+    "description": "A comprehensive professional program developing skilled safety professionals capable of managing workplace health, safety and environmental responsibilities across various industries. Covers hazard identification, risk control, accident prevention, legal compliance and environmental protection.",
+    "overview": "The BSS Advanced Diploma in Occupational Safety, Health & Environmental Management is a comprehensive professional program designed to develop skilled safety professionals capable of managing workplace health, safety, and environmental responsibilities across various industries. This course provides in-depth knowledge of hazard identification, risk control, accident prevention, legal compliance, and environmental protection practices.\n\nLearners gain a strong understanding of safety management systems, emergency preparedness, and safe work procedures required in construction sites, factories, oil & gas plants, and industrial environments. With a focus on practical, industry-oriented training, the program prepares students to confidently handle real-world safety challenges and build successful careers as Safety Officers, HSE Officers, and Safety Supervisors both in India and abroad.",
+    "who_is_it_for": "Suitable for 10th/12th pass students, ITI/Diploma/Degree holders, freshers and working professionals. No prior safety experience required.",
+    "eligibility": [
+      "10th / 12th pass or above",
+      "ITI / Diploma / Degree holders can apply",
+      "Freshers and working professionals",
+      "No prior safety experience required"
+    ],
+    "duration": [
+      {
+        "label": "Duration",
+        "verbatim": "1 Year"
+      }
+    ],
+    "topics": [
+      "International Management for Health & Safety – I & II",
+      "International Workplace Safety – I & II",
+      "Environmental Management",
+      "Practical – I",
+      "Practical – II",
+      "Practical – III"
+    ],
+    "learner_benefits": [
+      "Manage workplace health, safety and environmental responsibilities",
+      "Identify hazards, assess risks and implement control measures",
+      "Understand safety management systems and legal compliance",
+      "Prepare for safety careers in India and abroad"
+    ],
+    "employer_benefits": [
+      "Develop a competent, safety-aware workforce",
+      "Reduce workplace incidents and ensure regulatory compliance",
+      "Build a professional safety culture across operations"
+    ],
+    "jobRoles": [
+      "Safety Officer",
+      "HSE Officer",
+      "Safety Supervisor",
+      "Fire & Safety Officer",
+      "Site Safety In-charge",
+      "Safety Trainer",
+      "Environmental Safety Officer"
+    ],
+    "workAreas": [
+      "Construction Sites",
+      "Oil & Gas Industries",
+      "Factories & Manufacturing",
+      "Power Plants",
+      "Warehouses",
+      "Hospitals",
+      "Infrastructure Projects"
+    ],
+    "trainingMethod": "Classroom sessions, Practical demonstrations, Case studies, Site-based examples, Industry-oriented learning",
+    "deliveryMode": [
+      "Classroom",
+      "Practical"
+    ],
+    "certification": "BSS Government Recognised Advanced Diploma Certificate",
+    "fee": null
+  },
+  {
+    "id": "bss-advanced-diploma-fire-industrial-safety",
+    "slug": "bss-advanced-diploma-fire-industrial-safety",
+    "title": "BSS Advanced Diploma in Fire & Industrial Safety Management",
+    "category": "Diplomas & Advanced Diplomas",
+    "level": "Advanced Diploma",
+    "duration_text": "1 Year",
+    "description": "A specialised professional program developing skilled safety personnel capable of preventing accidents, controlling fire hazards, and ensuring safe working environments in industrial and high-risk workplaces. Covers fire protection systems, industrial safety practices, hazard identification, risk management and emergency response.",
+    "overview": "The Advanced Diploma in Fire & Industrial Safety Management is a specialised professional program designed to develop skilled safety personnel capable of preventing accidents, controlling fire hazards, and ensuring safe working environments in industrial and high-risk workplaces.\n\nThis course provides comprehensive knowledge of fire protection systems, industrial safety practices, hazard identification, risk management, and emergency response procedures. Learners are trained to handle real-world safety challenges across construction sites, factories, oil & gas plants, and manufacturing units. With a strong focus on practical safety measures and industry standards, the program prepares students to confidently take up responsibilities as Safety Officers, Fire Safety Professionals, and HSE personnel, building rewarding careers both in India and abroad.",
+    "who_is_it_for": "Suitable for 10th/12th pass students, ITI/Diploma/Degree holders, freshers and working professionals. No prior safety experience required.",
+    "eligibility": [
+      "10th / 12th pass or above",
+      "ITI / Diploma / Degree holders can apply",
+      "Freshers and working professionals",
+      "No prior safety experience required"
+    ],
+    "duration": [
+      {
+        "label": "Duration",
+        "verbatim": "1 Year"
+      }
+    ],
+    "topics": [
+      "Fire & Safety Engineering",
+      "Industrial Safety",
+      "Occupational Health & Safety",
+      "Construction Safety",
+      "Electrical Safety",
+      "Practical – I",
+      "Practical – II",
+      "Practical – III",
+      "Practical – IV",
+      "Practical – V"
+    ],
+    "learner_benefits": [
+      "Prevent accidents and control fire hazards in industrial environments",
+      "Apply fire protection systems and industrial safety practices",
+      "Handle emergency response across construction sites and factories",
+      "Build rewarding careers in India and abroad"
+    ],
+    "employer_benefits": [
+      "Develop fire-safety-competent industrial safety workforce",
+      "Reduce fire incidents and workplace accidents",
+      "Strengthen emergency response and safety management systems"
+    ],
+    "jobRoles": [
+      "Fire Safety Officer",
+      "Industrial Safety Officer",
+      "HSE Officer",
+      "Safety Supervisor",
+      "Safety Inspector",
+      "Emergency Response Officer",
+      "Site Safety In-charge"
+    ],
+    "workAreas": [
+      "Construction Sites",
+      "Factories & Manufacturing",
+      "Oil & Gas Industries",
+      "Power Plants",
+      "Warehouses",
+      "Hospitals",
+      "Industrial Plants"
+    ],
+    "trainingMethod": "Classroom training, Practical demonstrations, Fire drills, Case studies, Industry-based examples",
+    "deliveryMode": [
+      "Classroom",
+      "Practical"
+    ],
+    "certification": "Advanced Diploma Certificate in Fire & Industrial Safety Management",
+    "fee": null
   },
   {
     "id": "certificate-risk-assessment",
     "slug": "certificate-risk-assessment",
-    "title": "Risk Assessment",
+    "title": "Certificate in Risk Assessment",
+    "category": "Short Certificates",
+    "level": "Certificate",
+    "duration_text": "2–5 Days",
+    "description": "Provides learners with the knowledge and skills needed to identify workplace hazards and evaluate potential risks before accidents occur. Teaches systematic observation of work areas, risk analysis, and implementation of effective control measures.",
+    "overview": "The Risk Assessment course provides learners with the knowledge and skills needed to identify workplace hazards and evaluate potential risks before accidents occur. Every workplace contains certain dangers, whether it is machinery, chemicals, electricity, or environmental conditions. This course teaches students how to carefully observe work areas, analyse risks, and implement effective control measures to ensure a safer environment.\n\nBy learning how to plan preventive actions and improve safety standards, learners contribute to reducing injuries and increasing productivity. Risk assessment skills are essential for safety officers, supervisors, and managers in all industries.",
+    "who_is_it_for": "Suitable for Safety Officers, HSE Professionals, Supervisors, Managers, Engineers and working professionals involved in workplace safety and risk management.",
+    "eligibility": [
+      "No specific entry requirements",
+      "Suitable for all working professionals and safety personnel"
+    ],
+    "duration": [
+      {
+        "label": "Duration",
+        "verbatim": "2–5 Days"
+      }
+    ],
+    "topics": [
+      "Introduction to Risk Assessment",
+      "Hazard Identification",
+      "Risk Evaluation",
+      "Control Measures",
+      "Recording & Reviewing",
+      "Practical Session"
+    ],
+    "learner_benefits": [
+      "Identify workplace hazards across various industries",
+      "Assess and prioritise risks using a structured approach",
+      "Select and implement suitable control measures",
+      "Prepare risk assessment documentation and action plans",
+      "Review and monitor control measures effectively"
+    ],
+    "assessment": [
+      "Knowledge-based questions",
+      "Practical risk assessment exercises",
+      "Trainer evaluation"
+    ],
+    "jobRoles": [
+      "Safety Assistant",
+      "Supervisor",
+      "HSE Staff"
+    ],
+    "workAreas": [
+      "All industries"
+    ],
+    "trainingMethod": "Classroom Training and Online Training",
+    "deliveryMode": [
+      "Classroom",
+      "Online"
+    ],
+    "certification": "Risk Assessment Course Certificate from Highline Fire and Safety Training Institute",
+    "fee": null
+  },
+  {
+    "id": "certificate-scaffolding-safety",
+    "slug": "certificate-scaffolding-safety",
+    "title": "Certificate in Scaffolding Safety",
+    "category": "Short Certificates",
+    "level": "Certificate",
+    "duration_text": "1–2 Weeks",
+    "description": "Specially developed to train learners in safe working methods while using scaffolding systems at heights. Covers erecting, inspecting, maintaining and safely using scaffolding structures, correct use of harnesses and fall protection equipment.",
+    "overview": "The Scaffolding Safety course is specially developed to train learners in safe working methods while using scaffolding systems at heights. Since falls from height are one of the leading causes of serious injuries in construction work, proper knowledge of scaffolding safety is very important.\n\nThis course teaches how to erect, inspect, maintain, and safely use scaffolding structures, along with the correct use of harnesses and fall protection equipment. Learners are trained to recognise unsafe conditions and take preventive measures to avoid accidents. It is an excellent choice for construction workers, supervisors, and safety personnel who regularly work at elevated areas.",
+    "who_is_it_for": "Suitable for construction workers, supervisors, and safety personnel who regularly work at elevated areas. Ideal for scaffolders, site engineers and maintenance personnel.",
+    "eligibility": [
+      "No specific entry requirements",
+      "Suitable for construction workers, supervisors and safety personnel"
+    ],
+    "duration": [
+      {
+        "label": "Duration",
+        "verbatim": "1–2 Weeks"
+      }
+    ],
+    "topics": [
+      "Introduction to Scaffolding Safety",
+      "Types and Components of Scaffolding",
+      "Scaffold Erection and Dismantling",
+      "Load Capacity & Stability",
+      "Scaffold Inspection & Maintenance",
+      "Practical Session"
+    ],
+    "learner_benefits": [
+      "Identify common scaffolding hazards and unsafe conditions",
+      "Understand scaffold stability, components and load limits",
+      "Erect, inspect and maintain scaffolding safely",
+      "Apply fall protection and safe work-at-height practices"
+    ],
+    "assessment": [
+      "Knowledge questions",
+      "Hazard identification exercises",
+      "Practical inspection",
+      "Trainer evaluation"
+    ],
+    "jobRoles": [
+      "Scaffolding Inspector",
+      "Supervisor",
+      "Height Worker"
+    ],
+    "workAreas": [
+      "Construction Sites",
+      "Industrial Maintenance",
+      "Infrastructure Projects"
+    ],
+    "trainingMethod": "Classroom Training",
+    "deliveryMode": [
+      "Classroom"
+    ],
+    "certification": "Scaffolding Safety Course Certificate from Highline Fire and Safety Training Institute",
+    "fee": null
+  },
+  {
+    "id": "certificate-work-permit-receiver",
+    "slug": "certificate-work-permit-receiver",
+    "title": "Certificate in Work Permit Receiver (WPR)",
+    "category": "Short Certificates",
+    "level": "Certificate",
+    "duration_text": "2–5 Days",
+    "description": "Trains learners in the safe management of high-risk jobs through the permit-to-work system used in oil & gas, power plants and heavy manufacturing. Covers permit procedures, hazard identification, safety guidelines and coordination before starting any task.",
+    "overview": "The Work Permit Receiver course is designed to train learners in the safe management of high-risk jobs through the permit-to-work system commonly used in industries such as oil and gas, power plants, and heavy manufacturing. In these environments, tasks like welding, electrical maintenance, or confined space work require official authorisation to ensure all safety precautions are in place.\n\nThis course teaches learners how to understand permit procedures, identify hazards, follow safety guidelines, and coordinate with teams before starting any task. By developing strong safety awareness and responsibility, learners are better prepared to manage risky operations safely and efficiently.",
+    "who_is_it_for": "Suitable for Safety Officers, Site Engineers, Maintenance Personnel, Contractors, Permit Receivers, HSE Professionals and workers involved in hazardous activities.",
+    "eligibility": [
+      "No specific entry requirements",
+      "Suitable for safety officers, site engineers, maintenance personnel and contractors"
+    ],
+    "duration": [
+      {
+        "label": "Duration",
+        "verbatim": "2–5 Days"
+      }
+    ],
+    "topics": [
+      "Introduction to Work Permits",
+      "Types of Work Permits",
+      "Permit Receiver Responsibilities",
+      "Hazard Identification & Risk Control",
+      "Permit Compliance During Work",
+      "Closing a Work Permit"
+    ],
+    "learner_benefits": [
+      "Understand and apply the Permit-to-Work system",
+      "Identify hazards associated with permitted work",
+      "Verify required control measures before work begins",
+      "Monitor compliance and follow safe permit closure procedures"
+    ],
+    "assessment": [
+      "Knowledge-based questions",
+      "Practical scenarios",
+      "Trainer evaluation"
+    ],
+    "jobRoles": [
+      "Work Permit Receiver",
+      "Plant Operator",
+      "Safety Coordinator"
+    ],
+    "workAreas": [
+      "Oil & Gas",
+      "Power Plants",
+      "Construction",
+      "Heavy Manufacturing"
+    ],
+    "trainingMethod": "Classroom Training",
+    "deliveryMode": [
+      "Classroom"
+    ],
+    "certification": "Work Permit Receiver Course Certificate from Highline Fire and Safety Training Institute",
+    "fee": null
+  },
+  {
+    "id": "certificate-basic-first-aid",
+    "slug": "certificate-basic-first-aid",
+    "title": "Certificate in Basic First Aid, CPR & AED",
     "category": "Short Certificates",
     "level": "Certificate",
     "duration_text": "1–3 Days",
-    "description": "Provides practical knowledge and skills to identify workplace hazards, assess risks and implement appropriate control measures. Learners gain a systematic approach to conducting, documenting and reviewing workplace risk assessments.",
+    "description": "A practical training program that prepares learners to provide immediate medical assistance during emergencies until professional help arrives. Covers CPR, controlling bleeding, treating burns, managing fractures, and responding to choking or fainting situations.",
+    "overview": "The Basic First Aid course is a practical training program that prepares learners to provide immediate medical assistance during emergencies until professional help arrives. Accidents and sudden illnesses can happen at any time, and quick action can often save lives.\n\nThis course teaches important skills such as CPR, controlling bleeding, treating burns, managing fractures, and responding to choking or fainting situations. With hands-on practice and real-life examples, learners gain the confidence to handle emergencies calmly and responsibly. First aid knowledge is valuable not only in workplaces but also in everyday life, making it an essential skill for everyone.",
+    "who_is_it_for": "Suitable for students, employees, supervisors, safety professionals, workplace first aiders and anyone interested in developing essential emergency response skills.",
     "eligibility": [
-      "Safety Officers, HSE Professionals, Supervisors, Managers, Engineers and working professionals involved in workplace safety and risk management"
+      "No prior experience required",
+      "Suitable for all employees, students and safety professionals"
     ],
     "duration": [
       {
@@ -410,263 +730,341 @@
         "verbatim": "1–3 Days"
       }
     ],
-    "overview": "The Risk Assessment course provides practical knowledge and skills to identify workplace hazards, assess risks and implement appropriate control measures. Participants learn a systematic approach to conducting, documenting and reviewing workplace risk assessments.",
-    "who_is_it_for": "Suitable for Safety Officers, HSE Professionals, Supervisors, Managers, Engineers and working professionals involved in workplace safety and risk management.",
-    "learner_benefits": [
-      "Identify workplace hazards",
-      "Assess and prioritise risks",
-      "Select suitable control measures",
-      "Conduct practical risk assessments",
-      "Prepare action plans and documentation",
-      "Review and monitor control measures"
-    ],
     "topics": [
-      "Hazard Identification",
-      "Risk Analysis & Evaluation",
-      "Risk Rating",
-      "Hierarchy of Controls",
-      "Selection of Control Measures",
-      "Workplace Risk Assessment",
-      "Risk Assessment Matrix",
-      "Documentation & Reporting",
-      "Corrective Action Plans",
-      "Review & Monitoring"
+      "Introduction to First Aid",
+      "Emergency Scene Management",
+      "Cardiopulmonary Resuscitation (CPR)",
+      "Automated External Defibrillator (AED)",
+      "First Aid for Common Emergencies",
+      "Medical Emergencies"
     ],
-    "assessment": [
-      "Knowledge-based questions",
-      "Practical risk assessment exercises",
-      "Trainer evaluation"
-    ],
-    "careerBenefits": [
-      "Enhanced competency in workplace risk management",
-      "Practical skills directly applicable in workplace safety roles"
-    ],
-    "jobRoles": [
-      "Safety Officer",
-      "HSE Professional",
-      "Safety Supervisor",
-      "Risk Assessment Specialist"
-    ],
-    "trainingMethod": "Classroom Training, Online Training",
-    "deliveryMode": [
-      "Classroom",
-      "Online"
-    ],
-    "certification": "Risk Assessment Course Certificate from Highline Fire and Safety Training Institute",
-    "fee": null,
-    "workAreas": [
-      "All industries"
-    ]
-  },
-  {
-    "id": "certificate-scaffolding-safety",
-    "slug": "certificate-scaffolding-safety",
-    "title": "Scaffolding Safety",
-    "category": "Short Certificates",
-    "level": "Certificate",
-    "duration_text": "1 Day",
-    "description": "Provides essential knowledge of safe scaffolding practices, common hazards, inspection requirements and appropriate control measures. Covers scaffold stability, safe access, working platforms and fall protection.",
-    "eligibility": [
-      "Construction Workers & Scaffolders",
-      "Safety Officers & Supervisors",
-      "HSE Professionals",
-      "Engineers & Maintenance Personnel",
-      "Contractors",
-      "Work-at-Height Personnel"
-    ],
-    "duration": [
-      {
-        "label": "Duration",
-        "verbatim": "1 Day"
-      }
-    ],
-    "overview": "This course provides essential knowledge of safe scaffolding practices, common hazards, inspection requirements and appropriate control measures. Participants learn about scaffold stability, safe access, working platforms and fall protection.",
-    "who_is_it_for": "Suitable for Construction Workers & Scaffolders, Safety Officers & Supervisors, HSE Professionals, Engineers & Maintenance Personnel, Contractors and Work-at-Height Personnel.",
     "learner_benefits": [
-      "Identify common scaffolding hazards",
-      "Understand scaffold components and stability",
-      "Recognise unsafe scaffold conditions",
-      "Apply appropriate control measures",
-      "Conduct basic scaffold inspections",
-      "Follow safe work-at-height practices"
-    ],
-    "topics": [
-      "Introduction to Scaffolding",
-      "Types of Scaffolding & Components",
-      "Scaffold Erection & Dismantling",
-      "Scaffold Stability & Safe Access",
-      "Working Platforms & Edge Protection",
-      "Fall Protection",
-      "Scaffold Inspection & Tagging",
-      "Common Hazards & Control Measures",
-      "Safe Loading & Housekeeping",
-      "Safe Use of Scaffolding"
-    ],
-    "assessment": [
-      "Knowledge questions",
-      "Hazard identification",
-      "Practical inspection exercises",
-      "Trainer evaluation"
-    ],
-    "careerBenefits": [
-      "Competency in scaffolding safety for construction and industrial roles",
-      "Meets workplace safety training requirements for work-at-height"
-    ],
-    "jobRoles": [
-      "Safety Officer",
-      "Scaffolding Inspector",
-      "Construction Safety Supervisor",
-      "HSE Professional"
-    ],
-    "trainingMethod": "Classroom Training",
-    "deliveryMode": [
-      "Classroom"
-    ],
-    "certification": "Scaffolding Safety Course Certificate from Highline Fire and Safety Training Institute",
-    "fee": null,
-    "workAreas": [
-      "Construction",
-      "Industrial Maintenance",
-      "Infrastructure"
-    ]
-  },
-  {
-    "id": "certificate-work-permit-receiver",
-    "slug": "certificate-work-permit-receiver",
-    "title": "Work Permit Receiver",
-    "category": "Short Certificates",
-    "level": "Certificate",
-    "duration_text": "1 Day",
-    "description": "Provides essential knowledge of Permit-to-Work (PTW) systems used to control hazardous work activities. Participants learn how to understand permit requirements, verify control measures and safely manage work under an approved permit.",
-    "eligibility": [
-      "Safety Officers & Supervisors",
-      "Site Engineers",
-      "Maintenance Personnel",
-      "Contractors",
-      "Permit Receivers",
-      "HSE Professionals",
-      "Workers involved in hazardous activities"
-    ],
-    "duration": [
-      {
-        "label": "Duration",
-        "verbatim": "1 Day"
-      }
-    ],
-    "overview": "The Work Permit Receiver course provides essential knowledge of Permit-to-Work (PTW) systems used to control hazardous work activities. Participants learn how to understand permit requirements, verify control measures and safely manage work under an approved permit.",
-    "who_is_it_for": "Suitable for Safety Officers & Supervisors, Site Engineers, Maintenance Personnel, Contractors, Permit Receivers, HSE Professionals and workers involved in hazardous activities.",
-    "learner_benefits": [
-      "Understand the Permit-to-Work system",
-      "Identify hazards associated with permitted work",
-      "Verify required control measures",
-      "Understand permit receiver responsibilities",
-      "Monitor compliance with permit conditions",
-      "Follow safe permit closure procedures"
-    ],
-    "topics": [
-      "Permit-to-Work (PTW) System",
-      "Types of Work Permits",
-      "Hazard Identification & Risk Assessment",
-      "Control Measures",
-      "Hot Work & Cold Work Permits",
-      "Confined Space Entry",
-      "Work at Height",
-      "Electrical Work Permits",
-      "Isolation & LOTO Awareness",
-      "Gas Testing Awareness",
-      "Permit Conditions & Responsibilities",
-      "Permit Closure & Handover"
-    ],
-    "assessment": [
-      "Knowledge-based questions",
-      "Practical scenarios",
-      "Trainer evaluation"
-    ],
-    "careerBenefits": [
-      "Competency in Permit-to-Work systems for industrial and construction roles",
-      "Enhanced safety awareness for hazardous work activities"
-    ],
-    "jobRoles": [
-      "Safety Officer",
-      "Permit Receiver",
-      "HSE Professional",
-      "Site Engineer",
-      "Maintenance Supervisor"
-    ],
-    "trainingMethod": "Classroom Training",
-    "deliveryMode": [
-      "Classroom"
-    ],
-    "certification": "Work Permit Receiver Course Certificate from Highline Fire and Safety Training Institute",
-    "fee": null,
-    "workAreas": [
-      "Oil & Gas",
-      "Construction",
-      "Industrial Maintenance",
-      "Manufacturing"
-    ]
-  },
-  {
-    "id": "certificate-basic-first-aid",
-    "slug": "certificate-basic-first-aid",
-    "title": "Basic First Aid, CPR & AED",
-    "category": "Short Certificates",
-    "level": "Certificate",
-    "duration_text": "1 Day",
-    "description": "Provides essential knowledge and practical skills to respond to common workplace and everyday emergencies until professional medical assistance arrives. Covers basic first aid, CPR, AED use and emergency response procedures.",
-    "eligibility": [
-      "Students, employees, supervisors, safety professionals, workplace first aiders and anyone interested in developing essential emergency response skills"
-    ],
-    "duration": [
-      {
-        "label": "Duration",
-        "verbatim": "1 Day"
-      }
-    ],
-    "overview": "The Basic First Aid, CPR & AED course provides essential knowledge and practical skills to respond to common workplace and everyday emergencies until professional medical assistance arrives. Participants learn basic first aid, CPR, AED use and emergency response procedures.",
-    "who_is_it_for": "Suitable for students, employees, supervisors, safety professionals, workplace first aiders and anyone interested in developing essential emergency response skills.",
-    "learner_benefits": [
-      "Recognise common emergency situations",
-      "Provide basic first aid",
+      "Recognise common emergency situations quickly and calmly",
       "Perform CPR and understand AED operation",
-      "Respond appropriately to common workplace injuries",
-      "Communicate effectively with emergency services"
-    ],
-    "topics": [
-      "Basic First Aid Principles",
-      "Emergency Scene Assessment",
-      "CPR",
-      "AED Awareness & Operation",
-      "Choking",
-      "Bleeding & Wound Management",
-      "Burns",
-      "Fractures & Sprains",
-      "Shock & Fainting",
-      "Emergency Response"
+      "Provide first aid for bleeding, burns, fractures and shock",
+      "Respond effectively to choking, fainting and medical emergencies",
+      "Useful for all workplaces and everyday life situations"
     ],
     "assessment": [
       "Practical demonstrations",
       "Knowledge-based questions",
       "Scenario-based activities"
     ],
-    "careerBenefits": [
-      "Essential life-saving skills applicable in any workplace",
-      "First aid competency for workplace safety and emergency response roles"
-    ],
     "jobRoles": [
       "Workplace First Aider",
       "Safety Officer",
-      "Emergency Response Personnel",
-      "HSE Professional"
+      "Emergency Response Personnel"
+    ],
+    "workAreas": [
+      "All industries and everyday settings"
     ],
     "trainingMethod": "Classroom Training",
     "deliveryMode": [
       "Classroom"
     ],
     "certification": "Basic First Aid, CPR & AED Certificate from Highline Fire and Safety Training Institute",
-    "fee": null,
+    "fee": null
+  },
+  {
+    "id": "eosh",
+    "slug": "eosh",
+    "title": "EOSH (Environment, Occupational Safety & Health)",
+    "category": "Short Certificates",
+    "level": "Certificate",
+    "duration_text": "1–4 Weeks",
+    "description": "Provides a strong understanding of workplace safety, occupational health and environmental protection. Covers occupational safety practices, fire safety, hazard identification, risk assessment, workplace health and hygiene, and environmental management.",
+    "overview": "Our EOSH program is designed to provide a strong understanding of workplace safety, occupational health, and environmental protection. This course helps learners build the knowledge and awareness required to meet modern safety and compliance requirements across various industries.\n\nThe program covers key areas such as occupational safety practices, fire safety fundamentals, hazard identification, risk assessment, workplace health and hygiene, and environmental management. Special emphasis is placed on accident prevention, emergency preparedness, and responsible work practices.\n\nWith a practical and preventive approach, the EOSH course prepares learners to confidently support safe, healthy, and compliant work environments. It is well suited for students and professionals looking to strengthen their safety knowledge and expand their career opportunities.",
+    "who_is_it_for": "Suitable for 10th/12th pass students, freshers and working professionals. No experience required.",
+    "eligibility": [
+      "10th / 12th pass or above",
+      "Freshers and working professionals",
+      "No experience required"
+    ],
+    "duration": [
+      {
+        "label": "Duration",
+        "verbatim": "1–4 Weeks (depending on level)"
+      }
+    ],
+    "topics": [
+      "Environmental Safety",
+      "Occupational Safety Practices",
+      "Fire Safety Fundamentals",
+      "Hazard Identification & Risk Assessment",
+      "Workplace Health & Hygiene",
+      "Accident Prevention & Emergency Preparedness"
+    ],
+    "learner_benefits": [
+      "Build awareness of environmental, occupational safety and health principles",
+      "Identify workplace hazards and implement basic control measures",
+      "Understand accident prevention and emergency preparedness",
+      "Strengthen safety knowledge for career growth"
+    ],
+    "jobRoles": [
+      "HSE Assistant",
+      "Environmental Safety Officer",
+      "Safety Supervisor",
+      "Site Safety Staff"
+    ],
     "workAreas": [
-      "All industries"
-    ]
+      "Factories",
+      "Construction",
+      "Industries",
+      "Environmental Projects"
+    ],
+    "trainingMethod": "Classroom training + Practical demonstrations",
+    "deliveryMode": [
+      "Classroom",
+      "Practical"
+    ],
+    "certification": "EOSH Course Completion Certificate",
+    "fee": null
+  },
+  {
+    "id": "osha",
+    "slug": "osha",
+    "title": "OSHA (Occupational Safety and Health Administration)",
+    "category": "Short Certificates",
+    "level": "Certificate",
+    "duration_text": "OSHA 10 Hours – 2 Days | OSHA 30 Hours – 3–4 Days",
+    "description": "OSHA-based training to understand how workplace safety standards are applied in real working environments. Covers workplace safety rules, hazard identification, risk control measures, fire safety basics, PPE use, and emergency response.",
+    "overview": "We offer OSHA-based training to help you understand how workplace safety standards are applied in real working environments. Through this course, we explain the importance of identifying hazards, controlling risks, and following safe work practices to prevent accidents and injuries.\n\nIn this program, we guide you through key topics such as workplace safety rules, hazard identification, risk control measures, fire safety basics, use of PPE, and emergency response. We also help you understand your role and responsibility in maintaining a safe work environment. Our OSHA training focuses on practical understanding and safety awareness, making it suitable for students, supervisors, and working professionals.",
+    "who_is_it_for": "Suitable for 10th/12th pass students, freshers and working professionals who want to improve safety knowledge and work confidently in compliance-driven environments.",
+    "eligibility": [
+      "10th / 12th pass or above",
+      "Freshers or workers",
+      "No prior experience required"
+    ],
+    "duration": [
+      {
+        "label": "OSHA 10 Hours",
+        "verbatim": "2 Days"
+      },
+      {
+        "label": "OSHA 30 Hours",
+        "verbatim": "3–4 Days"
+      }
+    ],
+    "topics": [
+      "Workplace Hazards",
+      "PPE Usage",
+      "Fall Protection",
+      "Electrical Safety",
+      "Fire Prevention",
+      "Safety Regulations"
+    ],
+    "learner_benefits": [
+      "Understand how OSHA workplace safety standards are applied in practice",
+      "Identify and control workplace hazards effectively",
+      "Improve safety knowledge for compliance-driven environments",
+      "Gain a recognised safety training credential"
+    ],
+    "assessment": [
+      "Written examination (Multiple Choice Questions)",
+      "Minimum passing score: 70%"
+    ],
+    "jobRoles": [
+      "Safety Assistant",
+      "Site Safety Worker",
+      "Construction Worker",
+      "Safety Supervisor"
+    ],
+    "workAreas": [
+      "Construction Sites",
+      "Factories",
+      "Warehouses",
+      "Oil & Gas"
+    ],
+    "trainingMethod": "Classroom training + Practical examples + Case studies",
+    "deliveryMode": [
+      "Classroom"
+    ],
+    "certification": "OSHA Authorized Training Certificate / Card",
+    "fee": null
+  },
+  {
+    "id": "iosh-managing-safely",
+    "slug": "iosh-managing-safely",
+    "title": "IOSH Managing Safely",
+    "category": "International Programmes",
+    "level": "Certificate",
+    "duration_text": "3–5 Days",
+    "description": "IOSH is a globally recognised professional body focused on improving health and safety standards in workplaces. IOSH Managing Safely builds safety awareness and promotes safe behaviour — ideal for supervisors, team leaders and managers across all industries.",
+    "overview": "IOSH is a globally recognised professional body that focuses on improving health and safety standards in workplaces. IOSH courses are designed to build safety awareness and promote safe behaviour at work.\n\nWe offer IOSH-based training to help you understand how everyday safety practices can prevent accidents and injuries. Through this course, we explain the importance of identifying hazards, assessing risks, and following safe work practices in a simple and practical way.\n\nOur IOSH training is ideal for students, supervisors, and working professionals who want to improve safety awareness and contribute to a safer working environment.",
+    "who_is_it_for": "Ideal for supervisors, team leaders, managers and beginners. 12th pass or above.",
+    "eligibility": [
+      "12th pass or above",
+      "Supervisors, team leaders, managers",
+      "Beginners also eligible"
+    ],
+    "duration": [
+      {
+        "label": "Duration",
+        "verbatim": "3–5 Days"
+      }
+    ],
+    "topics": [
+      "Introducing Managing Safely",
+      "Assessing Risk",
+      "Controlling Risk",
+      "Understanding Responsibilities",
+      "Understanding Hazards",
+      "Investigating Incidents",
+      "Measuring Performance"
+    ],
+    "learner_benefits": [
+      "Build practical safety awareness to prevent workplace accidents",
+      "Identify hazards and apply effective risk control measures",
+      "Understand management responsibilities for workplace safety",
+      "Achieve a globally recognised IOSH certificate"
+    ],
+    "assessment": [
+      "Scenario-based assessment",
+      "Practical risk assessment"
+    ],
+    "jobRoles": [
+      "Supervisor",
+      "Team Leader",
+      "Safety Coordinator",
+      "Site In-charge"
+    ],
+    "workAreas": [
+      "Offices",
+      "Factories",
+      "Hospitals",
+      "Construction",
+      "Industries"
+    ],
+    "trainingMethod": "Interactive classroom sessions + Group activities",
+    "deliveryMode": [
+      "Classroom"
+    ],
+    "certification": "IOSH Managing Safely Certificate",
+    "fee": null
+  },
+  {
+    "id": "nebosh",
+    "slug": "nebosh",
+    "title": "NEBOSH (National Examination Board in Occupational Safety and Health)",
+    "category": "International Programmes",
+    "level": "Certificate / Diploma",
+    "duration_text": "NEBOSH IGC – 10 Days | NEBOSH HSA – 4 Days",
+    "description": "NEBOSH is a globally recognised safety qualification body based in the UK. NEBOSH courses develop professional-level knowledge in occupational health, safety and environmental management and are highly valued worldwide — especially for Gulf and international safety jobs.",
+    "overview": "NEBOSH is a globally recognised safety qualification body based in the UK. NEBOSH courses are designed to develop professional-level knowledge in occupational health, safety, and environmental management and are highly valued worldwide, especially for Gulf and international safety jobs.\n\nWe offer NEBOSH-oriented training to help you gain in-depth understanding of workplace safety standards and risk management practices. Through this course, we explain how to identify hazards, assess risks, and implement effective control measures to prevent accidents, injuries, and occupational illnesses.\n\nNEBOSH training is suitable for students and professionals who want to pursue senior safety roles, improve their international career prospects, and work confidently in compliance-driven environments.",
+    "who_is_it_for": "Recommended for serious safety career seekers targeting senior roles or Gulf/international employment. 12th pass/Diploma/Degree with basic English understanding.",
+    "eligibility": [
+      "12th pass / Diploma / Degree",
+      "Recommended for serious safety career seekers",
+      "Basic English understanding required"
+    ],
+    "duration": [
+      {
+        "label": "NEBOSH IGC",
+        "verbatim": "10 Days online classes"
+      },
+      {
+        "label": "NEBOSH HSA",
+        "verbatim": "4 Days"
+      }
+    ],
+    "topics": [
+      "Health & Safety Management",
+      "Risk Assessment",
+      "Fire Safety",
+      "Construction Safety",
+      "Environmental Safety",
+      "International Safety Laws"
+    ],
+    "learner_benefits": [
+      "Gain a globally recognised NEBOSH qualification valued for Gulf and international roles",
+      "Develop analytical thinking and practical safety skills",
+      "Identify hazards and implement effective safety management systems",
+      "Pursue senior safety roles and international career prospects"
+    ],
+    "assessment": [
+      "Classroom + assignments + exams + practical assessment"
+    ],
+    "jobRoles": [
+      "Safety Officer",
+      "HSE Officer",
+      "Safety Engineer",
+      "Safety Manager",
+      "HSE Consultant"
+    ],
+    "workAreas": [
+      "Oil & Gas",
+      "Construction",
+      "Power Plants",
+      "Multinational Companies"
+    ],
+    "trainingMethod": "Classroom + Assignments + Exams + Practical Assessment",
+    "deliveryMode": [
+      "Classroom",
+      "Online"
+    ],
+    "certification": "International General Certificate / Diploma (NEBOSH)",
+    "fee": null
+  },
+  {
+    "id": "iasp-osha-30-general-industry",
+    "slug": "iasp-osha-30-general-industry",
+    "title": "IASP OSHA 30-Hour General Industry",
+    "category": "International Programmes",
+    "level": "Certificate",
+    "duration_text": "30 Hours",
+    "description": "Designed to deliver comprehensive health and safety training to working professionals with safety responsibility. Emphasises identifying, preventing, controlling and averting workplace hazards in accordance with OSHA standards.",
+    "overview": "The IASP OSHA 30-Hour General Industry Course has been designed to deliver various training to working professionals with health and safety responsibility. This training emphasises learners to identify, prevent, control and avert hazards in the workplace, as well as OSHA standards. Suitable for Safety Supervisors, Safety Officers, Safety Consultants, Safety Committee Members and safety professionals.",
+    "who_is_it_for": "Suitable for Safety Supervisor, Safety Officer, Safety Consultancy professionals, Safety Committee Members and any Safety Professionals. Minimum 10th Pass with Good English Communication.",
+    "eligibility": [
+      "Minimum 10th Pass",
+      "Good English Communication required",
+      "Safety professionals and working personnel"
+    ],
+    "duration": [
+      {
+        "label": "Duration",
+        "verbatim": "30 Hours"
+      }
+    ],
+    "topics": [
+      "Introduction to OSHA – 2 Hours",
+      "Managing Safety and Health – 2 Hours",
+      "Walking and Working Surfaces including Fall Protection – 1 Hour",
+      "Exit Routes, Emergency Action Plans, Fire Prevention – 1 Hour",
+      "Electrical Safety – 2 Hours",
+      "Personal Protective Equipment (PPE) – 1 Hour",
+      "Materials Handling – 2 Hours",
+      "Hazard Communication – 2 Hours",
+      "Elective Topics – 10 Hours (Confined Spaces, Lockout/Tagout, Machine Guarding, Ergonomics, etc.)",
+      "Optional Topics – 7 Hours"
+    ],
+    "learner_benefits": [
+      "Increased safety awareness and reduced risk of workplace injuries",
+      "Improved job performance and better employment opportunities",
+      "Fewer accidents and improved OSHA compliance for employers",
+      "Stronger safety culture and reduced insurance and liability costs"
+    ],
+    "assessment": [
+      "Written exam – Multiple Choice Questions (MCQs)",
+      "Minimum passing score: 70%"
+    ],
+    "jobRoles": [
+      "Safety Supervisor",
+      "Safety Officer",
+      "Safety Consultant",
+      "Safety Committee Member"
+    ],
+    "workAreas": [
+      "General Industry",
+      "Manufacturing",
+      "Construction",
+      "Warehouses"
+    ],
+    "trainingMethod": "Classroom training + Practical examples + Case studies",
+    "deliveryMode": [
+      "Classroom"
+    ],
+    "certification": "IASP OSHA 30-Hour General Industry Certificate",
+    "fee": null
   }
 ]
