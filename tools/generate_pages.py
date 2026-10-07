@@ -195,7 +195,7 @@ for course in courses:
       font-weight: 700;
       padding: 14px 28px;
       font-size: 15px;
-      border-radius: 8px;
+      border-radius: 100px;
       text-decoration: none;
       display: inline-flex;
       align-items: center;
@@ -222,7 +222,7 @@ for course in courses:
     <!-- Breadcrumb -->
     <p style="font-size:13px; color:rgba(255,255,255,0.7); margin-bottom:20px; display:flex; align-items:center; gap:8px;">
       <a href="../courses.html" style="color:rgba(255,255,255,0.9); text-decoration:none; font-weight:600; transition:color 0.2s;">
-        <span style="font-size:16px; line-height:1; vertical-align:middle;">&#8592;</span> All Courses
+        Courses
       </a>
       <span style="color:rgba(255,255,255,0.4);">/</span>
       <span>{cat}</span>
