@@ -8,7 +8,7 @@
 :root {
   /* colour */
   --navy: #0B3C6D;
-  --orange: #F57C00;
+  --orange: #C05C00;
   --teal: #00AFC1;
   --green: #2E7D32;
   --charcoal: #17212B;
@@ -822,7 +822,7 @@ h1, h2, h3, h4 { font-family: 'Montserrat', sans-serif; color: var(--navy); }
   border-radius: 999px; padding: 6px 14px;
   font-size: 12px; font-weight: 700; white-space: nowrap;
 }
-.badge--blue { background: #F57C00 !important; color: #FFFFFF !important; }
+.badge--blue { background: var(--orange) !important; color: #FFFFFF !important; }
 .price__sub { margin-top: 12px; font-size: 14px; color: var(--muted); line-height: 1.6; }
 .price--hi .price__sub { color: var(--muted-deep); }
 .price__list { display: flex; flex-direction: column; gap: 12px; margin: 24px 0; }

@@ -22,3 +22,9 @@ The following dev scripts generated unsupported facts and have been quarantined 
 - **Static Generation**: Created 	ools/generate_pages.py to statically render the 16 courses into website/courses/<slug>.html.
 - **Routing**: Updated courses.html and index.html to point directly to the static .html files. Added ercel.json to handle redirects from the old query-param URLs.
 - **Sitemap**: Generated sitemap.xml listing all top-level pages and the 16 course pages.
+
+## Phase 4: Remaining Audit Items
+- **Accessibility**: Fixed contrast on orange buttons and UI elements (changed from #F57C00 to #C05C00 to meet WCAG AA requirements of 4.5:1).
+- **Security & Headers**: Applied security headers in ercel.json (X-Frame-Options, X-XSS-Protection, etc.).
+- **Audit Report**: Updated AUDIT_REPORT.md to reflect all fixes.
+- **Content Need**: Created CONTENT_NEEDED.md detailing every missing piece of authentic content required from the client.
