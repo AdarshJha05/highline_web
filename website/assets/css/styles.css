@@ -1262,7 +1262,7 @@ h1, h2, h3, h4 { font-family: 'Montserrat', sans-serif; color: var(--navy); }
 /* ---- ≤1180px: split layouts start collapsing ---- */
 @media (max-width: 1180px) {
   .nav__search { display: none; }
-  .hero--home { height: 720px; }
+  
   .hero__cluster { width: 240px; height: 224px; right: 40px; top: 300px; }
   .hero__flame { width: 52px; }
   .hero__shield { width: 84px; }
@@ -1526,7 +1526,7 @@ h1, h2, h3, h4 { font-family: 'Montserrat', sans-serif; color: var(--navy); }
 }
 
 @media (max-width: 400px) {
-  .hero--home { height: 520px; }
+  
   .hero__cluster { opacity: .8; }
   .course-rail .course { flex-basis: 88%; width: 88%; }
 }
@@ -1934,4 +1934,24 @@ body.is-locked { overflow: hidden; }
   font-size: 15px !important; 
   color: var(--muted-deep) !important; 
   line-height: 1.6 !important; 
+}
+
+
+/* ============================================================================
+   MOBILE HERO LAYOUT FIXES
+   ========================================================================== */
+
+/* Remove any legacy absolute heights and ensure the header doesn't overlap the text */
+.hero--home {
+  height: auto !important;
+  min-height: 100vh !important;
+  padding-top: 100px !important; /* clear the sticky header */
+}
+
+@media (max-width: 760px) {
+  .hero--home {
+    min-height: auto !important;
+    padding-top: 120px !important; /* more clearance for mobile header */
+    padding-bottom: 60px !important;
+  }
 }
