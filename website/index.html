@@ -541,29 +541,33 @@
 <p class="lead" style="font-size:14px">Fill in your details and our team will call you with batch dates, eligibility, and fee guidance.</p>
 <form data-mailto="highlinefireandsafety@gmail.com" data-subject="Admission enquiry from the Highline website">
 <div class="form-grid">
-<label class="field"><span>Full Name</span><input autocomplete="name" data-label="Full name" name="name" placeholder="Your full name" required="" type="text"/></label>
-<label class="field"><span>Email Address</span><input autocomplete="email" data-label="Email" name="email" placeholder="Your email address" required="" type="email"/></label>
-<label class="field"><span>Phone Number</span><input autocomplete="tel" data-label="Phone" name="phone" placeholder="Your phone number" required="" type="tel"/></label>
-<label class="field"><span>Age</span><input data-label="Age" max="99" min="14" name="age" placeholder="Your age" type="number"/></label>
-<label class="field"><span>Education Level</span>
-<select data-label="Education level" name="education">
-<option value="">Select education level</option>
-<option>10th Pass</option><option>Intermediate</option><option>Diploma</option><option>Degree &amp; above</option>
-</select>
-</label>
-<label class="field"><span>Preferred Course</span>
-<select data-label="Preferred course" name="course">
-<option value="">Choose a course</option>
-<option>DFS — Diploma in Fire Safety</option>
-<option>ADHSE — Advance Diploma in HSE</option>
-<option>IOSH Managing Safely</option>
-<option>Diploma in Construction &amp; Industrial Safety</option>
-<option>NEBOSH IGC</option>
-<option>Diploma in Oil &amp; Gas Safety</option>
-</select>
-</label>
-</div>
-<div class="form-foot">
+  <label class="field"><span>Full Name *</span><input autocomplete="name" data-label="Full Name" name="name" placeholder="Legal name (as per ID)" required="" type="text"/></label>
+  <label class="field"><span>Email Address *</span><input autocomplete="email" data-label="Email Address" name="email" placeholder="Your email address" required="" type="email"/></label>
+  <label class="field"><span>Phone Number *</span><input autocomplete="tel" data-label="Phone Number" name="phone" placeholder="Active mobile/WhatsApp number" required="" type="tel"/></label>
+  <label class="field"><span>Qualification</span><input data-label="Highest Qualification" name="qualification" placeholder="e.g. 10th, 12th, B.Tech" type="text"/></label>
+  <label class="field field--full"><span>Select Course *</span>
+  <select data-label="Selected Course" name="course" required="">
+  <option value="">-- Choose your primary course --</option>
+  <option>Diploma in Fire Safety</option>
+  <option>Advance Diploma in HSE</option>
+  <option>IOSH Managing Safely</option>
+  <option>NEBOSH IGC</option>
+  <option>Diploma in Oil &amp; Gas Safety</option>
+  <option>Other (Specify in message)</option>
+  </select>
+  </label>
+  <label class="field field--full"><span>Preferred Batch Timing</span>
+  <select data-label="Preferred Batch" name="batch" required="">
+  <option value="">-- Choose preference --</option>
+  <option>Morning (Weekdays)</option>
+  <option>Afternoon (Weekdays)</option>
+  <option>Weekend Only</option>
+  <option>Fast Track</option>
+  </select>
+  </label>
+  <label class="field field--full"><span>Additional Questions / Message</span><textarea data-label="Additional Message" name="message" placeholder="Any specific questions about fees or syllabus?" rows="3"></textarea></label>
+  </div>
+  <div class="form-foot">
 <p>Join Highline and train with experienced instructors dedicated to building confident safety professionals.</p>
 <button class="btn btn--tint" type="submit">Register Now <span aria-hidden="true" class="btn__ico">↗</span></button>
 </div>
