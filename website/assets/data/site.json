@@ -1,11 +1,7 @@
 {
   "name": "Highline Fire & Safety Training Institute",
-  "phones": [
-    "8121118000",
-    "9392882152"
-  ],
+  "phones": ["8121118000", "9392882152"],
   "email": "highlinefireandsafety@gmail.com",
   "website": "https://www.highlinefireandsafety.in",
-  "address": "#2-9-11, Beside Geetha Bhavan, Opp. Jafri Masjid, Karimnagar \u2013 505001, Telangana, India",
-  "showIoshBadge": false
+  "address": "#2-9-11, Beside Geetha Bhavan, Opp. Jafri Masjid, Karimnagar – 505001, Telangana, India"
 }
