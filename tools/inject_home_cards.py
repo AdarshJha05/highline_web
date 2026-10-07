@@ -4,10 +4,9 @@ import re
 with open('website/assets/data/courses.json', 'r', encoding='utf-8') as f:
     courses = json.load(f)
 
-with open('website/courses.html', 'r', encoding='utf-8') as f:
-    html = f.read()
+home_courses = courses[:6]
 
-images = [
+images_list = [
     'assets/img/course-dfs.jpg',
     'assets/img/course-adhse.jpg',
     'assets/img/course-iosh.jpg',
@@ -16,9 +15,8 @@ images = [
     'assets/img/course-og.jpg'
 ]
 
-# Rebuild the static cards
 cards_html = ''
-for i, c in enumerate(courses):
+for i, c in enumerate(home_courses):
     cat = c.get('category', 'Course')
     lvl = c.get('level', 'Certificate')
     title = c.get('title', '')
@@ -33,7 +31,7 @@ for i, c in enumerate(courses):
     else:
         tag_color = 'var(--green)'
 
-    img_src = images[i % len(images)]
+    img_src = images_list[i % len(images_list)]
 
     imgHtml = f'''
     <div class="course-card__img">
@@ -43,7 +41,7 @@ for i, c in enumerate(courses):
     '''
 
     cards_html += f'''
-<a class="course-card" href="courses/{slug}.html" data-category="{cat}">
+<a class="course-card" href="courses/{slug}.html" style="min-width: 340px; max-width: 380px; flex: 0 0 auto;">
   {imgHtml}
   <div class="course-card__content">
     <div class="course-card__meta">
@@ -60,14 +58,17 @@ for i, c in enumerate(courses):
 </a>
 '''
 
-html = re.sub(
-    r'(<div class="grid-3" id="courses-grid"[^>]*>).*?(</div>\s*</section>)',
+with open('website/index.html', 'r', encoding='utf-8') as f:
+    index_html = f.read()
+
+index_html = re.sub(
+    r'(<div class="course-grid course-rail mt-56" data-rail="">).*?(</div>\s*<div class="courses-foot")',
     r'\1\n' + cards_html + r'\n\2',
-    html,
+    index_html,
     flags=re.DOTALL
 )
 
-with open('website/courses.html', 'w', encoding='utf-8') as f:
-    f.write(html)
+with open('website/index.html', 'w', encoding='utf-8') as f:
+    f.write(index_html)
 
-print(f"Baked {len(courses)} course cards into courses.html with modern UI")
+print("Injected into index.html")
