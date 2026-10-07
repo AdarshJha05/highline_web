@@ -1855,3 +1855,20 @@ body.is-locked { overflow: hidden; }
   font-size: 17px;
   letter-spacing: 0.02em;
 }
+
+
+/* ============================================================================
+   ACTIVE STATE ENHANCEMENTS
+   ========================================================================== */
+
+/* Desktop header active link underline */
+.nav__link.is-active {
+  text-decoration: underline !important;
+  text-underline-offset: 6px !important;
+  text-decoration-thickness: 2px !important;
+}
+
+/* Mobile drawer active link orange color */
+.drawer__link.is-active {
+  color: var(--orange) !important;
+}
