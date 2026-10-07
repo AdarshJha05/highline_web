@@ -1,4 +1,4 @@
-/* High Line Fire & Safety — shared behaviour for all three pages.
+/* Highline Fire & Safety — shared behaviour for all three pages.
    Every widget is opt-in via a data attribute, so one file serves every page. */
 (function () {
   'use strict';
@@ -306,7 +306,7 @@
         var subject = form.dataset.subject || 'Website inquiry';
         var href = 'mailto:' + form.dataset.mailto +
           '?subject=' + encodeURIComponent(subject) +
-          '&body=' + encodeURIComponent(lines.join('\n') + '\n\n— sent from the High Line website');
+          '&body=' + encodeURIComponent(lines.join('\n') + '\n\n— sent from the Highline website');
         if (note) {
           note.classList.remove('is-error');
           note.textContent = 'Thanks! Your email app is opening with these details — send it and our team will reply, ' +
@@ -333,8 +333,8 @@
         }
         if (ok) {
           window.location.href = 'mailto:highlinefireandsafety@gmail.com' +
-            '?subject=' + encodeURIComponent('Subscribe to High Line updates') +
-            '&body=' + encodeURIComponent('Please add ' + input.value + ' to the High Line mailing list.');
+            '?subject=' + encodeURIComponent('Subscribe to Highline updates') +
+            '&body=' + encodeURIComponent('Please add ' + input.value + ' to the Highline mailing list.');
         }
       });
     }
