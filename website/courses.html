@@ -1,0 +1,207 @@
+<!DOCTYPE html>
+
+<html lang="en">
+<head>
+<meta charset="utf-8"/>
+<meta content="width=device-width, initial-scale=1" name="viewport"/>
+<title>About — Highline Fire &amp; Safety Training Institute</title>
+<meta content="Highline Fire and Safety Training Institute, Karimnagar — our vision, mission, trainers, achievements and campus. EOSH Approved Training Provider, IOSH Approved and Bharat Sevak Samaj authorized." name="description"/>
+<link href="https://highlinefireandsafety.com/about.html" rel="canonical"/>
+<meta content="About Highline Fire &amp; Safety Training Institute" property="og:title"/>
+<meta content="Developing the next safety leaders — our story, trainers and Karimnagar campus." property="og:description"/>
+<meta content="website" property="og:type"/>
+<meta content="assets/img/hero-about.jpg" property="og:image"/>
+<link href="assets/logo.webp" rel="icon" type="image/webp"/>
+<link href="assets/logo.webp" rel="apple-touch-icon"/>
+<meta content="#2E8FE0" name="theme-color"/>
+<link href="https://fonts.googleapis.com" rel="preconnect"/>
+<link crossorigin="" href="https://fonts.gstatic.com" rel="preconnect"/>
+<link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600&amp;family=Montserrat:wght@600;700;800&amp;display=swap" rel="stylesheet"/>
+<link href="assets/css/styles.css" rel="stylesheet"/>
+</head>
+<body>
+<a class="skip-link" href="#main">Skip to content</a>
+<!-- ==================== HEADER ==================== -->
+<header class="site-header">
+<nav aria-label="Primary" class="nav">
+<a aria-label="Highline Fire and Safety — Home" class="nav__brand" href="index.html">
+<span class="nav__mark"><img alt="Highline Logo" height="32" src="assets/logo.webp" width="32"/></span>
+<span class="nav__word"><b>Highline</b><span>FIRE &amp; SAFETY</span></span>
+</a>
+<div class="nav__links"><a class="nav__link" href="index.html">Home</a>
+<a class="nav__link is-active" aria-current="page" href="courses.html">Courses</a>
+<a aria-current="page" class="nav__link is-active" href="about.html">About</a>
+<a class="nav__link" href="admissions.html">Admissions</a>
+<a class="nav__link" href="resources.html">Resources</a>
+<a class="nav__link" href="contact.html">Contact</a>
+</div>
+<div class="nav__right">
+<a class="btn btn--primary" href="admissions.html">Apply / Enquire</a>
+<button aria-controls="site-drawer" aria-expanded="false" aria-label="Open menu" class="nav__burger" data-burger="" type="button"><span></span><span></span><span></span></button>
+</div>
+</nav>
+</header>
+<!-- ==================== /HEADER ==================== -->
+
+  <!-- ============================================================== HERO === -->
+  <header class="hero hero--inner">
+    <img alt="Students in safety gear" class="ph" fetchpriority="high" src="assets/img/hero-about.jpg" style="object-fit: cover; opacity: 0.5;" />
+    <div class="hero__scrim"></div>
+    <div class="hero__content">
+      <span class="eyebrow eyebrow--light">Our Programs</span>
+      <h1 class="hero__title">International Safety Qualifications</h1>
+      <div class="hero__blurb">
+        <p>Explore our comprehensive catalogue of globally accredited EOSH and IOSH training courses.</p>
+      </div>
+    </div>
+  </header>
+
+  <main id="main">
+    <section class="section" style="padding-top: 60px;">
+      <div class="sec-head" style="margin-bottom: 40px; text-align: center; max-width: 800px; margin-left: auto; margin-right: auto;">
+        <h2 class="h2">Find Your Course</h2>
+        <div id="category-filters" style="display: flex; flex-wrap: wrap; gap: 12px; justify-content: center; margin-top: 24px;">
+          <button class="btn btn--secondary btn--active" data-filter="all">All Courses</button>
+        </div>
+      </div>
+
+      <div id="courses-grid" class="grid-3" style="min-height: 400px; position: relative;">
+        <!-- Loading Spinner -->
+        <div id="courses-loading" style="position: absolute; inset: 0; display: flex; align-items: center; justify-content: center; font-size: 18px; color: var(--muted);">
+          Loading catalogue...
+        </div>
+      </div>
+    </section>
+  </main>
+
+  <style>
+    /* Add some specific styles for the courses grid */
+    .course-card {
+      background: var(--white);
+      border: 1px solid var(--border);
+      border-radius: var(--r-card);
+      padding: 32px 24px;
+      display: flex;
+      flex-direction: column;
+      box-shadow: 0 4px 12px rgba(11, 60, 109, 0.04);
+      transition: transform 0.3s var(--ease), box-shadow 0.3s var(--ease);
+      text-decoration: none;
+      color: inherit;
+    }
+    .course-card:hover {
+      transform: translateY(-6px);
+      box-shadow: 0 12px 32px rgba(11, 60, 109, 0.08);
+      border-color: var(--border-mid);
+    }
+    .course-card__tag {
+      font-size: 11px;
+      font-weight: 700;
+      text-transform: uppercase;
+      letter-spacing: 0.06em;
+      color: var(--orange);
+      margin-bottom: 16px;
+    }
+    .course-card__title {
+      font-size: 20px;
+      font-weight: 800;
+      color: var(--navy);
+      line-height: 1.3;
+      margin-bottom: 12px;
+    }
+    .course-card__desc {
+      font-size: 14px;
+      color: var(--muted);
+      line-height: 1.6;
+      margin-bottom: 24px;
+      flex-grow: 1;
+    }
+    .course-card__foot {
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      border-top: 1px solid var(--border);
+      padding-top: 16px;
+      font-size: 13px;
+      font-weight: 600;
+      color: var(--navy);
+    }
+    .btn[data-filter] {
+      padding: 8px 16px;
+      font-size: 14px;
+      border-color: var(--border-mid);
+    }
+    .btn[data-filter].btn--active {
+      background: var(--navy);
+      color: var(--white);
+      border-color: var(--navy);
+    }
+  </style>
+
+  <script>
+    document.addEventListener('DOMContentLoaded', function() {
+      const grid = document.getElementById('courses-grid');
+      const filterContainer = document.getElementById('category-filters');
+      const loading = document.getElementById('courses-loading');
+      
+      let allCourses = [];
+
+      fetch('assets/data/courses.json')
+        .then(response => response.json())
+        .then(data => {
+          allCourses = data;
+          loading.style.display = 'none';
+          
+          // Generate Filters
+          const categories = [...new Set(data.map(c => c.category))];
+          categories.forEach(cat => {
+            const btn = document.createElement('button');
+            btn.className = 'btn btn--secondary';
+            btn.setAttribute('data-filter', cat);
+            btn.innerText = cat;
+            filterContainer.appendChild(btn);
+          });
+
+          // Handle Filter Clicks
+          filterContainer.addEventListener('click', function(e) {
+            if(e.target.tagName === 'BUTTON') {
+              // Update active state
+              Array.from(filterContainer.children).forEach(b => b.classList.remove('btn--active'));
+              e.target.classList.add('btn--active');
+              
+              const filter = e.target.getAttribute('data-filter');
+              renderCourses(filter === 'all' ? allCourses : allCourses.filter(c => c.category === filter));
+            }
+          });
+
+          // Initial Render
+          renderCourses(allCourses);
+        })
+        .catch(err => {
+          loading.innerText = 'Failed to load courses. Please try again later.';
+        });
+
+      function renderCourses(courses) {
+        // Clear grid except loading
+        grid.innerHTML = '';
+        
+        courses.forEach(course => {
+          const a = document.createElement('a');
+          a.className = 'course-card';
+          a.href = `course.html?id=${course.id}`;
+          
+          a.innerHTML = `
+            <span class="course-card__tag">${course.level}</span>
+            <h3 class="course-card__title">${course.title}</h3>
+            <p class="course-card__desc">${course.description}</p>
+            <div class="course-card__foot">
+              <span>View Details</span>
+              <span aria-hidden="true" style="color: var(--orange);">→</span>
+            </div>
+          `;
+          grid.appendChild(a);
+        });
+      }
+    });
+  </script>
+
+
