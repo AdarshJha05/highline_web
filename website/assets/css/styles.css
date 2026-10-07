@@ -1847,3 +1847,11 @@ body.is-locked { overflow: hidden; }
   transform: translateY(-2px);
   box-shadow: 0 6px 20px rgba(0, 0, 0, 0.15);
 }
+
+
+/* Enhance header CTA button to match hero buttons */
+.nav__right .btn {
+  padding: 16px 36px;
+  font-size: 17px;
+  letter-spacing: 0.02em;
+}
