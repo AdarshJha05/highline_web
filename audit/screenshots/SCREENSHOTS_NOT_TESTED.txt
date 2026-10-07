@@ -1,0 +1,1 @@
+NOT TESTED: Cannot take visual screenshots of a running browser in this environment.
