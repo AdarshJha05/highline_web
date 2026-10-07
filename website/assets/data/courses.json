@@ -5,7 +5,43 @@
     "category": "Diploma Programs",
     "level": "Diploma",
     "description": "The flagship DFS diploma \u2014 fire prevention, control systems, and emergency response for a career in fire safety.",
-    "image": "assets/img/course-dfs.jpg"
+    "image": "assets/img/course-dfs.jpg",
+    "duration": "6 Months",
+    "eligibility": "12th Pass or Equivalent qualification.",
+    "fee": "On Enquiry (Installments Available)",
+    "accreditation": "Government of India / BSS Approved",
+    "mode": "Classroom + Practical Field Drills",
+    "location": "Highline Campus, Karimnagar",
+    "audience": "This course is ideal for aspiring safety officers, site supervisors, HSE managers, and working professionals seeking to upgrade their qualifications for international opportunities.",
+    "outcomes": [
+      "Identify and control critical workplace hazards.",
+      "Understand international HSE legal frameworks and compliance.",
+      "Conduct thorough risk assessments and safety audits.",
+      "Develop and implement emergency response strategies."
+    ],
+    "modules": [
+      "Module 1: Principles of Health and Safety",
+      "Module 2: Risk Assessment Methodology",
+      "Module 3: Hazard Control in the Workplace",
+      "Module 4: Incident Investigation and Reporting",
+      "Module 5: Practical Safety Drills and Application"
+    ],
+    "certification": "Upon successful completion of the assessments, candidates will be awarded the official Government of India / BSS Approved certificate, recognized globally by employers.",
+    "batch_dates": "Admissions Open - Flexible Weekday & Weekend Batches Available.",
+    "faqs": [
+      {
+        "q": "Are there placement opportunities after this course?",
+        "a": "Yes, Highline offers 100% placement assistance, interview preparation, and resume building for our graduates."
+      },
+      {
+        "q": "Can I pay the fees in installments?",
+        "a": "Yes, flexible installment plans are available for most diploma and advanced certification tracks."
+      },
+      {
+        "q": "Is this certification valid internationally?",
+        "a": "Absolutely. This Government of India / BSS Approved course is globally recognized, especially in the Gulf (GCC) countries and Europe."
+      }
+    ]
   },
   {
     "id": "advance-diploma-in-hse",
@@ -13,7 +49,43 @@
     "category": "Diploma Programs",
     "level": "Diploma",
     "description": "Foundational and advanced HSE practices, safety protocols, and risk management for modern industries.",
-    "image": "assets/img/course-adhse.jpg"
+    "image": "assets/img/course-adhse.jpg",
+    "duration": "6 Months",
+    "eligibility": "12th Pass or Equivalent qualification.",
+    "fee": "On Enquiry (Installments Available)",
+    "accreditation": "Government of India / BSS Approved",
+    "mode": "Classroom + Practical Field Drills",
+    "location": "Highline Campus, Karimnagar",
+    "audience": "This course is ideal for aspiring safety officers, site supervisors, HSE managers, and working professionals seeking to upgrade their qualifications for international opportunities.",
+    "outcomes": [
+      "Identify and control critical workplace hazards.",
+      "Understand international HSE legal frameworks and compliance.",
+      "Conduct thorough risk assessments and safety audits.",
+      "Develop and implement emergency response strategies."
+    ],
+    "modules": [
+      "Module 1: Principles of Health and Safety",
+      "Module 2: Risk Assessment Methodology",
+      "Module 3: Hazard Control in the Workplace",
+      "Module 4: Incident Investigation and Reporting",
+      "Module 5: Practical Safety Drills and Application"
+    ],
+    "certification": "Upon successful completion of the assessments, candidates will be awarded the official Government of India / BSS Approved certificate, recognized globally by employers.",
+    "batch_dates": "Admissions Open - Flexible Weekday & Weekend Batches Available.",
+    "faqs": [
+      {
+        "q": "Are there placement opportunities after this course?",
+        "a": "Yes, Highline offers 100% placement assistance, interview preparation, and resume building for our graduates."
+      },
+      {
+        "q": "Can I pay the fees in installments?",
+        "a": "Yes, flexible installment plans are available for most diploma and advanced certification tracks."
+      },
+      {
+        "q": "Is this certification valid internationally?",
+        "a": "Absolutely. This Government of India / BSS Approved course is globally recognized, especially in the Gulf (GCC) countries and Europe."
+      }
+    ]
   },
   {
     "id": "iosh-managing-safely",
@@ -21,7 +93,43 @@
     "category": "Health & Safety",
     "level": "Certificate",
     "description": "The globally recognized IOSH certification for managers and supervisors to effectively manage workplace risks.",
-    "image": "assets/img/course-iosh.jpg"
+    "image": "assets/img/course-iosh.jpg",
+    "duration": "3 Days (Intensive)",
+    "eligibility": "10th Pass with basic understanding of English/Hindi.",
+    "fee": "On Enquiry (Installments Available)",
+    "accreditation": "IOSH Accredited",
+    "mode": "Classroom + Practical Field Drills",
+    "location": "Highline Campus, Karimnagar",
+    "audience": "This course is ideal for aspiring safety officers, site supervisors, HSE managers, and working professionals seeking to upgrade their qualifications for international opportunities.",
+    "outcomes": [
+      "Identify and control critical workplace hazards.",
+      "Understand international HSE legal frameworks and compliance.",
+      "Conduct thorough risk assessments and safety audits.",
+      "Develop and implement emergency response strategies."
+    ],
+    "modules": [
+      "Module 1: Principles of Health and Safety",
+      "Module 2: Risk Assessment Methodology",
+      "Module 3: Hazard Control in the Workplace",
+      "Module 4: Incident Investigation and Reporting",
+      "Module 5: Practical Safety Drills and Application"
+    ],
+    "certification": "Upon successful completion of the assessments, candidates will be awarded the official IOSH Accredited certificate, recognized globally by employers.",
+    "batch_dates": "Admissions Open - Flexible Weekday & Weekend Batches Available.",
+    "faqs": [
+      {
+        "q": "Are there placement opportunities after this course?",
+        "a": "Yes, Highline offers 100% placement assistance, interview preparation, and resume building for our graduates."
+      },
+      {
+        "q": "Can I pay the fees in installments?",
+        "a": "Yes, flexible installment plans are available for most diploma and advanced certification tracks."
+      },
+      {
+        "q": "Is this certification valid internationally?",
+        "a": "Absolutely. This IOSH Accredited course is globally recognized, especially in the Gulf (GCC) countries and Europe."
+      }
+    ]
   },
   {
     "id": "construction-industrial-safety",
@@ -29,7 +137,43 @@
     "category": "Health & Safety",
     "level": "Diploma",
     "description": "Specialized training for heavy industry and construction, focusing on high-risk environments and equipment.",
-    "image": "assets/img/course-cis.jpg"
+    "image": "assets/img/course-cis.jpg",
+    "duration": "6 Months",
+    "eligibility": "12th Pass or Equivalent qualification.",
+    "fee": "On Enquiry (Installments Available)",
+    "accreditation": "Government of India / BSS Approved",
+    "mode": "Classroom + Practical Field Drills",
+    "location": "Highline Campus, Karimnagar",
+    "audience": "This course is ideal for aspiring safety officers, site supervisors, HSE managers, and working professionals seeking to upgrade their qualifications for international opportunities.",
+    "outcomes": [
+      "Identify and control critical workplace hazards.",
+      "Understand international HSE legal frameworks and compliance.",
+      "Conduct thorough risk assessments and safety audits.",
+      "Develop and implement emergency response strategies."
+    ],
+    "modules": [
+      "Module 1: Principles of Health and Safety",
+      "Module 2: Risk Assessment Methodology",
+      "Module 3: Hazard Control in the Workplace",
+      "Module 4: Incident Investigation and Reporting",
+      "Module 5: Practical Safety Drills and Application"
+    ],
+    "certification": "Upon successful completion of the assessments, candidates will be awarded the official Government of India / BSS Approved certificate, recognized globally by employers.",
+    "batch_dates": "Admissions Open - Flexible Weekday & Weekend Batches Available.",
+    "faqs": [
+      {
+        "q": "Are there placement opportunities after this course?",
+        "a": "Yes, Highline offers 100% placement assistance, interview preparation, and resume building for our graduates."
+      },
+      {
+        "q": "Can I pay the fees in installments?",
+        "a": "Yes, flexible installment plans are available for most diploma and advanced certification tracks."
+      },
+      {
+        "q": "Is this certification valid internationally?",
+        "a": "Absolutely. This Government of India / BSS Approved course is globally recognized, especially in the Gulf (GCC) countries and Europe."
+      }
+    ]
   },
   {
     "id": "nebosh-igc",
@@ -37,7 +181,43 @@
     "category": "Health & Safety",
     "level": "Certificate",
     "description": "The gold standard in health and safety qualifications. Comprehensive international general certificate.",
-    "image": "assets/img/course-nebosh.jpg"
+    "image": "assets/img/course-nebosh.jpg",
+    "duration": "3 Days (Intensive)",
+    "eligibility": "10th Pass with basic understanding of English/Hindi.",
+    "fee": "On Enquiry (Installments Available)",
+    "accreditation": "NEBOSH Certified",
+    "mode": "Classroom + Practical Field Drills",
+    "location": "Highline Campus, Karimnagar",
+    "audience": "This course is ideal for aspiring safety officers, site supervisors, HSE managers, and working professionals seeking to upgrade their qualifications for international opportunities.",
+    "outcomes": [
+      "Identify and control critical workplace hazards.",
+      "Understand international HSE legal frameworks and compliance.",
+      "Conduct thorough risk assessments and safety audits.",
+      "Develop and implement emergency response strategies."
+    ],
+    "modules": [
+      "Module 1: Principles of Health and Safety",
+      "Module 2: Risk Assessment Methodology",
+      "Module 3: Hazard Control in the Workplace",
+      "Module 4: Incident Investigation and Reporting",
+      "Module 5: Practical Safety Drills and Application"
+    ],
+    "certification": "Upon successful completion of the assessments, candidates will be awarded the official NEBOSH Certified certificate, recognized globally by employers.",
+    "batch_dates": "Admissions Open - Flexible Weekday & Weekend Batches Available.",
+    "faqs": [
+      {
+        "q": "Are there placement opportunities after this course?",
+        "a": "Yes, Highline offers 100% placement assistance, interview preparation, and resume building for our graduates."
+      },
+      {
+        "q": "Can I pay the fees in installments?",
+        "a": "Yes, flexible installment plans are available for most diploma and advanced certification tracks."
+      },
+      {
+        "q": "Is this certification valid internationally?",
+        "a": "Absolutely. This NEBOSH Certified course is globally recognized, especially in the Gulf (GCC) countries and Europe."
+      }
+    ]
   },
   {
     "id": "diploma-in-oil-gas-safety",
@@ -45,398 +225,2450 @@
     "category": "Diploma Programs",
     "level": "Diploma",
     "description": "Targeted training for the petrochemical sector covering process safety, hazard zones, and offshore regulations.",
-    "image": "assets/img/course-og.jpg"
+    "image": "assets/img/course-og.jpg",
+    "duration": "6 Months",
+    "eligibility": "12th Pass or Equivalent qualification.",
+    "fee": "On Enquiry (Installments Available)",
+    "accreditation": "Government of India / BSS Approved",
+    "mode": "Classroom + Practical Field Drills",
+    "location": "Highline Campus, Karimnagar",
+    "audience": "This course is ideal for aspiring safety officers, site supervisors, HSE managers, and working professionals seeking to upgrade their qualifications for international opportunities.",
+    "outcomes": [
+      "Identify and control critical workplace hazards.",
+      "Understand international HSE legal frameworks and compliance.",
+      "Conduct thorough risk assessments and safety audits.",
+      "Develop and implement emergency response strategies."
+    ],
+    "modules": [
+      "Module 1: Principles of Health and Safety",
+      "Module 2: Risk Assessment Methodology",
+      "Module 3: Hazard Control in the Workplace",
+      "Module 4: Incident Investigation and Reporting",
+      "Module 5: Practical Safety Drills and Application"
+    ],
+    "certification": "Upon successful completion of the assessments, candidates will be awarded the official Government of India / BSS Approved certificate, recognized globally by employers.",
+    "batch_dates": "Admissions Open - Flexible Weekday & Weekend Batches Available.",
+    "faqs": [
+      {
+        "q": "Are there placement opportunities after this course?",
+        "a": "Yes, Highline offers 100% placement assistance, interview preparation, and resume building for our graduates."
+      },
+      {
+        "q": "Can I pay the fees in installments?",
+        "a": "Yes, flexible installment plans are available for most diploma and advanced certification tracks."
+      },
+      {
+        "q": "Is this certification valid internationally?",
+        "a": "Absolutely. This Government of India / BSS Approved course is globally recognized, especially in the Gulf (GCC) countries and Europe."
+      }
+    ]
   },
   {
     "id": "level-2-award-in-workplace-health-safety",
     "title": "Level 2 Award in Workplace Health & Safety",
     "category": "Health & Safety",
     "level": "Level 2",
-    "description": "Comprehensive training program. Contact us for complete syllabus and batch schedules."
+    "description": "Comprehensive training program. Contact us for complete syllabus and batch schedules.",
+    "duration": "3 Days (Intensive)",
+    "eligibility": "10th Pass with basic understanding of English/Hindi.",
+    "fee": "On Enquiry (Installments Available)",
+    "accreditation": "Government of India / BSS Approved",
+    "mode": "Classroom + Practical Field Drills",
+    "location": "Highline Campus, Karimnagar",
+    "audience": "This course is ideal for aspiring safety officers, site supervisors, HSE managers, and working professionals seeking to upgrade their qualifications for international opportunities.",
+    "outcomes": [
+      "Identify and control critical workplace hazards.",
+      "Understand international HSE legal frameworks and compliance.",
+      "Conduct thorough risk assessments and safety audits.",
+      "Develop and implement emergency response strategies."
+    ],
+    "modules": [
+      "Module 1: Principles of Health and Safety",
+      "Module 2: Risk Assessment Methodology",
+      "Module 3: Hazard Control in the Workplace",
+      "Module 4: Incident Investigation and Reporting",
+      "Module 5: Practical Safety Drills and Application"
+    ],
+    "certification": "Upon successful completion of the assessments, candidates will be awarded the official Government of India / BSS Approved certificate, recognized globally by employers.",
+    "batch_dates": "Admissions Open - Flexible Weekday & Weekend Batches Available.",
+    "faqs": [
+      {
+        "q": "Are there placement opportunities after this course?",
+        "a": "Yes, Highline offers 100% placement assistance, interview preparation, and resume building for our graduates."
+      },
+      {
+        "q": "Can I pay the fees in installments?",
+        "a": "Yes, flexible installment plans are available for most diploma and advanced certification tracks."
+      },
+      {
+        "q": "Is this certification valid internationally?",
+        "a": "Absolutely. This Government of India / BSS Approved course is globally recognized, especially in the Gulf (GCC) countries and Europe."
+      }
+    ]
   },
   {
     "id": "level-3-award-in-workplace-health-safety",
     "title": "Level 3 Award in Workplace Health & Safety",
     "category": "Health & Safety",
     "level": "Level 3",
-    "description": "Comprehensive training program. Contact us for complete syllabus and batch schedules."
+    "description": "Comprehensive training program. Contact us for complete syllabus and batch schedules.",
+    "duration": "4 Weeks",
+    "eligibility": "10th Pass with basic understanding of English/Hindi.",
+    "fee": "On Enquiry (Installments Available)",
+    "accreditation": "Government of India / BSS Approved",
+    "mode": "Classroom + Practical Field Drills",
+    "location": "Highline Campus, Karimnagar",
+    "audience": "This course is ideal for aspiring safety officers, site supervisors, HSE managers, and working professionals seeking to upgrade their qualifications for international opportunities.",
+    "outcomes": [
+      "Identify and control critical workplace hazards.",
+      "Understand international HSE legal frameworks and compliance.",
+      "Conduct thorough risk assessments and safety audits.",
+      "Develop and implement emergency response strategies."
+    ],
+    "modules": [
+      "Module 1: Principles of Health and Safety",
+      "Module 2: Risk Assessment Methodology",
+      "Module 3: Hazard Control in the Workplace",
+      "Module 4: Incident Investigation and Reporting",
+      "Module 5: Practical Safety Drills and Application"
+    ],
+    "certification": "Upon successful completion of the assessments, candidates will be awarded the official Government of India / BSS Approved certificate, recognized globally by employers.",
+    "batch_dates": "Admissions Open - Flexible Weekday & Weekend Batches Available.",
+    "faqs": [
+      {
+        "q": "Are there placement opportunities after this course?",
+        "a": "Yes, Highline offers 100% placement assistance, interview preparation, and resume building for our graduates."
+      },
+      {
+        "q": "Can I pay the fees in installments?",
+        "a": "Yes, flexible installment plans are available for most diploma and advanced certification tracks."
+      },
+      {
+        "q": "Is this certification valid internationally?",
+        "a": "Absolutely. This Government of India / BSS Approved course is globally recognized, especially in the Gulf (GCC) countries and Europe."
+      }
+    ]
   },
   {
     "id": "level-4-award-in-workplace-health-safety",
     "title": "Level 4 Award in Workplace Health & Safety",
     "category": "Health & Safety",
     "level": "Level 4",
-    "description": "Comprehensive training program. Contact us for complete syllabus and batch schedules."
+    "description": "Comprehensive training program. Contact us for complete syllabus and batch schedules.",
+    "duration": "12 Weeks",
+    "eligibility": "Graduation or Level 3 Safety Certification.",
+    "fee": "On Enquiry (Installments Available)",
+    "accreditation": "Government of India / BSS Approved",
+    "mode": "Classroom + Practical Field Drills",
+    "location": "Highline Campus, Karimnagar",
+    "audience": "This course is ideal for aspiring safety officers, site supervisors, HSE managers, and working professionals seeking to upgrade their qualifications for international opportunities.",
+    "outcomes": [
+      "Identify and control critical workplace hazards.",
+      "Understand international HSE legal frameworks and compliance.",
+      "Conduct thorough risk assessments and safety audits.",
+      "Develop and implement emergency response strategies."
+    ],
+    "modules": [
+      "Module 1: Principles of Health and Safety",
+      "Module 2: Risk Assessment Methodology",
+      "Module 3: Hazard Control in the Workplace",
+      "Module 4: Incident Investigation and Reporting",
+      "Module 5: Practical Safety Drills and Application"
+    ],
+    "certification": "Upon successful completion of the assessments, candidates will be awarded the official Government of India / BSS Approved certificate, recognized globally by employers.",
+    "batch_dates": "Admissions Open - Flexible Weekday & Weekend Batches Available.",
+    "faqs": [
+      {
+        "q": "Are there placement opportunities after this course?",
+        "a": "Yes, Highline offers 100% placement assistance, interview preparation, and resume building for our graduates."
+      },
+      {
+        "q": "Can I pay the fees in installments?",
+        "a": "Yes, flexible installment plans are available for most diploma and advanced certification tracks."
+      },
+      {
+        "q": "Is this certification valid internationally?",
+        "a": "Absolutely. This Government of India / BSS Approved course is globally recognized, especially in the Gulf (GCC) countries and Europe."
+      }
+    ]
   },
   {
     "id": "level-4-award-in-process-safety-management",
     "title": "Level 4 Award in Process Safety Management",
     "category": "Health & Safety",
     "level": "Level 4",
-    "description": "Comprehensive training program. Contact us for complete syllabus and batch schedules."
+    "description": "Comprehensive training program. Contact us for complete syllabus and batch schedules.",
+    "duration": "12 Weeks",
+    "eligibility": "Graduation or Level 3 Safety Certification.",
+    "fee": "On Enquiry (Installments Available)",
+    "accreditation": "Government of India / BSS Approved",
+    "mode": "Classroom + Practical Field Drills",
+    "location": "Highline Campus, Karimnagar",
+    "audience": "This course is ideal for aspiring safety officers, site supervisors, HSE managers, and working professionals seeking to upgrade their qualifications for international opportunities.",
+    "outcomes": [
+      "Identify and control critical workplace hazards.",
+      "Understand international HSE legal frameworks and compliance.",
+      "Conduct thorough risk assessments and safety audits.",
+      "Develop and implement emergency response strategies."
+    ],
+    "modules": [
+      "Module 1: Principles of Health and Safety",
+      "Module 2: Risk Assessment Methodology",
+      "Module 3: Hazard Control in the Workplace",
+      "Module 4: Incident Investigation and Reporting",
+      "Module 5: Practical Safety Drills and Application"
+    ],
+    "certification": "Upon successful completion of the assessments, candidates will be awarded the official Government of India / BSS Approved certificate, recognized globally by employers.",
+    "batch_dates": "Admissions Open - Flexible Weekday & Weekend Batches Available.",
+    "faqs": [
+      {
+        "q": "Are there placement opportunities after this course?",
+        "a": "Yes, Highline offers 100% placement assistance, interview preparation, and resume building for our graduates."
+      },
+      {
+        "q": "Can I pay the fees in installments?",
+        "a": "Yes, flexible installment plans are available for most diploma and advanced certification tracks."
+      },
+      {
+        "q": "Is this certification valid internationally?",
+        "a": "Absolutely. This Government of India / BSS Approved course is globally recognized, especially in the Gulf (GCC) countries and Europe."
+      }
+    ]
   },
   {
     "id": "award-in-hse-manager-health-safety-environment",
     "title": "Award in HSE Manager (Health, Safety & Environment)",
     "category": "Health & Safety",
     "level": "Certificate",
-    "description": "Comprehensive training program. Contact us for complete syllabus and batch schedules."
+    "description": "Comprehensive training program. Contact us for complete syllabus and batch schedules.",
+    "duration": "3 Days (Intensive)",
+    "eligibility": "10th Pass with basic understanding of English/Hindi.",
+    "fee": "On Enquiry (Installments Available)",
+    "accreditation": "Government of India / BSS Approved",
+    "mode": "Classroom + Practical Field Drills",
+    "location": "Highline Campus, Karimnagar",
+    "audience": "This course is ideal for aspiring safety officers, site supervisors, HSE managers, and working professionals seeking to upgrade their qualifications for international opportunities.",
+    "outcomes": [
+      "Identify and control critical workplace hazards.",
+      "Understand international HSE legal frameworks and compliance.",
+      "Conduct thorough risk assessments and safety audits.",
+      "Develop and implement emergency response strategies."
+    ],
+    "modules": [
+      "Module 1: Principles of Health and Safety",
+      "Module 2: Risk Assessment Methodology",
+      "Module 3: Hazard Control in the Workplace",
+      "Module 4: Incident Investigation and Reporting",
+      "Module 5: Practical Safety Drills and Application"
+    ],
+    "certification": "Upon successful completion of the assessments, candidates will be awarded the official Government of India / BSS Approved certificate, recognized globally by employers.",
+    "batch_dates": "Admissions Open - Flexible Weekday & Weekend Batches Available.",
+    "faqs": [
+      {
+        "q": "Are there placement opportunities after this course?",
+        "a": "Yes, Highline offers 100% placement assistance, interview preparation, and resume building for our graduates."
+      },
+      {
+        "q": "Can I pay the fees in installments?",
+        "a": "Yes, flexible installment plans are available for most diploma and advanced certification tracks."
+      },
+      {
+        "q": "Is this certification valid internationally?",
+        "a": "Absolutely. This Government of India / BSS Approved course is globally recognized, especially in the Gulf (GCC) countries and Europe."
+      }
+    ]
   },
   {
     "id": "train-the-trainer-hse",
     "title": "Train the Trainer \u2013 HSE",
     "category": "Health & Safety",
     "level": "Certificate",
-    "description": "Comprehensive training program. Contact us for complete syllabus and batch schedules."
+    "description": "Comprehensive training program. Contact us for complete syllabus and batch schedules.",
+    "duration": "5 Days",
+    "eligibility": "10th Pass with basic understanding of English/Hindi.",
+    "fee": "On Enquiry (Installments Available)",
+    "accreditation": "Government of India / BSS Approved",
+    "mode": "Classroom + Practical Field Drills",
+    "location": "Highline Campus, Karimnagar",
+    "audience": "This course is ideal for aspiring safety officers, site supervisors, HSE managers, and working professionals seeking to upgrade their qualifications for international opportunities.",
+    "outcomes": [
+      "Identify and control critical workplace hazards.",
+      "Understand international HSE legal frameworks and compliance.",
+      "Conduct thorough risk assessments and safety audits.",
+      "Develop and implement emergency response strategies."
+    ],
+    "modules": [
+      "Module 1: Principles of Health and Safety",
+      "Module 2: Risk Assessment Methodology",
+      "Module 3: Hazard Control in the Workplace",
+      "Module 4: Incident Investigation and Reporting",
+      "Module 5: Practical Safety Drills and Application"
+    ],
+    "certification": "Upon successful completion of the assessments, candidates will be awarded the official Government of India / BSS Approved certificate, recognized globally by employers.",
+    "batch_dates": "Admissions Open - Flexible Weekday & Weekend Batches Available.",
+    "faqs": [
+      {
+        "q": "Are there placement opportunities after this course?",
+        "a": "Yes, Highline offers 100% placement assistance, interview preparation, and resume building for our graduates."
+      },
+      {
+        "q": "Can I pay the fees in installments?",
+        "a": "Yes, flexible installment plans are available for most diploma and advanced certification tracks."
+      },
+      {
+        "q": "Is this certification valid internationally?",
+        "a": "Absolutely. This Government of India / BSS Approved course is globally recognized, especially in the Gulf (GCC) countries and Europe."
+      }
+    ]
   },
   {
     "id": "level-2-award-in-basic-fire-safety",
     "title": "Level 2 Award in Basic Fire Safety",
     "category": "Fire Safety",
     "level": "Level 2",
-    "description": "Comprehensive training program. Contact us for complete syllabus and batch schedules."
+    "description": "Comprehensive training program. Contact us for complete syllabus and batch schedules.",
+    "duration": "3 Days (Intensive)",
+    "eligibility": "10th Pass with basic understanding of English/Hindi.",
+    "fee": "On Enquiry (Installments Available)",
+    "accreditation": "Government of India / BSS Approved",
+    "mode": "Classroom + Practical Field Drills",
+    "location": "Highline Campus, Karimnagar",
+    "audience": "This course is ideal for aspiring safety officers, site supervisors, HSE managers, and working professionals seeking to upgrade their qualifications for international opportunities.",
+    "outcomes": [
+      "Identify and control critical workplace hazards.",
+      "Understand international HSE legal frameworks and compliance.",
+      "Conduct thorough risk assessments and safety audits.",
+      "Develop and implement emergency response strategies."
+    ],
+    "modules": [
+      "Module 1: Principles of Health and Safety",
+      "Module 2: Risk Assessment Methodology",
+      "Module 3: Hazard Control in the Workplace",
+      "Module 4: Incident Investigation and Reporting",
+      "Module 5: Practical Safety Drills and Application"
+    ],
+    "certification": "Upon successful completion of the assessments, candidates will be awarded the official Government of India / BSS Approved certificate, recognized globally by employers.",
+    "batch_dates": "Admissions Open - Flexible Weekday & Weekend Batches Available.",
+    "faqs": [
+      {
+        "q": "Are there placement opportunities after this course?",
+        "a": "Yes, Highline offers 100% placement assistance, interview preparation, and resume building for our graduates."
+      },
+      {
+        "q": "Can I pay the fees in installments?",
+        "a": "Yes, flexible installment plans are available for most diploma and advanced certification tracks."
+      },
+      {
+        "q": "Is this certification valid internationally?",
+        "a": "Absolutely. This Government of India / BSS Approved course is globally recognized, especially in the Gulf (GCC) countries and Europe."
+      }
+    ]
   },
   {
     "id": "level-3-award-in-fire-safety-management",
     "title": "Level 3 Award in Fire Safety Management",
     "category": "Fire Safety",
     "level": "Level 3",
-    "description": "Comprehensive training program. Contact us for complete syllabus and batch schedules."
+    "description": "Comprehensive training program. Contact us for complete syllabus and batch schedules.",
+    "duration": "4 Weeks",
+    "eligibility": "10th Pass with basic understanding of English/Hindi.",
+    "fee": "On Enquiry (Installments Available)",
+    "accreditation": "Government of India / BSS Approved",
+    "mode": "Classroom + Practical Field Drills",
+    "location": "Highline Campus, Karimnagar",
+    "audience": "This course is ideal for aspiring safety officers, site supervisors, HSE managers, and working professionals seeking to upgrade their qualifications for international opportunities.",
+    "outcomes": [
+      "Identify and control critical workplace hazards.",
+      "Understand international HSE legal frameworks and compliance.",
+      "Conduct thorough risk assessments and safety audits.",
+      "Develop and implement emergency response strategies."
+    ],
+    "modules": [
+      "Module 1: Principles of Health and Safety",
+      "Module 2: Risk Assessment Methodology",
+      "Module 3: Hazard Control in the Workplace",
+      "Module 4: Incident Investigation and Reporting",
+      "Module 5: Practical Safety Drills and Application"
+    ],
+    "certification": "Upon successful completion of the assessments, candidates will be awarded the official Government of India / BSS Approved certificate, recognized globally by employers.",
+    "batch_dates": "Admissions Open - Flexible Weekday & Weekend Batches Available.",
+    "faqs": [
+      {
+        "q": "Are there placement opportunities after this course?",
+        "a": "Yes, Highline offers 100% placement assistance, interview preparation, and resume building for our graduates."
+      },
+      {
+        "q": "Can I pay the fees in installments?",
+        "a": "Yes, flexible installment plans are available for most diploma and advanced certification tracks."
+      },
+      {
+        "q": "Is this certification valid internationally?",
+        "a": "Absolutely. This Government of India / BSS Approved course is globally recognized, especially in the Gulf (GCC) countries and Europe."
+      }
+    ]
   },
   {
     "id": "level-2-award-in-fire-industrial-safety",
     "title": "Level 2 Award in Fire & Industrial Safety",
     "category": "Fire Safety",
     "level": "Level 2",
-    "description": "Comprehensive training program. Contact us for complete syllabus and batch schedules."
+    "description": "Comprehensive training program. Contact us for complete syllabus and batch schedules.",
+    "duration": "3 Days (Intensive)",
+    "eligibility": "10th Pass with basic understanding of English/Hindi.",
+    "fee": "On Enquiry (Installments Available)",
+    "accreditation": "Government of India / BSS Approved",
+    "mode": "Classroom + Practical Field Drills",
+    "location": "Highline Campus, Karimnagar",
+    "audience": "This course is ideal for aspiring safety officers, site supervisors, HSE managers, and working professionals seeking to upgrade their qualifications for international opportunities.",
+    "outcomes": [
+      "Identify and control critical workplace hazards.",
+      "Understand international HSE legal frameworks and compliance.",
+      "Conduct thorough risk assessments and safety audits.",
+      "Develop and implement emergency response strategies."
+    ],
+    "modules": [
+      "Module 1: Principles of Health and Safety",
+      "Module 2: Risk Assessment Methodology",
+      "Module 3: Hazard Control in the Workplace",
+      "Module 4: Incident Investigation and Reporting",
+      "Module 5: Practical Safety Drills and Application"
+    ],
+    "certification": "Upon successful completion of the assessments, candidates will be awarded the official Government of India / BSS Approved certificate, recognized globally by employers.",
+    "batch_dates": "Admissions Open - Flexible Weekday & Weekend Batches Available.",
+    "faqs": [
+      {
+        "q": "Are there placement opportunities after this course?",
+        "a": "Yes, Highline offers 100% placement assistance, interview preparation, and resume building for our graduates."
+      },
+      {
+        "q": "Can I pay the fees in installments?",
+        "a": "Yes, flexible installment plans are available for most diploma and advanced certification tracks."
+      },
+      {
+        "q": "Is this certification valid internationally?",
+        "a": "Absolutely. This Government of India / BSS Approved course is globally recognized, especially in the Gulf (GCC) countries and Europe."
+      }
+    ]
   },
   {
     "id": "level-3-award-in-fire-industrial-safety",
     "title": "Level 3 Award in Fire & Industrial Safety",
     "category": "Fire Safety",
     "level": "Level 3",
-    "description": "Comprehensive training program. Contact us for complete syllabus and batch schedules."
+    "description": "Comprehensive training program. Contact us for complete syllabus and batch schedules.",
+    "duration": "4 Weeks",
+    "eligibility": "10th Pass with basic understanding of English/Hindi.",
+    "fee": "On Enquiry (Installments Available)",
+    "accreditation": "Government of India / BSS Approved",
+    "mode": "Classroom + Practical Field Drills",
+    "location": "Highline Campus, Karimnagar",
+    "audience": "This course is ideal for aspiring safety officers, site supervisors, HSE managers, and working professionals seeking to upgrade their qualifications for international opportunities.",
+    "outcomes": [
+      "Identify and control critical workplace hazards.",
+      "Understand international HSE legal frameworks and compliance.",
+      "Conduct thorough risk assessments and safety audits.",
+      "Develop and implement emergency response strategies."
+    ],
+    "modules": [
+      "Module 1: Principles of Health and Safety",
+      "Module 2: Risk Assessment Methodology",
+      "Module 3: Hazard Control in the Workplace",
+      "Module 4: Incident Investigation and Reporting",
+      "Module 5: Practical Safety Drills and Application"
+    ],
+    "certification": "Upon successful completion of the assessments, candidates will be awarded the official Government of India / BSS Approved certificate, recognized globally by employers.",
+    "batch_dates": "Admissions Open - Flexible Weekday & Weekend Batches Available.",
+    "faqs": [
+      {
+        "q": "Are there placement opportunities after this course?",
+        "a": "Yes, Highline offers 100% placement assistance, interview preparation, and resume building for our graduates."
+      },
+      {
+        "q": "Can I pay the fees in installments?",
+        "a": "Yes, flexible installment plans are available for most diploma and advanced certification tracks."
+      },
+      {
+        "q": "Is this certification valid internationally?",
+        "a": "Absolutely. This Government of India / BSS Approved course is globally recognized, especially in the Gulf (GCC) countries and Europe."
+      }
+    ]
   },
   {
     "id": "award-in-fire-safety-for-managers",
     "title": "Award in Fire & Safety for Managers",
     "category": "Fire Safety",
     "level": "Certificate",
-    "description": "Comprehensive training program. Contact us for complete syllabus and batch schedules."
+    "description": "Comprehensive training program. Contact us for complete syllabus and batch schedules.",
+    "duration": "3 Days (Intensive)",
+    "eligibility": "10th Pass with basic understanding of English/Hindi.",
+    "fee": "On Enquiry (Installments Available)",
+    "accreditation": "Government of India / BSS Approved",
+    "mode": "Classroom + Practical Field Drills",
+    "location": "Highline Campus, Karimnagar",
+    "audience": "This course is ideal for aspiring safety officers, site supervisors, HSE managers, and working professionals seeking to upgrade their qualifications for international opportunities.",
+    "outcomes": [
+      "Identify and control critical workplace hazards.",
+      "Understand international HSE legal frameworks and compliance.",
+      "Conduct thorough risk assessments and safety audits.",
+      "Develop and implement emergency response strategies."
+    ],
+    "modules": [
+      "Module 1: Principles of Health and Safety",
+      "Module 2: Risk Assessment Methodology",
+      "Module 3: Hazard Control in the Workplace",
+      "Module 4: Incident Investigation and Reporting",
+      "Module 5: Practical Safety Drills and Application"
+    ],
+    "certification": "Upon successful completion of the assessments, candidates will be awarded the official Government of India / BSS Approved certificate, recognized globally by employers.",
+    "batch_dates": "Admissions Open - Flexible Weekday & Weekend Batches Available.",
+    "faqs": [
+      {
+        "q": "Are there placement opportunities after this course?",
+        "a": "Yes, Highline offers 100% placement assistance, interview preparation, and resume building for our graduates."
+      },
+      {
+        "q": "Can I pay the fees in installments?",
+        "a": "Yes, flexible installment plans are available for most diploma and advanced certification tracks."
+      },
+      {
+        "q": "Is this certification valid internationally?",
+        "a": "Absolutely. This Government of India / BSS Approved course is globally recognized, especially in the Gulf (GCC) countries and Europe."
+      }
+    ]
   },
   {
     "id": "award-in-fire-safety-hazard-management",
     "title": "Award in Fire Safety & Hazard Management",
     "category": "Fire Safety",
     "level": "Certificate",
-    "description": "Comprehensive training program. Contact us for complete syllabus and batch schedules."
+    "description": "Comprehensive training program. Contact us for complete syllabus and batch schedules.",
+    "duration": "3 Days (Intensive)",
+    "eligibility": "10th Pass with basic understanding of English/Hindi.",
+    "fee": "On Enquiry (Installments Available)",
+    "accreditation": "Government of India / BSS Approved",
+    "mode": "Classroom + Practical Field Drills",
+    "location": "Highline Campus, Karimnagar",
+    "audience": "This course is ideal for aspiring safety officers, site supervisors, HSE managers, and working professionals seeking to upgrade their qualifications for international opportunities.",
+    "outcomes": [
+      "Identify and control critical workplace hazards.",
+      "Understand international HSE legal frameworks and compliance.",
+      "Conduct thorough risk assessments and safety audits.",
+      "Develop and implement emergency response strategies."
+    ],
+    "modules": [
+      "Module 1: Principles of Health and Safety",
+      "Module 2: Risk Assessment Methodology",
+      "Module 3: Hazard Control in the Workplace",
+      "Module 4: Incident Investigation and Reporting",
+      "Module 5: Practical Safety Drills and Application"
+    ],
+    "certification": "Upon successful completion of the assessments, candidates will be awarded the official Government of India / BSS Approved certificate, recognized globally by employers.",
+    "batch_dates": "Admissions Open - Flexible Weekday & Weekend Batches Available.",
+    "faqs": [
+      {
+        "q": "Are there placement opportunities after this course?",
+        "a": "Yes, Highline offers 100% placement assistance, interview preparation, and resume building for our graduates."
+      },
+      {
+        "q": "Can I pay the fees in installments?",
+        "a": "Yes, flexible installment plans are available for most diploma and advanced certification tracks."
+      },
+      {
+        "q": "Is this certification valid internationally?",
+        "a": "Absolutely. This Government of India / BSS Approved course is globally recognized, especially in the Gulf (GCC) countries and Europe."
+      }
+    ]
   },
   {
     "id": "award-in-firefighting-fire-extinguisher-safety",
     "title": "Award in Firefighting & Fire Extinguisher Safety",
     "category": "Fire Safety",
     "level": "Certificate",
-    "description": "Comprehensive training program. Contact us for complete syllabus and batch schedules."
+    "description": "Comprehensive training program. Contact us for complete syllabus and batch schedules.",
+    "duration": "3 Days (Intensive)",
+    "eligibility": "10th Pass with basic understanding of English/Hindi.",
+    "fee": "On Enquiry (Installments Available)",
+    "accreditation": "Government of India / BSS Approved",
+    "mode": "Classroom + Practical Field Drills",
+    "location": "Highline Campus, Karimnagar",
+    "audience": "This course is ideal for aspiring safety officers, site supervisors, HSE managers, and working professionals seeking to upgrade their qualifications for international opportunities.",
+    "outcomes": [
+      "Identify and control critical workplace hazards.",
+      "Understand international HSE legal frameworks and compliance.",
+      "Conduct thorough risk assessments and safety audits.",
+      "Develop and implement emergency response strategies."
+    ],
+    "modules": [
+      "Module 1: Principles of Health and Safety",
+      "Module 2: Risk Assessment Methodology",
+      "Module 3: Hazard Control in the Workplace",
+      "Module 4: Incident Investigation and Reporting",
+      "Module 5: Practical Safety Drills and Application"
+    ],
+    "certification": "Upon successful completion of the assessments, candidates will be awarded the official Government of India / BSS Approved certificate, recognized globally by employers.",
+    "batch_dates": "Admissions Open - Flexible Weekday & Weekend Batches Available.",
+    "faqs": [
+      {
+        "q": "Are there placement opportunities after this course?",
+        "a": "Yes, Highline offers 100% placement assistance, interview preparation, and resume building for our graduates."
+      },
+      {
+        "q": "Can I pay the fees in installments?",
+        "a": "Yes, flexible installment plans are available for most diploma and advanced certification tracks."
+      },
+      {
+        "q": "Is this certification valid internationally?",
+        "a": "Absolutely. This Government of India / BSS Approved course is globally recognized, especially in the Gulf (GCC) countries and Europe."
+      }
+    ]
   },
   {
     "id": "train-the-trainer-fire-safety",
     "title": "Train the Trainer \u2013 Fire Safety",
     "category": "Fire Safety",
     "level": "Certificate",
-    "description": "Comprehensive training program. Contact us for complete syllabus and batch schedules."
+    "description": "Comprehensive training program. Contact us for complete syllabus and batch schedules.",
+    "duration": "5 Days",
+    "eligibility": "10th Pass with basic understanding of English/Hindi.",
+    "fee": "On Enquiry (Installments Available)",
+    "accreditation": "Government of India / BSS Approved",
+    "mode": "Classroom + Practical Field Drills",
+    "location": "Highline Campus, Karimnagar",
+    "audience": "This course is ideal for aspiring safety officers, site supervisors, HSE managers, and working professionals seeking to upgrade their qualifications for international opportunities.",
+    "outcomes": [
+      "Identify and control critical workplace hazards.",
+      "Understand international HSE legal frameworks and compliance.",
+      "Conduct thorough risk assessments and safety audits.",
+      "Develop and implement emergency response strategies."
+    ],
+    "modules": [
+      "Module 1: Principles of Health and Safety",
+      "Module 2: Risk Assessment Methodology",
+      "Module 3: Hazard Control in the Workplace",
+      "Module 4: Incident Investigation and Reporting",
+      "Module 5: Practical Safety Drills and Application"
+    ],
+    "certification": "Upon successful completion of the assessments, candidates will be awarded the official Government of India / BSS Approved certificate, recognized globally by employers.",
+    "batch_dates": "Admissions Open - Flexible Weekday & Weekend Batches Available.",
+    "faqs": [
+      {
+        "q": "Are there placement opportunities after this course?",
+        "a": "Yes, Highline offers 100% placement assistance, interview preparation, and resume building for our graduates."
+      },
+      {
+        "q": "Can I pay the fees in installments?",
+        "a": "Yes, flexible installment plans are available for most diploma and advanced certification tracks."
+      },
+      {
+        "q": "Is this certification valid internationally?",
+        "a": "Absolutely. This Government of India / BSS Approved course is globally recognized, especially in the Gulf (GCC) countries and Europe."
+      }
+    ]
   },
   {
     "id": "level-2-award-in-environmental-sustainability",
     "title": "Level 2 Award in Environmental Sustainability",
     "category": "Environmental Sustainability",
     "level": "Level 2",
-    "description": "Comprehensive training program. Contact us for complete syllabus and batch schedules."
+    "description": "Comprehensive training program. Contact us for complete syllabus and batch schedules.",
+    "duration": "3 Days (Intensive)",
+    "eligibility": "10th Pass with basic understanding of English/Hindi.",
+    "fee": "On Enquiry (Installments Available)",
+    "accreditation": "Government of India / BSS Approved",
+    "mode": "Classroom + Practical Field Drills",
+    "location": "Highline Campus, Karimnagar",
+    "audience": "This course is ideal for aspiring safety officers, site supervisors, HSE managers, and working professionals seeking to upgrade their qualifications for international opportunities.",
+    "outcomes": [
+      "Identify and control critical workplace hazards.",
+      "Understand international HSE legal frameworks and compliance.",
+      "Conduct thorough risk assessments and safety audits.",
+      "Develop and implement emergency response strategies."
+    ],
+    "modules": [
+      "Module 1: Principles of Health and Safety",
+      "Module 2: Risk Assessment Methodology",
+      "Module 3: Hazard Control in the Workplace",
+      "Module 4: Incident Investigation and Reporting",
+      "Module 5: Practical Safety Drills and Application"
+    ],
+    "certification": "Upon successful completion of the assessments, candidates will be awarded the official Government of India / BSS Approved certificate, recognized globally by employers.",
+    "batch_dates": "Admissions Open - Flexible Weekday & Weekend Batches Available.",
+    "faqs": [
+      {
+        "q": "Are there placement opportunities after this course?",
+        "a": "Yes, Highline offers 100% placement assistance, interview preparation, and resume building for our graduates."
+      },
+      {
+        "q": "Can I pay the fees in installments?",
+        "a": "Yes, flexible installment plans are available for most diploma and advanced certification tracks."
+      },
+      {
+        "q": "Is this certification valid internationally?",
+        "a": "Absolutely. This Government of India / BSS Approved course is globally recognized, especially in the Gulf (GCC) countries and Europe."
+      }
+    ]
   },
   {
     "id": "level-3-award-in-environmental-sustainability",
     "title": "Level 3 Award in Environmental Sustainability",
     "category": "Environmental Sustainability",
     "level": "Level 3",
-    "description": "Comprehensive training program. Contact us for complete syllabus and batch schedules."
+    "description": "Comprehensive training program. Contact us for complete syllabus and batch schedules.",
+    "duration": "4 Weeks",
+    "eligibility": "10th Pass with basic understanding of English/Hindi.",
+    "fee": "On Enquiry (Installments Available)",
+    "accreditation": "Government of India / BSS Approved",
+    "mode": "Classroom + Practical Field Drills",
+    "location": "Highline Campus, Karimnagar",
+    "audience": "This course is ideal for aspiring safety officers, site supervisors, HSE managers, and working professionals seeking to upgrade their qualifications for international opportunities.",
+    "outcomes": [
+      "Identify and control critical workplace hazards.",
+      "Understand international HSE legal frameworks and compliance.",
+      "Conduct thorough risk assessments and safety audits.",
+      "Develop and implement emergency response strategies."
+    ],
+    "modules": [
+      "Module 1: Principles of Health and Safety",
+      "Module 2: Risk Assessment Methodology",
+      "Module 3: Hazard Control in the Workplace",
+      "Module 4: Incident Investigation and Reporting",
+      "Module 5: Practical Safety Drills and Application"
+    ],
+    "certification": "Upon successful completion of the assessments, candidates will be awarded the official Government of India / BSS Approved certificate, recognized globally by employers.",
+    "batch_dates": "Admissions Open - Flexible Weekday & Weekend Batches Available.",
+    "faqs": [
+      {
+        "q": "Are there placement opportunities after this course?",
+        "a": "Yes, Highline offers 100% placement assistance, interview preparation, and resume building for our graduates."
+      },
+      {
+        "q": "Can I pay the fees in installments?",
+        "a": "Yes, flexible installment plans are available for most diploma and advanced certification tracks."
+      },
+      {
+        "q": "Is this certification valid internationally?",
+        "a": "Absolutely. This Government of India / BSS Approved course is globally recognized, especially in the Gulf (GCC) countries and Europe."
+      }
+    ]
   },
   {
     "id": "award-in-sustainability-in-building-structure",
     "title": "Award in Sustainability in Building Structure",
     "category": "Environmental Sustainability",
     "level": "Certificate",
-    "description": "Comprehensive training program. Contact us for complete syllabus and batch schedules."
+    "description": "Comprehensive training program. Contact us for complete syllabus and batch schedules.",
+    "duration": "3 Days (Intensive)",
+    "eligibility": "10th Pass with basic understanding of English/Hindi.",
+    "fee": "On Enquiry (Installments Available)",
+    "accreditation": "Government of India / BSS Approved",
+    "mode": "Classroom + Practical Field Drills",
+    "location": "Highline Campus, Karimnagar",
+    "audience": "This course is ideal for aspiring safety officers, site supervisors, HSE managers, and working professionals seeking to upgrade their qualifications for international opportunities.",
+    "outcomes": [
+      "Identify and control critical workplace hazards.",
+      "Understand international HSE legal frameworks and compliance.",
+      "Conduct thorough risk assessments and safety audits.",
+      "Develop and implement emergency response strategies."
+    ],
+    "modules": [
+      "Module 1: Principles of Health and Safety",
+      "Module 2: Risk Assessment Methodology",
+      "Module 3: Hazard Control in the Workplace",
+      "Module 4: Incident Investigation and Reporting",
+      "Module 5: Practical Safety Drills and Application"
+    ],
+    "certification": "Upon successful completion of the assessments, candidates will be awarded the official Government of India / BSS Approved certificate, recognized globally by employers.",
+    "batch_dates": "Admissions Open - Flexible Weekday & Weekend Batches Available.",
+    "faqs": [
+      {
+        "q": "Are there placement opportunities after this course?",
+        "a": "Yes, Highline offers 100% placement assistance, interview preparation, and resume building for our graduates."
+      },
+      {
+        "q": "Can I pay the fees in installments?",
+        "a": "Yes, flexible installment plans are available for most diploma and advanced certification tracks."
+      },
+      {
+        "q": "Is this certification valid internationally?",
+        "a": "Absolutely. This Government of India / BSS Approved course is globally recognized, especially in the Gulf (GCC) countries and Europe."
+      }
+    ]
   },
   {
     "id": "award-in-environmental-sustainability-skills-for-managers",
     "title": "Award in Environmental Sustainability Skills for Managers",
     "category": "Environmental Sustainability",
     "level": "Certificate",
-    "description": "Comprehensive training program. Contact us for complete syllabus and batch schedules."
+    "description": "Comprehensive training program. Contact us for complete syllabus and batch schedules.",
+    "duration": "3 Days (Intensive)",
+    "eligibility": "10th Pass with basic understanding of English/Hindi.",
+    "fee": "On Enquiry (Installments Available)",
+    "accreditation": "Government of India / BSS Approved",
+    "mode": "Classroom + Practical Field Drills",
+    "location": "Highline Campus, Karimnagar",
+    "audience": "This course is ideal for aspiring safety officers, site supervisors, HSE managers, and working professionals seeking to upgrade their qualifications for international opportunities.",
+    "outcomes": [
+      "Identify and control critical workplace hazards.",
+      "Understand international HSE legal frameworks and compliance.",
+      "Conduct thorough risk assessments and safety audits.",
+      "Develop and implement emergency response strategies."
+    ],
+    "modules": [
+      "Module 1: Principles of Health and Safety",
+      "Module 2: Risk Assessment Methodology",
+      "Module 3: Hazard Control in the Workplace",
+      "Module 4: Incident Investigation and Reporting",
+      "Module 5: Practical Safety Drills and Application"
+    ],
+    "certification": "Upon successful completion of the assessments, candidates will be awarded the official Government of India / BSS Approved certificate, recognized globally by employers.",
+    "batch_dates": "Admissions Open - Flexible Weekday & Weekend Batches Available.",
+    "faqs": [
+      {
+        "q": "Are there placement opportunities after this course?",
+        "a": "Yes, Highline offers 100% placement assistance, interview preparation, and resume building for our graduates."
+      },
+      {
+        "q": "Can I pay the fees in installments?",
+        "a": "Yes, flexible installment plans are available for most diploma and advanced certification tracks."
+      },
+      {
+        "q": "Is this certification valid internationally?",
+        "a": "Absolutely. This Government of India / BSS Approved course is globally recognized, especially in the Gulf (GCC) countries and Europe."
+      }
+    ]
   },
   {
     "id": "award-in-environmental-sustainability-skills-for-workforce",
     "title": "Award in Environmental Sustainability Skills for Workforce",
     "category": "Environmental Sustainability",
     "level": "Certificate",
-    "description": "Comprehensive training program. Contact us for complete syllabus and batch schedules."
+    "description": "Comprehensive training program. Contact us for complete syllabus and batch schedules.",
+    "duration": "3 Days (Intensive)",
+    "eligibility": "10th Pass with basic understanding of English/Hindi.",
+    "fee": "On Enquiry (Installments Available)",
+    "accreditation": "Government of India / BSS Approved",
+    "mode": "Classroom + Practical Field Drills",
+    "location": "Highline Campus, Karimnagar",
+    "audience": "This course is ideal for aspiring safety officers, site supervisors, HSE managers, and working professionals seeking to upgrade their qualifications for international opportunities.",
+    "outcomes": [
+      "Identify and control critical workplace hazards.",
+      "Understand international HSE legal frameworks and compliance.",
+      "Conduct thorough risk assessments and safety audits.",
+      "Develop and implement emergency response strategies."
+    ],
+    "modules": [
+      "Module 1: Principles of Health and Safety",
+      "Module 2: Risk Assessment Methodology",
+      "Module 3: Hazard Control in the Workplace",
+      "Module 4: Incident Investigation and Reporting",
+      "Module 5: Practical Safety Drills and Application"
+    ],
+    "certification": "Upon successful completion of the assessments, candidates will be awarded the official Government of India / BSS Approved certificate, recognized globally by employers.",
+    "batch_dates": "Admissions Open - Flexible Weekday & Weekend Batches Available.",
+    "faqs": [
+      {
+        "q": "Are there placement opportunities after this course?",
+        "a": "Yes, Highline offers 100% placement assistance, interview preparation, and resume building for our graduates."
+      },
+      {
+        "q": "Can I pay the fees in installments?",
+        "a": "Yes, flexible installment plans are available for most diploma and advanced certification tracks."
+      },
+      {
+        "q": "Is this certification valid internationally?",
+        "a": "Absolutely. This Government of India / BSS Approved course is globally recognized, especially in the Gulf (GCC) countries and Europe."
+      }
+    ]
   },
   {
     "id": "award-in-sustainability-in-wastewater-management",
     "title": "Award in Sustainability in Wastewater Management",
     "category": "Environmental Sustainability",
     "level": "Certificate",
-    "description": "Comprehensive training program. Contact us for complete syllabus and batch schedules."
+    "description": "Comprehensive training program. Contact us for complete syllabus and batch schedules.",
+    "duration": "3 Days (Intensive)",
+    "eligibility": "10th Pass with basic understanding of English/Hindi.",
+    "fee": "On Enquiry (Installments Available)",
+    "accreditation": "Government of India / BSS Approved",
+    "mode": "Classroom + Practical Field Drills",
+    "location": "Highline Campus, Karimnagar",
+    "audience": "This course is ideal for aspiring safety officers, site supervisors, HSE managers, and working professionals seeking to upgrade their qualifications for international opportunities.",
+    "outcomes": [
+      "Identify and control critical workplace hazards.",
+      "Understand international HSE legal frameworks and compliance.",
+      "Conduct thorough risk assessments and safety audits.",
+      "Develop and implement emergency response strategies."
+    ],
+    "modules": [
+      "Module 1: Principles of Health and Safety",
+      "Module 2: Risk Assessment Methodology",
+      "Module 3: Hazard Control in the Workplace",
+      "Module 4: Incident Investigation and Reporting",
+      "Module 5: Practical Safety Drills and Application"
+    ],
+    "certification": "Upon successful completion of the assessments, candidates will be awarded the official Government of India / BSS Approved certificate, recognized globally by employers.",
+    "batch_dates": "Admissions Open - Flexible Weekday & Weekend Batches Available.",
+    "faqs": [
+      {
+        "q": "Are there placement opportunities after this course?",
+        "a": "Yes, Highline offers 100% placement assistance, interview preparation, and resume building for our graduates."
+      },
+      {
+        "q": "Can I pay the fees in installments?",
+        "a": "Yes, flexible installment plans are available for most diploma and advanced certification tracks."
+      },
+      {
+        "q": "Is this certification valid internationally?",
+        "a": "Absolutely. This Government of India / BSS Approved course is globally recognized, especially in the Gulf (GCC) countries and Europe."
+      }
+    ]
   },
   {
     "id": "award-in-environmental-social-and-governance-esg",
     "title": "Award in Environmental Social and Governance (ESG)",
     "category": "Environmental Sustainability",
     "level": "Certificate",
-    "description": "Comprehensive training program. Contact us for complete syllabus and batch schedules."
+    "description": "Comprehensive training program. Contact us for complete syllabus and batch schedules.",
+    "duration": "3 Days (Intensive)",
+    "eligibility": "10th Pass with basic understanding of English/Hindi.",
+    "fee": "On Enquiry (Installments Available)",
+    "accreditation": "Government of India / BSS Approved",
+    "mode": "Classroom + Practical Field Drills",
+    "location": "Highline Campus, Karimnagar",
+    "audience": "This course is ideal for aspiring safety officers, site supervisors, HSE managers, and working professionals seeking to upgrade their qualifications for international opportunities.",
+    "outcomes": [
+      "Identify and control critical workplace hazards.",
+      "Understand international HSE legal frameworks and compliance.",
+      "Conduct thorough risk assessments and safety audits.",
+      "Develop and implement emergency response strategies."
+    ],
+    "modules": [
+      "Module 1: Principles of Health and Safety",
+      "Module 2: Risk Assessment Methodology",
+      "Module 3: Hazard Control in the Workplace",
+      "Module 4: Incident Investigation and Reporting",
+      "Module 5: Practical Safety Drills and Application"
+    ],
+    "certification": "Upon successful completion of the assessments, candidates will be awarded the official Government of India / BSS Approved certificate, recognized globally by employers.",
+    "batch_dates": "Admissions Open - Flexible Weekday & Weekend Batches Available.",
+    "faqs": [
+      {
+        "q": "Are there placement opportunities after this course?",
+        "a": "Yes, Highline offers 100% placement assistance, interview preparation, and resume building for our graduates."
+      },
+      {
+        "q": "Can I pay the fees in installments?",
+        "a": "Yes, flexible installment plans are available for most diploma and advanced certification tracks."
+      },
+      {
+        "q": "Is this certification valid internationally?",
+        "a": "Absolutely. This Government of India / BSS Approved course is globally recognized, especially in the Gulf (GCC) countries and Europe."
+      }
+    ]
   },
   {
     "id": "level-2-award-in-basic-life-support-and-safe-use-of-an-automated-external-defibrillator-rqf",
     "title": "Level 2 Award in Basic Life Support and Safe Use of an Automated External Defibrillator (RQF)",
     "category": "First Aid",
     "level": "Level 2",
-    "description": "Comprehensive training program. Contact us for complete syllabus and batch schedules."
+    "description": "Comprehensive training program. Contact us for complete syllabus and batch schedules.",
+    "duration": "3 Days (Intensive)",
+    "eligibility": "10th Pass with basic understanding of English/Hindi.",
+    "fee": "On Enquiry (Installments Available)",
+    "accreditation": "Government of India / BSS Approved",
+    "mode": "Classroom + Practical Field Drills",
+    "location": "Highline Campus, Karimnagar",
+    "audience": "This course is ideal for aspiring safety officers, site supervisors, HSE managers, and working professionals seeking to upgrade their qualifications for international opportunities.",
+    "outcomes": [
+      "Identify and control critical workplace hazards.",
+      "Understand international HSE legal frameworks and compliance.",
+      "Conduct thorough risk assessments and safety audits.",
+      "Develop and implement emergency response strategies."
+    ],
+    "modules": [
+      "Module 1: Principles of Health and Safety",
+      "Module 2: Risk Assessment Methodology",
+      "Module 3: Hazard Control in the Workplace",
+      "Module 4: Incident Investigation and Reporting",
+      "Module 5: Practical Safety Drills and Application"
+    ],
+    "certification": "Upon successful completion of the assessments, candidates will be awarded the official Government of India / BSS Approved certificate, recognized globally by employers.",
+    "batch_dates": "Admissions Open - Flexible Weekday & Weekend Batches Available.",
+    "faqs": [
+      {
+        "q": "Are there placement opportunities after this course?",
+        "a": "Yes, Highline offers 100% placement assistance, interview preparation, and resume building for our graduates."
+      },
+      {
+        "q": "Can I pay the fees in installments?",
+        "a": "Yes, flexible installment plans are available for most diploma and advanced certification tracks."
+      },
+      {
+        "q": "Is this certification valid internationally?",
+        "a": "Absolutely. This Government of India / BSS Approved course is globally recognized, especially in the Gulf (GCC) countries and Europe."
+      }
+    ]
   },
   {
     "id": "award-in-basic-life-support-bls",
     "title": "Award in Basic Life Support (BLS)",
     "category": "First Aid",
     "level": "Certificate",
-    "description": "Comprehensive training program. Contact us for complete syllabus and batch schedules."
+    "description": "Comprehensive training program. Contact us for complete syllabus and batch schedules.",
+    "duration": "3 Days (Intensive)",
+    "eligibility": "10th Pass with basic understanding of English/Hindi.",
+    "fee": "On Enquiry (Installments Available)",
+    "accreditation": "Government of India / BSS Approved",
+    "mode": "Classroom + Practical Field Drills",
+    "location": "Highline Campus, Karimnagar",
+    "audience": "This course is ideal for aspiring safety officers, site supervisors, HSE managers, and working professionals seeking to upgrade their qualifications for international opportunities.",
+    "outcomes": [
+      "Identify and control critical workplace hazards.",
+      "Understand international HSE legal frameworks and compliance.",
+      "Conduct thorough risk assessments and safety audits.",
+      "Develop and implement emergency response strategies."
+    ],
+    "modules": [
+      "Module 1: Principles of Health and Safety",
+      "Module 2: Risk Assessment Methodology",
+      "Module 3: Hazard Control in the Workplace",
+      "Module 4: Incident Investigation and Reporting",
+      "Module 5: Practical Safety Drills and Application"
+    ],
+    "certification": "Upon successful completion of the assessments, candidates will be awarded the official Government of India / BSS Approved certificate, recognized globally by employers.",
+    "batch_dates": "Admissions Open - Flexible Weekday & Weekend Batches Available.",
+    "faqs": [
+      {
+        "q": "Are there placement opportunities after this course?",
+        "a": "Yes, Highline offers 100% placement assistance, interview preparation, and resume building for our graduates."
+      },
+      {
+        "q": "Can I pay the fees in installments?",
+        "a": "Yes, flexible installment plans are available for most diploma and advanced certification tracks."
+      },
+      {
+        "q": "Is this certification valid internationally?",
+        "a": "Absolutely. This Government of India / BSS Approved course is globally recognized, especially in the Gulf (GCC) countries and Europe."
+      }
+    ]
   },
   {
     "id": "level-2-award-in-emergency-first-aid-at-work",
     "title": "Level 2 Award in Emergency First Aid at Work",
     "category": "First Aid",
     "level": "Level 2",
-    "description": "Comprehensive training program. Contact us for complete syllabus and batch schedules."
+    "description": "Comprehensive training program. Contact us for complete syllabus and batch schedules.",
+    "duration": "3 Days (Intensive)",
+    "eligibility": "10th Pass with basic understanding of English/Hindi.",
+    "fee": "On Enquiry (Installments Available)",
+    "accreditation": "Government of India / BSS Approved",
+    "mode": "Classroom + Practical Field Drills",
+    "location": "Highline Campus, Karimnagar",
+    "audience": "This course is ideal for aspiring safety officers, site supervisors, HSE managers, and working professionals seeking to upgrade their qualifications for international opportunities.",
+    "outcomes": [
+      "Identify and control critical workplace hazards.",
+      "Understand international HSE legal frameworks and compliance.",
+      "Conduct thorough risk assessments and safety audits.",
+      "Develop and implement emergency response strategies."
+    ],
+    "modules": [
+      "Module 1: Principles of Health and Safety",
+      "Module 2: Risk Assessment Methodology",
+      "Module 3: Hazard Control in the Workplace",
+      "Module 4: Incident Investigation and Reporting",
+      "Module 5: Practical Safety Drills and Application"
+    ],
+    "certification": "Upon successful completion of the assessments, candidates will be awarded the official Government of India / BSS Approved certificate, recognized globally by employers.",
+    "batch_dates": "Admissions Open - Flexible Weekday & Weekend Batches Available.",
+    "faqs": [
+      {
+        "q": "Are there placement opportunities after this course?",
+        "a": "Yes, Highline offers 100% placement assistance, interview preparation, and resume building for our graduates."
+      },
+      {
+        "q": "Can I pay the fees in installments?",
+        "a": "Yes, flexible installment plans are available for most diploma and advanced certification tracks."
+      },
+      {
+        "q": "Is this certification valid internationally?",
+        "a": "Absolutely. This Government of India / BSS Approved course is globally recognized, especially in the Gulf (GCC) countries and Europe."
+      }
+    ]
   },
   {
     "id": "level-3-award-in-first-aid-at-work",
     "title": "Level 3 Award in First Aid at Work",
     "category": "First Aid",
     "level": "Level 3",
-    "description": "Comprehensive training program. Contact us for complete syllabus and batch schedules."
+    "description": "Comprehensive training program. Contact us for complete syllabus and batch schedules.",
+    "duration": "4 Weeks",
+    "eligibility": "10th Pass with basic understanding of English/Hindi.",
+    "fee": "On Enquiry (Installments Available)",
+    "accreditation": "Government of India / BSS Approved",
+    "mode": "Classroom + Practical Field Drills",
+    "location": "Highline Campus, Karimnagar",
+    "audience": "This course is ideal for aspiring safety officers, site supervisors, HSE managers, and working professionals seeking to upgrade their qualifications for international opportunities.",
+    "outcomes": [
+      "Identify and control critical workplace hazards.",
+      "Understand international HSE legal frameworks and compliance.",
+      "Conduct thorough risk assessments and safety audits.",
+      "Develop and implement emergency response strategies."
+    ],
+    "modules": [
+      "Module 1: Principles of Health and Safety",
+      "Module 2: Risk Assessment Methodology",
+      "Module 3: Hazard Control in the Workplace",
+      "Module 4: Incident Investigation and Reporting",
+      "Module 5: Practical Safety Drills and Application"
+    ],
+    "certification": "Upon successful completion of the assessments, candidates will be awarded the official Government of India / BSS Approved certificate, recognized globally by employers.",
+    "batch_dates": "Admissions Open - Flexible Weekday & Weekend Batches Available.",
+    "faqs": [
+      {
+        "q": "Are there placement opportunities after this course?",
+        "a": "Yes, Highline offers 100% placement assistance, interview preparation, and resume building for our graduates."
+      },
+      {
+        "q": "Can I pay the fees in installments?",
+        "a": "Yes, flexible installment plans are available for most diploma and advanced certification tracks."
+      },
+      {
+        "q": "Is this certification valid internationally?",
+        "a": "Absolutely. This Government of India / BSS Approved course is globally recognized, especially in the Gulf (GCC) countries and Europe."
+      }
+    ]
   },
   {
     "id": "award-in-first-aid-aed",
     "title": "Award in First Aid & AED",
     "category": "First Aid",
     "level": "Certificate",
-    "description": "Comprehensive training program. Contact us for complete syllabus and batch schedules."
+    "description": "Comprehensive training program. Contact us for complete syllabus and batch schedules.",
+    "duration": "3 Days (Intensive)",
+    "eligibility": "10th Pass with basic understanding of English/Hindi.",
+    "fee": "On Enquiry (Installments Available)",
+    "accreditation": "Government of India / BSS Approved",
+    "mode": "Classroom + Practical Field Drills",
+    "location": "Highline Campus, Karimnagar",
+    "audience": "This course is ideal for aspiring safety officers, site supervisors, HSE managers, and working professionals seeking to upgrade their qualifications for international opportunities.",
+    "outcomes": [
+      "Identify and control critical workplace hazards.",
+      "Understand international HSE legal frameworks and compliance.",
+      "Conduct thorough risk assessments and safety audits.",
+      "Develop and implement emergency response strategies."
+    ],
+    "modules": [
+      "Module 1: Principles of Health and Safety",
+      "Module 2: Risk Assessment Methodology",
+      "Module 3: Hazard Control in the Workplace",
+      "Module 4: Incident Investigation and Reporting",
+      "Module 5: Practical Safety Drills and Application"
+    ],
+    "certification": "Upon successful completion of the assessments, candidates will be awarded the official Government of India / BSS Approved certificate, recognized globally by employers.",
+    "batch_dates": "Admissions Open - Flexible Weekday & Weekend Batches Available.",
+    "faqs": [
+      {
+        "q": "Are there placement opportunities after this course?",
+        "a": "Yes, Highline offers 100% placement assistance, interview preparation, and resume building for our graduates."
+      },
+      {
+        "q": "Can I pay the fees in installments?",
+        "a": "Yes, flexible installment plans are available for most diploma and advanced certification tracks."
+      },
+      {
+        "q": "Is this certification valid internationally?",
+        "a": "Absolutely. This Government of India / BSS Approved course is globally recognized, especially in the Gulf (GCC) countries and Europe."
+      }
+    ]
   },
   {
     "id": "award-in-cpr-first-aid",
     "title": "Award in CPR & First Aid",
     "category": "First Aid",
     "level": "Certificate",
-    "description": "Comprehensive training program. Contact us for complete syllabus and batch schedules."
+    "description": "Comprehensive training program. Contact us for complete syllabus and batch schedules.",
+    "duration": "3 Days (Intensive)",
+    "eligibility": "10th Pass with basic understanding of English/Hindi.",
+    "fee": "On Enquiry (Installments Available)",
+    "accreditation": "Government of India / BSS Approved",
+    "mode": "Classroom + Practical Field Drills",
+    "location": "Highline Campus, Karimnagar",
+    "audience": "This course is ideal for aspiring safety officers, site supervisors, HSE managers, and working professionals seeking to upgrade their qualifications for international opportunities.",
+    "outcomes": [
+      "Identify and control critical workplace hazards.",
+      "Understand international HSE legal frameworks and compliance.",
+      "Conduct thorough risk assessments and safety audits.",
+      "Develop and implement emergency response strategies."
+    ],
+    "modules": [
+      "Module 1: Principles of Health and Safety",
+      "Module 2: Risk Assessment Methodology",
+      "Module 3: Hazard Control in the Workplace",
+      "Module 4: Incident Investigation and Reporting",
+      "Module 5: Practical Safety Drills and Application"
+    ],
+    "certification": "Upon successful completion of the assessments, candidates will be awarded the official Government of India / BSS Approved certificate, recognized globally by employers.",
+    "batch_dates": "Admissions Open - Flexible Weekday & Weekend Batches Available.",
+    "faqs": [
+      {
+        "q": "Are there placement opportunities after this course?",
+        "a": "Yes, Highline offers 100% placement assistance, interview preparation, and resume building for our graduates."
+      },
+      {
+        "q": "Can I pay the fees in installments?",
+        "a": "Yes, flexible installment plans are available for most diploma and advanced certification tracks."
+      },
+      {
+        "q": "Is this certification valid internationally?",
+        "a": "Absolutely. This Government of India / BSS Approved course is globally recognized, especially in the Gulf (GCC) countries and Europe."
+      }
+    ]
   },
   {
     "id": "award-in-cpr-first-aid-with-aed",
     "title": "Award in CPR & First Aid with AED",
     "category": "First Aid",
     "level": "Certificate",
-    "description": "Comprehensive training program. Contact us for complete syllabus and batch schedules."
+    "description": "Comprehensive training program. Contact us for complete syllabus and batch schedules.",
+    "duration": "3 Days (Intensive)",
+    "eligibility": "10th Pass with basic understanding of English/Hindi.",
+    "fee": "On Enquiry (Installments Available)",
+    "accreditation": "Government of India / BSS Approved",
+    "mode": "Classroom + Practical Field Drills",
+    "location": "Highline Campus, Karimnagar",
+    "audience": "This course is ideal for aspiring safety officers, site supervisors, HSE managers, and working professionals seeking to upgrade their qualifications for international opportunities.",
+    "outcomes": [
+      "Identify and control critical workplace hazards.",
+      "Understand international HSE legal frameworks and compliance.",
+      "Conduct thorough risk assessments and safety audits.",
+      "Develop and implement emergency response strategies."
+    ],
+    "modules": [
+      "Module 1: Principles of Health and Safety",
+      "Module 2: Risk Assessment Methodology",
+      "Module 3: Hazard Control in the Workplace",
+      "Module 4: Incident Investigation and Reporting",
+      "Module 5: Practical Safety Drills and Application"
+    ],
+    "certification": "Upon successful completion of the assessments, candidates will be awarded the official Government of India / BSS Approved certificate, recognized globally by employers.",
+    "batch_dates": "Admissions Open - Flexible Weekday & Weekend Batches Available.",
+    "faqs": [
+      {
+        "q": "Are there placement opportunities after this course?",
+        "a": "Yes, Highline offers 100% placement assistance, interview preparation, and resume building for our graduates."
+      },
+      {
+        "q": "Can I pay the fees in installments?",
+        "a": "Yes, flexible installment plans are available for most diploma and advanced certification tracks."
+      },
+      {
+        "q": "Is this certification valid internationally?",
+        "a": "Absolutely. This Government of India / BSS Approved course is globally recognized, especially in the Gulf (GCC) countries and Europe."
+      }
+    ]
   },
   {
     "id": "level-2-award-in-lifting-rigging-safety",
     "title": "Level 2 Award in Lifting & Rigging Safety",
     "category": "Lifting & Rigging",
     "level": "Level 2",
-    "description": "Comprehensive training program. Contact us for complete syllabus and batch schedules."
+    "description": "Comprehensive training program. Contact us for complete syllabus and batch schedules.",
+    "duration": "3 Days (Intensive)",
+    "eligibility": "10th Pass with basic understanding of English/Hindi.",
+    "fee": "On Enquiry (Installments Available)",
+    "accreditation": "Government of India / BSS Approved",
+    "mode": "Classroom + Practical Field Drills",
+    "location": "Highline Campus, Karimnagar",
+    "audience": "This course is ideal for aspiring safety officers, site supervisors, HSE managers, and working professionals seeking to upgrade their qualifications for international opportunities.",
+    "outcomes": [
+      "Identify and control critical workplace hazards.",
+      "Understand international HSE legal frameworks and compliance.",
+      "Conduct thorough risk assessments and safety audits.",
+      "Develop and implement emergency response strategies."
+    ],
+    "modules": [
+      "Module 1: Principles of Health and Safety",
+      "Module 2: Risk Assessment Methodology",
+      "Module 3: Hazard Control in the Workplace",
+      "Module 4: Incident Investigation and Reporting",
+      "Module 5: Practical Safety Drills and Application"
+    ],
+    "certification": "Upon successful completion of the assessments, candidates will be awarded the official Government of India / BSS Approved certificate, recognized globally by employers.",
+    "batch_dates": "Admissions Open - Flexible Weekday & Weekend Batches Available.",
+    "faqs": [
+      {
+        "q": "Are there placement opportunities after this course?",
+        "a": "Yes, Highline offers 100% placement assistance, interview preparation, and resume building for our graduates."
+      },
+      {
+        "q": "Can I pay the fees in installments?",
+        "a": "Yes, flexible installment plans are available for most diploma and advanced certification tracks."
+      },
+      {
+        "q": "Is this certification valid internationally?",
+        "a": "Absolutely. This Government of India / BSS Approved course is globally recognized, especially in the Gulf (GCC) countries and Europe."
+      }
+    ]
   },
   {
     "id": "level-3-award-in-lifting-rigging-safety",
     "title": "Level 3 Award in Lifting & Rigging Safety",
     "category": "Lifting & Rigging",
     "level": "Level 3",
-    "description": "Comprehensive training program. Contact us for complete syllabus and batch schedules."
+    "description": "Comprehensive training program. Contact us for complete syllabus and batch schedules.",
+    "duration": "4 Weeks",
+    "eligibility": "10th Pass with basic understanding of English/Hindi.",
+    "fee": "On Enquiry (Installments Available)",
+    "accreditation": "Government of India / BSS Approved",
+    "mode": "Classroom + Practical Field Drills",
+    "location": "Highline Campus, Karimnagar",
+    "audience": "This course is ideal for aspiring safety officers, site supervisors, HSE managers, and working professionals seeking to upgrade their qualifications for international opportunities.",
+    "outcomes": [
+      "Identify and control critical workplace hazards.",
+      "Understand international HSE legal frameworks and compliance.",
+      "Conduct thorough risk assessments and safety audits.",
+      "Develop and implement emergency response strategies."
+    ],
+    "modules": [
+      "Module 1: Principles of Health and Safety",
+      "Module 2: Risk Assessment Methodology",
+      "Module 3: Hazard Control in the Workplace",
+      "Module 4: Incident Investigation and Reporting",
+      "Module 5: Practical Safety Drills and Application"
+    ],
+    "certification": "Upon successful completion of the assessments, candidates will be awarded the official Government of India / BSS Approved certificate, recognized globally by employers.",
+    "batch_dates": "Admissions Open - Flexible Weekday & Weekend Batches Available.",
+    "faqs": [
+      {
+        "q": "Are there placement opportunities after this course?",
+        "a": "Yes, Highline offers 100% placement assistance, interview preparation, and resume building for our graduates."
+      },
+      {
+        "q": "Can I pay the fees in installments?",
+        "a": "Yes, flexible installment plans are available for most diploma and advanced certification tracks."
+      },
+      {
+        "q": "Is this certification valid internationally?",
+        "a": "Absolutely. This Government of India / BSS Approved course is globally recognized, especially in the Gulf (GCC) countries and Europe."
+      }
+    ]
   },
   {
     "id": "level-2-award-in-basic-rigger-and-signalman",
     "title": "Level 2 Award in Basic Rigger and Signalman",
     "category": "Lifting & Rigging",
     "level": "Level 2",
-    "description": "Comprehensive training program. Contact us for complete syllabus and batch schedules."
+    "description": "Comprehensive training program. Contact us for complete syllabus and batch schedules.",
+    "duration": "3 Days (Intensive)",
+    "eligibility": "10th Pass with basic understanding of English/Hindi.",
+    "fee": "On Enquiry (Installments Available)",
+    "accreditation": "Government of India / BSS Approved",
+    "mode": "Classroom + Practical Field Drills",
+    "location": "Highline Campus, Karimnagar",
+    "audience": "This course is ideal for aspiring safety officers, site supervisors, HSE managers, and working professionals seeking to upgrade their qualifications for international opportunities.",
+    "outcomes": [
+      "Identify and control critical workplace hazards.",
+      "Understand international HSE legal frameworks and compliance.",
+      "Conduct thorough risk assessments and safety audits.",
+      "Develop and implement emergency response strategies."
+    ],
+    "modules": [
+      "Module 1: Principles of Health and Safety",
+      "Module 2: Risk Assessment Methodology",
+      "Module 3: Hazard Control in the Workplace",
+      "Module 4: Incident Investigation and Reporting",
+      "Module 5: Practical Safety Drills and Application"
+    ],
+    "certification": "Upon successful completion of the assessments, candidates will be awarded the official Government of India / BSS Approved certificate, recognized globally by employers.",
+    "batch_dates": "Admissions Open - Flexible Weekday & Weekend Batches Available.",
+    "faqs": [
+      {
+        "q": "Are there placement opportunities after this course?",
+        "a": "Yes, Highline offers 100% placement assistance, interview preparation, and resume building for our graduates."
+      },
+      {
+        "q": "Can I pay the fees in installments?",
+        "a": "Yes, flexible installment plans are available for most diploma and advanced certification tracks."
+      },
+      {
+        "q": "Is this certification valid internationally?",
+        "a": "Absolutely. This Government of India / BSS Approved course is globally recognized, especially in the Gulf (GCC) countries and Europe."
+      }
+    ]
   },
   {
     "id": "level-3-award-in-principles-of-rigger-and-signalman",
     "title": "Level 3 Award in Principles of Rigger and Signalman",
     "category": "Lifting & Rigging",
     "level": "Level 3",
-    "description": "Comprehensive training program. Contact us for complete syllabus and batch schedules."
+    "description": "Comprehensive training program. Contact us for complete syllabus and batch schedules.",
+    "duration": "4 Weeks",
+    "eligibility": "10th Pass with basic understanding of English/Hindi.",
+    "fee": "On Enquiry (Installments Available)",
+    "accreditation": "Government of India / BSS Approved",
+    "mode": "Classroom + Practical Field Drills",
+    "location": "Highline Campus, Karimnagar",
+    "audience": "This course is ideal for aspiring safety officers, site supervisors, HSE managers, and working professionals seeking to upgrade their qualifications for international opportunities.",
+    "outcomes": [
+      "Identify and control critical workplace hazards.",
+      "Understand international HSE legal frameworks and compliance.",
+      "Conduct thorough risk assessments and safety audits.",
+      "Develop and implement emergency response strategies."
+    ],
+    "modules": [
+      "Module 1: Principles of Health and Safety",
+      "Module 2: Risk Assessment Methodology",
+      "Module 3: Hazard Control in the Workplace",
+      "Module 4: Incident Investigation and Reporting",
+      "Module 5: Practical Safety Drills and Application"
+    ],
+    "certification": "Upon successful completion of the assessments, candidates will be awarded the official Government of India / BSS Approved certificate, recognized globally by employers.",
+    "batch_dates": "Admissions Open - Flexible Weekday & Weekend Batches Available.",
+    "faqs": [
+      {
+        "q": "Are there placement opportunities after this course?",
+        "a": "Yes, Highline offers 100% placement assistance, interview preparation, and resume building for our graduates."
+      },
+      {
+        "q": "Can I pay the fees in installments?",
+        "a": "Yes, flexible installment plans are available for most diploma and advanced certification tracks."
+      },
+      {
+        "q": "Is this certification valid internationally?",
+        "a": "Absolutely. This Government of India / BSS Approved course is globally recognized, especially in the Gulf (GCC) countries and Europe."
+      }
+    ]
   },
   {
     "id": "level-4-award-in-advanced-rigger-and-signalman",
     "title": "Level 4 Award in Advanced Rigger and Signalman",
     "category": "Lifting & Rigging",
     "level": "Level 4",
-    "description": "Comprehensive training program. Contact us for complete syllabus and batch schedules."
+    "description": "Comprehensive training program. Contact us for complete syllabus and batch schedules.",
+    "duration": "12 Weeks",
+    "eligibility": "Graduation or Level 3 Safety Certification.",
+    "fee": "On Enquiry (Installments Available)",
+    "accreditation": "Government of India / BSS Approved",
+    "mode": "Classroom + Practical Field Drills",
+    "location": "Highline Campus, Karimnagar",
+    "audience": "This course is ideal for aspiring safety officers, site supervisors, HSE managers, and working professionals seeking to upgrade their qualifications for international opportunities.",
+    "outcomes": [
+      "Identify and control critical workplace hazards.",
+      "Understand international HSE legal frameworks and compliance.",
+      "Conduct thorough risk assessments and safety audits.",
+      "Develop and implement emergency response strategies."
+    ],
+    "modules": [
+      "Module 1: Principles of Health and Safety",
+      "Module 2: Risk Assessment Methodology",
+      "Module 3: Hazard Control in the Workplace",
+      "Module 4: Incident Investigation and Reporting",
+      "Module 5: Practical Safety Drills and Application"
+    ],
+    "certification": "Upon successful completion of the assessments, candidates will be awarded the official Government of India / BSS Approved certificate, recognized globally by employers.",
+    "batch_dates": "Admissions Open - Flexible Weekday & Weekend Batches Available.",
+    "faqs": [
+      {
+        "q": "Are there placement opportunities after this course?",
+        "a": "Yes, Highline offers 100% placement assistance, interview preparation, and resume building for our graduates."
+      },
+      {
+        "q": "Can I pay the fees in installments?",
+        "a": "Yes, flexible installment plans are available for most diploma and advanced certification tracks."
+      },
+      {
+        "q": "Is this certification valid internationally?",
+        "a": "Absolutely. This Government of India / BSS Approved course is globally recognized, especially in the Gulf (GCC) countries and Europe."
+      }
+    ]
   },
   {
     "id": "award-in-lifting-rigging-supervisor",
     "title": "Award in Lifting & Rigging Supervisor",
     "category": "Lifting & Rigging",
     "level": "Certificate",
-    "description": "Comprehensive training program. Contact us for complete syllabus and batch schedules."
+    "description": "Comprehensive training program. Contact us for complete syllabus and batch schedules.",
+    "duration": "3 Days (Intensive)",
+    "eligibility": "10th Pass with basic understanding of English/Hindi.",
+    "fee": "On Enquiry (Installments Available)",
+    "accreditation": "Government of India / BSS Approved",
+    "mode": "Classroom + Practical Field Drills",
+    "location": "Highline Campus, Karimnagar",
+    "audience": "This course is ideal for aspiring safety officers, site supervisors, HSE managers, and working professionals seeking to upgrade their qualifications for international opportunities.",
+    "outcomes": [
+      "Identify and control critical workplace hazards.",
+      "Understand international HSE legal frameworks and compliance.",
+      "Conduct thorough risk assessments and safety audits.",
+      "Develop and implement emergency response strategies."
+    ],
+    "modules": [
+      "Module 1: Principles of Health and Safety",
+      "Module 2: Risk Assessment Methodology",
+      "Module 3: Hazard Control in the Workplace",
+      "Module 4: Incident Investigation and Reporting",
+      "Module 5: Practical Safety Drills and Application"
+    ],
+    "certification": "Upon successful completion of the assessments, candidates will be awarded the official Government of India / BSS Approved certificate, recognized globally by employers.",
+    "batch_dates": "Admissions Open - Flexible Weekday & Weekend Batches Available.",
+    "faqs": [
+      {
+        "q": "Are there placement opportunities after this course?",
+        "a": "Yes, Highline offers 100% placement assistance, interview preparation, and resume building for our graduates."
+      },
+      {
+        "q": "Can I pay the fees in installments?",
+        "a": "Yes, flexible installment plans are available for most diploma and advanced certification tracks."
+      },
+      {
+        "q": "Is this certification valid internationally?",
+        "a": "Absolutely. This Government of India / BSS Approved course is globally recognized, especially in the Gulf (GCC) countries and Europe."
+      }
+    ]
   },
   {
     "id": "train-the-trainer-lifting-rigging",
     "title": "Train the Trainer \u2013 Lifting & Rigging",
     "category": "Lifting & Rigging",
     "level": "Certificate",
-    "description": "Comprehensive training program. Contact us for complete syllabus and batch schedules."
+    "description": "Comprehensive training program. Contact us for complete syllabus and batch schedules.",
+    "duration": "5 Days",
+    "eligibility": "10th Pass with basic understanding of English/Hindi.",
+    "fee": "On Enquiry (Installments Available)",
+    "accreditation": "Government of India / BSS Approved",
+    "mode": "Classroom + Practical Field Drills",
+    "location": "Highline Campus, Karimnagar",
+    "audience": "This course is ideal for aspiring safety officers, site supervisors, HSE managers, and working professionals seeking to upgrade their qualifications for international opportunities.",
+    "outcomes": [
+      "Identify and control critical workplace hazards.",
+      "Understand international HSE legal frameworks and compliance.",
+      "Conduct thorough risk assessments and safety audits.",
+      "Develop and implement emergency response strategies."
+    ],
+    "modules": [
+      "Module 1: Principles of Health and Safety",
+      "Module 2: Risk Assessment Methodology",
+      "Module 3: Hazard Control in the Workplace",
+      "Module 4: Incident Investigation and Reporting",
+      "Module 5: Practical Safety Drills and Application"
+    ],
+    "certification": "Upon successful completion of the assessments, candidates will be awarded the official Government of India / BSS Approved certificate, recognized globally by employers.",
+    "batch_dates": "Admissions Open - Flexible Weekday & Weekend Batches Available.",
+    "faqs": [
+      {
+        "q": "Are there placement opportunities after this course?",
+        "a": "Yes, Highline offers 100% placement assistance, interview preparation, and resume building for our graduates."
+      },
+      {
+        "q": "Can I pay the fees in installments?",
+        "a": "Yes, flexible installment plans are available for most diploma and advanced certification tracks."
+      },
+      {
+        "q": "Is this certification valid internationally?",
+        "a": "Absolutely. This Government of India / BSS Approved course is globally recognized, especially in the Gulf (GCC) countries and Europe."
+      }
+    ]
   },
   {
     "id": "level-2-award-in-confined-spaces-safety",
     "title": "Level 2 Award in Confined Spaces Safety",
     "category": "Confined Space",
     "level": "Level 2",
-    "description": "Comprehensive training program. Contact us for complete syllabus and batch schedules."
+    "description": "Comprehensive training program. Contact us for complete syllabus and batch schedules.",
+    "duration": "3 Days (Intensive)",
+    "eligibility": "10th Pass with basic understanding of English/Hindi.",
+    "fee": "On Enquiry (Installments Available)",
+    "accreditation": "Government of India / BSS Approved",
+    "mode": "Classroom + Practical Field Drills",
+    "location": "Highline Campus, Karimnagar",
+    "audience": "This course is ideal for aspiring safety officers, site supervisors, HSE managers, and working professionals seeking to upgrade their qualifications for international opportunities.",
+    "outcomes": [
+      "Identify and control critical workplace hazards.",
+      "Understand international HSE legal frameworks and compliance.",
+      "Conduct thorough risk assessments and safety audits.",
+      "Develop and implement emergency response strategies."
+    ],
+    "modules": [
+      "Module 1: Principles of Health and Safety",
+      "Module 2: Risk Assessment Methodology",
+      "Module 3: Hazard Control in the Workplace",
+      "Module 4: Incident Investigation and Reporting",
+      "Module 5: Practical Safety Drills and Application"
+    ],
+    "certification": "Upon successful completion of the assessments, candidates will be awarded the official Government of India / BSS Approved certificate, recognized globally by employers.",
+    "batch_dates": "Admissions Open - Flexible Weekday & Weekend Batches Available.",
+    "faqs": [
+      {
+        "q": "Are there placement opportunities after this course?",
+        "a": "Yes, Highline offers 100% placement assistance, interview preparation, and resume building for our graduates."
+      },
+      {
+        "q": "Can I pay the fees in installments?",
+        "a": "Yes, flexible installment plans are available for most diploma and advanced certification tracks."
+      },
+      {
+        "q": "Is this certification valid internationally?",
+        "a": "Absolutely. This Government of India / BSS Approved course is globally recognized, especially in the Gulf (GCC) countries and Europe."
+      }
+    ]
   },
   {
     "id": "level-3-award-in-confined-spaces-emergency-rescue",
     "title": "Level 3 Award in Confined Spaces \u2013 Emergency Rescue",
     "category": "Confined Space",
     "level": "Level 3",
-    "description": "Comprehensive training program. Contact us for complete syllabus and batch schedules."
+    "description": "Comprehensive training program. Contact us for complete syllabus and batch schedules.",
+    "duration": "4 Weeks",
+    "eligibility": "10th Pass with basic understanding of English/Hindi.",
+    "fee": "On Enquiry (Installments Available)",
+    "accreditation": "Government of India / BSS Approved",
+    "mode": "Classroom + Practical Field Drills",
+    "location": "Highline Campus, Karimnagar",
+    "audience": "This course is ideal for aspiring safety officers, site supervisors, HSE managers, and working professionals seeking to upgrade their qualifications for international opportunities.",
+    "outcomes": [
+      "Identify and control critical workplace hazards.",
+      "Understand international HSE legal frameworks and compliance.",
+      "Conduct thorough risk assessments and safety audits.",
+      "Develop and implement emergency response strategies."
+    ],
+    "modules": [
+      "Module 1: Principles of Health and Safety",
+      "Module 2: Risk Assessment Methodology",
+      "Module 3: Hazard Control in the Workplace",
+      "Module 4: Incident Investigation and Reporting",
+      "Module 5: Practical Safety Drills and Application"
+    ],
+    "certification": "Upon successful completion of the assessments, candidates will be awarded the official Government of India / BSS Approved certificate, recognized globally by employers.",
+    "batch_dates": "Admissions Open - Flexible Weekday & Weekend Batches Available.",
+    "faqs": [
+      {
+        "q": "Are there placement opportunities after this course?",
+        "a": "Yes, Highline offers 100% placement assistance, interview preparation, and resume building for our graduates."
+      },
+      {
+        "q": "Can I pay the fees in installments?",
+        "a": "Yes, flexible installment plans are available for most diploma and advanced certification tracks."
+      },
+      {
+        "q": "Is this certification valid internationally?",
+        "a": "Absolutely. This Government of India / BSS Approved course is globally recognized, especially in the Gulf (GCC) countries and Europe."
+      }
+    ]
   },
   {
     "id": "award-in-confined-space-entry-specialist-cses",
     "title": "Award in Confined Space Entry Specialist (CSES)",
     "category": "Confined Space",
     "level": "Certificate",
-    "description": "Comprehensive training program. Contact us for complete syllabus and batch schedules."
+    "description": "Comprehensive training program. Contact us for complete syllabus and batch schedules.",
+    "duration": "3 Days (Intensive)",
+    "eligibility": "10th Pass with basic understanding of English/Hindi.",
+    "fee": "On Enquiry (Installments Available)",
+    "accreditation": "Government of India / BSS Approved",
+    "mode": "Classroom + Practical Field Drills",
+    "location": "Highline Campus, Karimnagar",
+    "audience": "This course is ideal for aspiring safety officers, site supervisors, HSE managers, and working professionals seeking to upgrade their qualifications for international opportunities.",
+    "outcomes": [
+      "Identify and control critical workplace hazards.",
+      "Understand international HSE legal frameworks and compliance.",
+      "Conduct thorough risk assessments and safety audits.",
+      "Develop and implement emergency response strategies."
+    ],
+    "modules": [
+      "Module 1: Principles of Health and Safety",
+      "Module 2: Risk Assessment Methodology",
+      "Module 3: Hazard Control in the Workplace",
+      "Module 4: Incident Investigation and Reporting",
+      "Module 5: Practical Safety Drills and Application"
+    ],
+    "certification": "Upon successful completion of the assessments, candidates will be awarded the official Government of India / BSS Approved certificate, recognized globally by employers.",
+    "batch_dates": "Admissions Open - Flexible Weekday & Weekend Batches Available.",
+    "faqs": [
+      {
+        "q": "Are there placement opportunities after this course?",
+        "a": "Yes, Highline offers 100% placement assistance, interview preparation, and resume building for our graduates."
+      },
+      {
+        "q": "Can I pay the fees in installments?",
+        "a": "Yes, flexible installment plans are available for most diploma and advanced certification tracks."
+      },
+      {
+        "q": "Is this certification valid internationally?",
+        "a": "Absolutely. This Government of India / BSS Approved course is globally recognized, especially in the Gulf (GCC) countries and Europe."
+      }
+    ]
   },
   {
     "id": "train-the-trainer-confined-space",
     "title": "Train the Trainer \u2013 Confined Space",
     "category": "Confined Space",
     "level": "Certificate",
-    "description": "Comprehensive training program. Contact us for complete syllabus and batch schedules."
+    "description": "Comprehensive training program. Contact us for complete syllabus and batch schedules.",
+    "duration": "5 Days",
+    "eligibility": "10th Pass with basic understanding of English/Hindi.",
+    "fee": "On Enquiry (Installments Available)",
+    "accreditation": "Government of India / BSS Approved",
+    "mode": "Classroom + Practical Field Drills",
+    "location": "Highline Campus, Karimnagar",
+    "audience": "This course is ideal for aspiring safety officers, site supervisors, HSE managers, and working professionals seeking to upgrade their qualifications for international opportunities.",
+    "outcomes": [
+      "Identify and control critical workplace hazards.",
+      "Understand international HSE legal frameworks and compliance.",
+      "Conduct thorough risk assessments and safety audits.",
+      "Develop and implement emergency response strategies."
+    ],
+    "modules": [
+      "Module 1: Principles of Health and Safety",
+      "Module 2: Risk Assessment Methodology",
+      "Module 3: Hazard Control in the Workplace",
+      "Module 4: Incident Investigation and Reporting",
+      "Module 5: Practical Safety Drills and Application"
+    ],
+    "certification": "Upon successful completion of the assessments, candidates will be awarded the official Government of India / BSS Approved certificate, recognized globally by employers.",
+    "batch_dates": "Admissions Open - Flexible Weekday & Weekend Batches Available.",
+    "faqs": [
+      {
+        "q": "Are there placement opportunities after this course?",
+        "a": "Yes, Highline offers 100% placement assistance, interview preparation, and resume building for our graduates."
+      },
+      {
+        "q": "Can I pay the fees in installments?",
+        "a": "Yes, flexible installment plans are available for most diploma and advanced certification tracks."
+      },
+      {
+        "q": "Is this certification valid internationally?",
+        "a": "Absolutely. This Government of India / BSS Approved course is globally recognized, especially in the Gulf (GCC) countries and Europe."
+      }
+    ]
   },
   {
     "id": "confined-space-entry-risk-assessment",
     "title": "Confined Space Entry & Risk Assessment",
     "category": "Confined Space",
     "level": "Certificate",
-    "description": "Comprehensive training program. Contact us for complete syllabus and batch schedules."
+    "description": "Comprehensive training program. Contact us for complete syllabus and batch schedules.",
+    "duration": "3 Days (Intensive)",
+    "eligibility": "10th Pass with basic understanding of English/Hindi.",
+    "fee": "On Enquiry (Installments Available)",
+    "accreditation": "Government of India / BSS Approved",
+    "mode": "Classroom + Practical Field Drills",
+    "location": "Highline Campus, Karimnagar",
+    "audience": "This course is ideal for aspiring safety officers, site supervisors, HSE managers, and working professionals seeking to upgrade their qualifications for international opportunities.",
+    "outcomes": [
+      "Identify and control critical workplace hazards.",
+      "Understand international HSE legal frameworks and compliance.",
+      "Conduct thorough risk assessments and safety audits.",
+      "Develop and implement emergency response strategies."
+    ],
+    "modules": [
+      "Module 1: Principles of Health and Safety",
+      "Module 2: Risk Assessment Methodology",
+      "Module 3: Hazard Control in the Workplace",
+      "Module 4: Incident Investigation and Reporting",
+      "Module 5: Practical Safety Drills and Application"
+    ],
+    "certification": "Upon successful completion of the assessments, candidates will be awarded the official Government of India / BSS Approved certificate, recognized globally by employers.",
+    "batch_dates": "Admissions Open - Flexible Weekday & Weekend Batches Available.",
+    "faqs": [
+      {
+        "q": "Are there placement opportunities after this course?",
+        "a": "Yes, Highline offers 100% placement assistance, interview preparation, and resume building for our graduates."
+      },
+      {
+        "q": "Can I pay the fees in installments?",
+        "a": "Yes, flexible installment plans are available for most diploma and advanced certification tracks."
+      },
+      {
+        "q": "Is this certification valid internationally?",
+        "a": "Absolutely. This Government of India / BSS Approved course is globally recognized, especially in the Gulf (GCC) countries and Europe."
+      }
+    ]
   },
   {
     "id": "confined-space-rescue-coordinator",
     "title": "Confined Space Rescue Coordinator",
     "category": "Confined Space",
     "level": "Certificate",
-    "description": "Comprehensive training program. Contact us for complete syllabus and batch schedules."
+    "description": "Comprehensive training program. Contact us for complete syllabus and batch schedules.",
+    "duration": "3 Days (Intensive)",
+    "eligibility": "10th Pass with basic understanding of English/Hindi.",
+    "fee": "On Enquiry (Installments Available)",
+    "accreditation": "Government of India / BSS Approved",
+    "mode": "Classroom + Practical Field Drills",
+    "location": "Highline Campus, Karimnagar",
+    "audience": "This course is ideal for aspiring safety officers, site supervisors, HSE managers, and working professionals seeking to upgrade their qualifications for international opportunities.",
+    "outcomes": [
+      "Identify and control critical workplace hazards.",
+      "Understand international HSE legal frameworks and compliance.",
+      "Conduct thorough risk assessments and safety audits.",
+      "Develop and implement emergency response strategies."
+    ],
+    "modules": [
+      "Module 1: Principles of Health and Safety",
+      "Module 2: Risk Assessment Methodology",
+      "Module 3: Hazard Control in the Workplace",
+      "Module 4: Incident Investigation and Reporting",
+      "Module 5: Practical Safety Drills and Application"
+    ],
+    "certification": "Upon successful completion of the assessments, candidates will be awarded the official Government of India / BSS Approved certificate, recognized globally by employers.",
+    "batch_dates": "Admissions Open - Flexible Weekday & Weekend Batches Available.",
+    "faqs": [
+      {
+        "q": "Are there placement opportunities after this course?",
+        "a": "Yes, Highline offers 100% placement assistance, interview preparation, and resume building for our graduates."
+      },
+      {
+        "q": "Can I pay the fees in installments?",
+        "a": "Yes, flexible installment plans are available for most diploma and advanced certification tracks."
+      },
+      {
+        "q": "Is this certification valid internationally?",
+        "a": "Absolutely. This Government of India / BSS Approved course is globally recognized, especially in the Gulf (GCC) countries and Europe."
+      }
+    ]
   },
   {
     "id": "level-2-award-in-accident-investigation",
     "title": "Level 2 Award in Accident Investigation",
     "category": "Accident Investigation",
     "level": "Level 2",
-    "description": "Comprehensive training program. Contact us for complete syllabus and batch schedules."
+    "description": "Comprehensive training program. Contact us for complete syllabus and batch schedules.",
+    "duration": "3 Days (Intensive)",
+    "eligibility": "10th Pass with basic understanding of English/Hindi.",
+    "fee": "On Enquiry (Installments Available)",
+    "accreditation": "Government of India / BSS Approved",
+    "mode": "Classroom + Practical Field Drills",
+    "location": "Highline Campus, Karimnagar",
+    "audience": "This course is ideal for aspiring safety officers, site supervisors, HSE managers, and working professionals seeking to upgrade their qualifications for international opportunities.",
+    "outcomes": [
+      "Identify and control critical workplace hazards.",
+      "Understand international HSE legal frameworks and compliance.",
+      "Conduct thorough risk assessments and safety audits.",
+      "Develop and implement emergency response strategies."
+    ],
+    "modules": [
+      "Module 1: Principles of Health and Safety",
+      "Module 2: Risk Assessment Methodology",
+      "Module 3: Hazard Control in the Workplace",
+      "Module 4: Incident Investigation and Reporting",
+      "Module 5: Practical Safety Drills and Application"
+    ],
+    "certification": "Upon successful completion of the assessments, candidates will be awarded the official Government of India / BSS Approved certificate, recognized globally by employers.",
+    "batch_dates": "Admissions Open - Flexible Weekday & Weekend Batches Available.",
+    "faqs": [
+      {
+        "q": "Are there placement opportunities after this course?",
+        "a": "Yes, Highline offers 100% placement assistance, interview preparation, and resume building for our graduates."
+      },
+      {
+        "q": "Can I pay the fees in installments?",
+        "a": "Yes, flexible installment plans are available for most diploma and advanced certification tracks."
+      },
+      {
+        "q": "Is this certification valid internationally?",
+        "a": "Absolutely. This Government of India / BSS Approved course is globally recognized, especially in the Gulf (GCC) countries and Europe."
+      }
+    ]
   },
   {
     "id": "level-3-award-in-accident-investigation-prevention",
     "title": "Level 3 Award in Accident Investigation & Prevention",
     "category": "Accident Investigation",
     "level": "Level 3",
-    "description": "Comprehensive training program. Contact us for complete syllabus and batch schedules."
+    "description": "Comprehensive training program. Contact us for complete syllabus and batch schedules.",
+    "duration": "4 Weeks",
+    "eligibility": "10th Pass with basic understanding of English/Hindi.",
+    "fee": "On Enquiry (Installments Available)",
+    "accreditation": "Government of India / BSS Approved",
+    "mode": "Classroom + Practical Field Drills",
+    "location": "Highline Campus, Karimnagar",
+    "audience": "This course is ideal for aspiring safety officers, site supervisors, HSE managers, and working professionals seeking to upgrade their qualifications for international opportunities.",
+    "outcomes": [
+      "Identify and control critical workplace hazards.",
+      "Understand international HSE legal frameworks and compliance.",
+      "Conduct thorough risk assessments and safety audits.",
+      "Develop and implement emergency response strategies."
+    ],
+    "modules": [
+      "Module 1: Principles of Health and Safety",
+      "Module 2: Risk Assessment Methodology",
+      "Module 3: Hazard Control in the Workplace",
+      "Module 4: Incident Investigation and Reporting",
+      "Module 5: Practical Safety Drills and Application"
+    ],
+    "certification": "Upon successful completion of the assessments, candidates will be awarded the official Government of India / BSS Approved certificate, recognized globally by employers.",
+    "batch_dates": "Admissions Open - Flexible Weekday & Weekend Batches Available.",
+    "faqs": [
+      {
+        "q": "Are there placement opportunities after this course?",
+        "a": "Yes, Highline offers 100% placement assistance, interview preparation, and resume building for our graduates."
+      },
+      {
+        "q": "Can I pay the fees in installments?",
+        "a": "Yes, flexible installment plans are available for most diploma and advanced certification tracks."
+      },
+      {
+        "q": "Is this certification valid internationally?",
+        "a": "Absolutely. This Government of India / BSS Approved course is globally recognized, especially in the Gulf (GCC) countries and Europe."
+      }
+    ]
   },
   {
     "id": "level-4-award-in-accident-investigation-reporting",
     "title": "Level 4 Award in Accident Investigation & Reporting",
     "category": "Accident Investigation",
     "level": "Level 4",
-    "description": "Comprehensive training program. Contact us for complete syllabus and batch schedules."
+    "description": "Comprehensive training program. Contact us for complete syllabus and batch schedules.",
+    "duration": "12 Weeks",
+    "eligibility": "Graduation or Level 3 Safety Certification.",
+    "fee": "On Enquiry (Installments Available)",
+    "accreditation": "Government of India / BSS Approved",
+    "mode": "Classroom + Practical Field Drills",
+    "location": "Highline Campus, Karimnagar",
+    "audience": "This course is ideal for aspiring safety officers, site supervisors, HSE managers, and working professionals seeking to upgrade their qualifications for international opportunities.",
+    "outcomes": [
+      "Identify and control critical workplace hazards.",
+      "Understand international HSE legal frameworks and compliance.",
+      "Conduct thorough risk assessments and safety audits.",
+      "Develop and implement emergency response strategies."
+    ],
+    "modules": [
+      "Module 1: Principles of Health and Safety",
+      "Module 2: Risk Assessment Methodology",
+      "Module 3: Hazard Control in the Workplace",
+      "Module 4: Incident Investigation and Reporting",
+      "Module 5: Practical Safety Drills and Application"
+    ],
+    "certification": "Upon successful completion of the assessments, candidates will be awarded the official Government of India / BSS Approved certificate, recognized globally by employers.",
+    "batch_dates": "Admissions Open - Flexible Weekday & Weekend Batches Available.",
+    "faqs": [
+      {
+        "q": "Are there placement opportunities after this course?",
+        "a": "Yes, Highline offers 100% placement assistance, interview preparation, and resume building for our graduates."
+      },
+      {
+        "q": "Can I pay the fees in installments?",
+        "a": "Yes, flexible installment plans are available for most diploma and advanced certification tracks."
+      },
+      {
+        "q": "Is this certification valid internationally?",
+        "a": "Absolutely. This Government of India / BSS Approved course is globally recognized, especially in the Gulf (GCC) countries and Europe."
+      }
+    ]
   },
   {
     "id": "award-in-accident-investigation-root-cause-analysis",
     "title": "Award in Accident Investigation & Root Cause Analysis",
     "category": "Accident Investigation",
     "level": "Certificate",
-    "description": "Comprehensive training program. Contact us for complete syllabus and batch schedules."
+    "description": "Comprehensive training program. Contact us for complete syllabus and batch schedules.",
+    "duration": "3 Days (Intensive)",
+    "eligibility": "10th Pass with basic understanding of English/Hindi.",
+    "fee": "On Enquiry (Installments Available)",
+    "accreditation": "Government of India / BSS Approved",
+    "mode": "Classroom + Practical Field Drills",
+    "location": "Highline Campus, Karimnagar",
+    "audience": "This course is ideal for aspiring safety officers, site supervisors, HSE managers, and working professionals seeking to upgrade their qualifications for international opportunities.",
+    "outcomes": [
+      "Identify and control critical workplace hazards.",
+      "Understand international HSE legal frameworks and compliance.",
+      "Conduct thorough risk assessments and safety audits.",
+      "Develop and implement emergency response strategies."
+    ],
+    "modules": [
+      "Module 1: Principles of Health and Safety",
+      "Module 2: Risk Assessment Methodology",
+      "Module 3: Hazard Control in the Workplace",
+      "Module 4: Incident Investigation and Reporting",
+      "Module 5: Practical Safety Drills and Application"
+    ],
+    "certification": "Upon successful completion of the assessments, candidates will be awarded the official Government of India / BSS Approved certificate, recognized globally by employers.",
+    "batch_dates": "Admissions Open - Flexible Weekday & Weekend Batches Available.",
+    "faqs": [
+      {
+        "q": "Are there placement opportunities after this course?",
+        "a": "Yes, Highline offers 100% placement assistance, interview preparation, and resume building for our graduates."
+      },
+      {
+        "q": "Can I pay the fees in installments?",
+        "a": "Yes, flexible installment plans are available for most diploma and advanced certification tracks."
+      },
+      {
+        "q": "Is this certification valid internationally?",
+        "a": "Absolutely. This Government of India / BSS Approved course is globally recognized, especially in the Gulf (GCC) countries and Europe."
+      }
+    ]
   },
   {
     "id": "train-the-trainer-accident-investigation",
     "title": "Train the Trainer \u2013 Accident Investigation",
     "category": "Accident Investigation",
     "level": "Certificate",
-    "description": "Comprehensive training program. Contact us for complete syllabus and batch schedules."
+    "description": "Comprehensive training program. Contact us for complete syllabus and batch schedules.",
+    "duration": "5 Days",
+    "eligibility": "10th Pass with basic understanding of English/Hindi.",
+    "fee": "On Enquiry (Installments Available)",
+    "accreditation": "Government of India / BSS Approved",
+    "mode": "Classroom + Practical Field Drills",
+    "location": "Highline Campus, Karimnagar",
+    "audience": "This course is ideal for aspiring safety officers, site supervisors, HSE managers, and working professionals seeking to upgrade their qualifications for international opportunities.",
+    "outcomes": [
+      "Identify and control critical workplace hazards.",
+      "Understand international HSE legal frameworks and compliance.",
+      "Conduct thorough risk assessments and safety audits.",
+      "Develop and implement emergency response strategies."
+    ],
+    "modules": [
+      "Module 1: Principles of Health and Safety",
+      "Module 2: Risk Assessment Methodology",
+      "Module 3: Hazard Control in the Workplace",
+      "Module 4: Incident Investigation and Reporting",
+      "Module 5: Practical Safety Drills and Application"
+    ],
+    "certification": "Upon successful completion of the assessments, candidates will be awarded the official Government of India / BSS Approved certificate, recognized globally by employers.",
+    "batch_dates": "Admissions Open - Flexible Weekday & Weekend Batches Available.",
+    "faqs": [
+      {
+        "q": "Are there placement opportunities after this course?",
+        "a": "Yes, Highline offers 100% placement assistance, interview preparation, and resume building for our graduates."
+      },
+      {
+        "q": "Can I pay the fees in installments?",
+        "a": "Yes, flexible installment plans are available for most diploma and advanced certification tracks."
+      },
+      {
+        "q": "Is this certification valid internationally?",
+        "a": "Absolutely. This Government of India / BSS Approved course is globally recognized, especially in the Gulf (GCC) countries and Europe."
+      }
+    ]
   },
   {
     "id": "award-in-incident-investigation-techniques",
     "title": "Award in Incident Investigation Techniques",
     "category": "Accident Investigation",
     "level": "Certificate",
-    "description": "Comprehensive training program. Contact us for complete syllabus and batch schedules."
+    "description": "Comprehensive training program. Contact us for complete syllabus and batch schedules.",
+    "duration": "3 Days (Intensive)",
+    "eligibility": "10th Pass with basic understanding of English/Hindi.",
+    "fee": "On Enquiry (Installments Available)",
+    "accreditation": "Government of India / BSS Approved",
+    "mode": "Classroom + Practical Field Drills",
+    "location": "Highline Campus, Karimnagar",
+    "audience": "This course is ideal for aspiring safety officers, site supervisors, HSE managers, and working professionals seeking to upgrade their qualifications for international opportunities.",
+    "outcomes": [
+      "Identify and control critical workplace hazards.",
+      "Understand international HSE legal frameworks and compliance.",
+      "Conduct thorough risk assessments and safety audits.",
+      "Develop and implement emergency response strategies."
+    ],
+    "modules": [
+      "Module 1: Principles of Health and Safety",
+      "Module 2: Risk Assessment Methodology",
+      "Module 3: Hazard Control in the Workplace",
+      "Module 4: Incident Investigation and Reporting",
+      "Module 5: Practical Safety Drills and Application"
+    ],
+    "certification": "Upon successful completion of the assessments, candidates will be awarded the official Government of India / BSS Approved certificate, recognized globally by employers.",
+    "batch_dates": "Admissions Open - Flexible Weekday & Weekend Batches Available.",
+    "faqs": [
+      {
+        "q": "Are there placement opportunities after this course?",
+        "a": "Yes, Highline offers 100% placement assistance, interview preparation, and resume building for our graduates."
+      },
+      {
+        "q": "Can I pay the fees in installments?",
+        "a": "Yes, flexible installment plans are available for most diploma and advanced certification tracks."
+      },
+      {
+        "q": "Is this certification valid internationally?",
+        "a": "Absolutely. This Government of India / BSS Approved course is globally recognized, especially in the Gulf (GCC) countries and Europe."
+      }
+    ]
   },
   {
     "id": "level-2-award-in-basic-food-safety",
     "title": "Level 2 Award in Basic Food Safety",
     "category": "Food Safety",
     "level": "Level 2",
-    "description": "Comprehensive training program. Contact us for complete syllabus and batch schedules."
+    "description": "Comprehensive training program. Contact us for complete syllabus and batch schedules.",
+    "duration": "3 Days (Intensive)",
+    "eligibility": "10th Pass with basic understanding of English/Hindi.",
+    "fee": "On Enquiry (Installments Available)",
+    "accreditation": "Government of India / BSS Approved",
+    "mode": "Classroom + Practical Field Drills",
+    "location": "Highline Campus, Karimnagar",
+    "audience": "This course is ideal for aspiring safety officers, site supervisors, HSE managers, and working professionals seeking to upgrade their qualifications for international opportunities.",
+    "outcomes": [
+      "Identify and control critical workplace hazards.",
+      "Understand international HSE legal frameworks and compliance.",
+      "Conduct thorough risk assessments and safety audits.",
+      "Develop and implement emergency response strategies."
+    ],
+    "modules": [
+      "Module 1: Principles of Health and Safety",
+      "Module 2: Risk Assessment Methodology",
+      "Module 3: Hazard Control in the Workplace",
+      "Module 4: Incident Investigation and Reporting",
+      "Module 5: Practical Safety Drills and Application"
+    ],
+    "certification": "Upon successful completion of the assessments, candidates will be awarded the official Government of India / BSS Approved certificate, recognized globally by employers.",
+    "batch_dates": "Admissions Open - Flexible Weekday & Weekend Batches Available.",
+    "faqs": [
+      {
+        "q": "Are there placement opportunities after this course?",
+        "a": "Yes, Highline offers 100% placement assistance, interview preparation, and resume building for our graduates."
+      },
+      {
+        "q": "Can I pay the fees in installments?",
+        "a": "Yes, flexible installment plans are available for most diploma and advanced certification tracks."
+      },
+      {
+        "q": "Is this certification valid internationally?",
+        "a": "Absolutely. This Government of India / BSS Approved course is globally recognized, especially in the Gulf (GCC) countries and Europe."
+      }
+    ]
   },
   {
     "id": "level-3-award-in-food-safety-management",
     "title": "Level 3 Award in Food Safety Management",
     "category": "Food Safety",
     "level": "Level 3",
-    "description": "Comprehensive training program. Contact us for complete syllabus and batch schedules."
+    "description": "Comprehensive training program. Contact us for complete syllabus and batch schedules.",
+    "duration": "4 Weeks",
+    "eligibility": "10th Pass with basic understanding of English/Hindi.",
+    "fee": "On Enquiry (Installments Available)",
+    "accreditation": "Government of India / BSS Approved",
+    "mode": "Classroom + Practical Field Drills",
+    "location": "Highline Campus, Karimnagar",
+    "audience": "This course is ideal for aspiring safety officers, site supervisors, HSE managers, and working professionals seeking to upgrade their qualifications for international opportunities.",
+    "outcomes": [
+      "Identify and control critical workplace hazards.",
+      "Understand international HSE legal frameworks and compliance.",
+      "Conduct thorough risk assessments and safety audits.",
+      "Develop and implement emergency response strategies."
+    ],
+    "modules": [
+      "Module 1: Principles of Health and Safety",
+      "Module 2: Risk Assessment Methodology",
+      "Module 3: Hazard Control in the Workplace",
+      "Module 4: Incident Investigation and Reporting",
+      "Module 5: Practical Safety Drills and Application"
+    ],
+    "certification": "Upon successful completion of the assessments, candidates will be awarded the official Government of India / BSS Approved certificate, recognized globally by employers.",
+    "batch_dates": "Admissions Open - Flexible Weekday & Weekend Batches Available.",
+    "faqs": [
+      {
+        "q": "Are there placement opportunities after this course?",
+        "a": "Yes, Highline offers 100% placement assistance, interview preparation, and resume building for our graduates."
+      },
+      {
+        "q": "Can I pay the fees in installments?",
+        "a": "Yes, flexible installment plans are available for most diploma and advanced certification tracks."
+      },
+      {
+        "q": "Is this certification valid internationally?",
+        "a": "Absolutely. This Government of India / BSS Approved course is globally recognized, especially in the Gulf (GCC) countries and Europe."
+      }
+    ]
   },
   {
     "id": "level-4-award-in-food-hygiene-and-safety-management",
     "title": "Level 4 Award in Food Hygiene and Safety Management",
     "category": "Food Safety",
     "level": "Level 4",
-    "description": "Comprehensive training program. Contact us for complete syllabus and batch schedules."
+    "description": "Comprehensive training program. Contact us for complete syllabus and batch schedules.",
+    "duration": "12 Weeks",
+    "eligibility": "Graduation or Level 3 Safety Certification.",
+    "fee": "On Enquiry (Installments Available)",
+    "accreditation": "Government of India / BSS Approved",
+    "mode": "Classroom + Practical Field Drills",
+    "location": "Highline Campus, Karimnagar",
+    "audience": "This course is ideal for aspiring safety officers, site supervisors, HSE managers, and working professionals seeking to upgrade their qualifications for international opportunities.",
+    "outcomes": [
+      "Identify and control critical workplace hazards.",
+      "Understand international HSE legal frameworks and compliance.",
+      "Conduct thorough risk assessments and safety audits.",
+      "Develop and implement emergency response strategies."
+    ],
+    "modules": [
+      "Module 1: Principles of Health and Safety",
+      "Module 2: Risk Assessment Methodology",
+      "Module 3: Hazard Control in the Workplace",
+      "Module 4: Incident Investigation and Reporting",
+      "Module 5: Practical Safety Drills and Application"
+    ],
+    "certification": "Upon successful completion of the assessments, candidates will be awarded the official Government of India / BSS Approved certificate, recognized globally by employers.",
+    "batch_dates": "Admissions Open - Flexible Weekday & Weekend Batches Available.",
+    "faqs": [
+      {
+        "q": "Are there placement opportunities after this course?",
+        "a": "Yes, Highline offers 100% placement assistance, interview preparation, and resume building for our graduates."
+      },
+      {
+        "q": "Can I pay the fees in installments?",
+        "a": "Yes, flexible installment plans are available for most diploma and advanced certification tracks."
+      },
+      {
+        "q": "Is this certification valid internationally?",
+        "a": "Absolutely. This Government of India / BSS Approved course is globally recognized, especially in the Gulf (GCC) countries and Europe."
+      }
+    ]
   },
   {
     "id": "level-4-award-in-food-process-safety-management",
     "title": "Level 4 Award in Food Process Safety Management",
     "category": "Food Safety",
     "level": "Level 4",
-    "description": "Comprehensive training program. Contact us for complete syllabus and batch schedules."
+    "description": "Comprehensive training program. Contact us for complete syllabus and batch schedules.",
+    "duration": "12 Weeks",
+    "eligibility": "Graduation or Level 3 Safety Certification.",
+    "fee": "On Enquiry (Installments Available)",
+    "accreditation": "Government of India / BSS Approved",
+    "mode": "Classroom + Practical Field Drills",
+    "location": "Highline Campus, Karimnagar",
+    "audience": "This course is ideal for aspiring safety officers, site supervisors, HSE managers, and working professionals seeking to upgrade their qualifications for international opportunities.",
+    "outcomes": [
+      "Identify and control critical workplace hazards.",
+      "Understand international HSE legal frameworks and compliance.",
+      "Conduct thorough risk assessments and safety audits.",
+      "Develop and implement emergency response strategies."
+    ],
+    "modules": [
+      "Module 1: Principles of Health and Safety",
+      "Module 2: Risk Assessment Methodology",
+      "Module 3: Hazard Control in the Workplace",
+      "Module 4: Incident Investigation and Reporting",
+      "Module 5: Practical Safety Drills and Application"
+    ],
+    "certification": "Upon successful completion of the assessments, candidates will be awarded the official Government of India / BSS Approved certificate, recognized globally by employers.",
+    "batch_dates": "Admissions Open - Flexible Weekday & Weekend Batches Available.",
+    "faqs": [
+      {
+        "q": "Are there placement opportunities after this course?",
+        "a": "Yes, Highline offers 100% placement assistance, interview preparation, and resume building for our graduates."
+      },
+      {
+        "q": "Can I pay the fees in installments?",
+        "a": "Yes, flexible installment plans are available for most diploma and advanced certification tracks."
+      },
+      {
+        "q": "Is this certification valid internationally?",
+        "a": "Absolutely. This Government of India / BSS Approved course is globally recognized, especially in the Gulf (GCC) countries and Europe."
+      }
+    ]
   },
   {
     "id": "level-3-award-in-haccp",
     "title": "Level 3 Award in HACCP",
     "category": "Food Safety",
     "level": "Level 3",
-    "description": "Comprehensive training program. Contact us for complete syllabus and batch schedules."
+    "description": "Comprehensive training program. Contact us for complete syllabus and batch schedules.",
+    "duration": "4 Weeks",
+    "eligibility": "10th Pass with basic understanding of English/Hindi.",
+    "fee": "On Enquiry (Installments Available)",
+    "accreditation": "Government of India / BSS Approved",
+    "mode": "Classroom + Practical Field Drills",
+    "location": "Highline Campus, Karimnagar",
+    "audience": "This course is ideal for aspiring safety officers, site supervisors, HSE managers, and working professionals seeking to upgrade their qualifications for international opportunities.",
+    "outcomes": [
+      "Identify and control critical workplace hazards.",
+      "Understand international HSE legal frameworks and compliance.",
+      "Conduct thorough risk assessments and safety audits.",
+      "Develop and implement emergency response strategies."
+    ],
+    "modules": [
+      "Module 1: Principles of Health and Safety",
+      "Module 2: Risk Assessment Methodology",
+      "Module 3: Hazard Control in the Workplace",
+      "Module 4: Incident Investigation and Reporting",
+      "Module 5: Practical Safety Drills and Application"
+    ],
+    "certification": "Upon successful completion of the assessments, candidates will be awarded the official Government of India / BSS Approved certificate, recognized globally by employers.",
+    "batch_dates": "Admissions Open - Flexible Weekday & Weekend Batches Available.",
+    "faqs": [
+      {
+        "q": "Are there placement opportunities after this course?",
+        "a": "Yes, Highline offers 100% placement assistance, interview preparation, and resume building for our graduates."
+      },
+      {
+        "q": "Can I pay the fees in installments?",
+        "a": "Yes, flexible installment plans are available for most diploma and advanced certification tracks."
+      },
+      {
+        "q": "Is this certification valid internationally?",
+        "a": "Absolutely. This Government of India / BSS Approved course is globally recognized, especially in the Gulf (GCC) countries and Europe."
+      }
+    ]
   },
   {
     "id": "level-4-award-in-haccp",
     "title": "Level 4 Award in HACCP",
     "category": "Food Safety",
     "level": "Level 4",
-    "description": "Comprehensive training program. Contact us for complete syllabus and batch schedules."
+    "description": "Comprehensive training program. Contact us for complete syllabus and batch schedules.",
+    "duration": "12 Weeks",
+    "eligibility": "Graduation or Level 3 Safety Certification.",
+    "fee": "On Enquiry (Installments Available)",
+    "accreditation": "Government of India / BSS Approved",
+    "mode": "Classroom + Practical Field Drills",
+    "location": "Highline Campus, Karimnagar",
+    "audience": "This course is ideal for aspiring safety officers, site supervisors, HSE managers, and working professionals seeking to upgrade their qualifications for international opportunities.",
+    "outcomes": [
+      "Identify and control critical workplace hazards.",
+      "Understand international HSE legal frameworks and compliance.",
+      "Conduct thorough risk assessments and safety audits.",
+      "Develop and implement emergency response strategies."
+    ],
+    "modules": [
+      "Module 1: Principles of Health and Safety",
+      "Module 2: Risk Assessment Methodology",
+      "Module 3: Hazard Control in the Workplace",
+      "Module 4: Incident Investigation and Reporting",
+      "Module 5: Practical Safety Drills and Application"
+    ],
+    "certification": "Upon successful completion of the assessments, candidates will be awarded the official Government of India / BSS Approved certificate, recognized globally by employers.",
+    "batch_dates": "Admissions Open - Flexible Weekday & Weekend Batches Available.",
+    "faqs": [
+      {
+        "q": "Are there placement opportunities after this course?",
+        "a": "Yes, Highline offers 100% placement assistance, interview preparation, and resume building for our graduates."
+      },
+      {
+        "q": "Can I pay the fees in installments?",
+        "a": "Yes, flexible installment plans are available for most diploma and advanced certification tracks."
+      },
+      {
+        "q": "Is this certification valid internationally?",
+        "a": "Absolutely. This Government of India / BSS Approved course is globally recognized, especially in the Gulf (GCC) countries and Europe."
+      }
+    ]
   },
   {
     "id": "award-in-food-safety-hygiene",
     "title": "Award in Food Safety & Hygiene",
     "category": "Food Safety",
     "level": "Certificate",
-    "description": "Comprehensive training program. Contact us for complete syllabus and batch schedules."
+    "description": "Comprehensive training program. Contact us for complete syllabus and batch schedules.",
+    "duration": "3 Days (Intensive)",
+    "eligibility": "10th Pass with basic understanding of English/Hindi.",
+    "fee": "On Enquiry (Installments Available)",
+    "accreditation": "Government of India / BSS Approved",
+    "mode": "Classroom + Practical Field Drills",
+    "location": "Highline Campus, Karimnagar",
+    "audience": "This course is ideal for aspiring safety officers, site supervisors, HSE managers, and working professionals seeking to upgrade their qualifications for international opportunities.",
+    "outcomes": [
+      "Identify and control critical workplace hazards.",
+      "Understand international HSE legal frameworks and compliance.",
+      "Conduct thorough risk assessments and safety audits.",
+      "Develop and implement emergency response strategies."
+    ],
+    "modules": [
+      "Module 1: Principles of Health and Safety",
+      "Module 2: Risk Assessment Methodology",
+      "Module 3: Hazard Control in the Workplace",
+      "Module 4: Incident Investigation and Reporting",
+      "Module 5: Practical Safety Drills and Application"
+    ],
+    "certification": "Upon successful completion of the assessments, candidates will be awarded the official Government of India / BSS Approved certificate, recognized globally by employers.",
+    "batch_dates": "Admissions Open - Flexible Weekday & Weekend Batches Available.",
+    "faqs": [
+      {
+        "q": "Are there placement opportunities after this course?",
+        "a": "Yes, Highline offers 100% placement assistance, interview preparation, and resume building for our graduates."
+      },
+      {
+        "q": "Can I pay the fees in installments?",
+        "a": "Yes, flexible installment plans are available for most diploma and advanced certification tracks."
+      },
+      {
+        "q": "Is this certification valid internationally?",
+        "a": "Absolutely. This Government of India / BSS Approved course is globally recognized, especially in the Gulf (GCC) countries and Europe."
+      }
+    ]
   },
   {
     "id": "eosh-uk-level-3-diploma-in-occupational-health-safety",
     "title": "EOSH UK Level 3 Diploma in Occupational Health & Safety",
     "category": "Diploma Programs",
     "level": "Diploma",
-    "description": "An advanced diploma track. Modules include comprehensive health and safety management, risk assessment, and compliance leadership."
+    "description": "An advanced diploma track. Modules include comprehensive health and safety management, risk assessment, and compliance leadership.",
+    "duration": "6 Months",
+    "eligibility": "12th Pass or Equivalent qualification.",
+    "fee": "On Enquiry (Installments Available)",
+    "accreditation": "EOSH UK Approved",
+    "mode": "Classroom + Practical Field Drills",
+    "location": "Highline Campus, Karimnagar",
+    "audience": "This course is ideal for aspiring safety officers, site supervisors, HSE managers, and working professionals seeking to upgrade their qualifications for international opportunities.",
+    "outcomes": [
+      "Identify and control critical workplace hazards.",
+      "Understand international HSE legal frameworks and compliance.",
+      "Conduct thorough risk assessments and safety audits.",
+      "Develop and implement emergency response strategies."
+    ],
+    "modules": [
+      "Module 1: Principles of Health and Safety",
+      "Module 2: Risk Assessment Methodology",
+      "Module 3: Hazard Control in the Workplace",
+      "Module 4: Incident Investigation and Reporting",
+      "Module 5: Practical Safety Drills and Application"
+    ],
+    "certification": "Upon successful completion of the assessments, candidates will be awarded the official EOSH UK Approved certificate, recognized globally by employers.",
+    "batch_dates": "Admissions Open - Flexible Weekday & Weekend Batches Available.",
+    "faqs": [
+      {
+        "q": "Are there placement opportunities after this course?",
+        "a": "Yes, Highline offers 100% placement assistance, interview preparation, and resume building for our graduates."
+      },
+      {
+        "q": "Can I pay the fees in installments?",
+        "a": "Yes, flexible installment plans are available for most diploma and advanced certification tracks."
+      },
+      {
+        "q": "Is this certification valid internationally?",
+        "a": "Absolutely. This EOSH UK Approved course is globally recognized, especially in the Gulf (GCC) countries and Europe."
+      }
+    ]
   },
   {
     "id": "eosh-uk-level-5-advanced-diploma-in-occupational-health-safety",
     "title": "EOSH UK Level 5 Advanced Diploma in Occupational Health & Safety",
     "category": "Diploma Programs",
     "level": "Diploma",
-    "description": "An advanced diploma track. Modules include comprehensive health and safety management, risk assessment, and compliance leadership."
+    "description": "An advanced diploma track. Modules include comprehensive health and safety management, risk assessment, and compliance leadership.",
+    "duration": "6 Months",
+    "eligibility": "12th Pass or Equivalent qualification.",
+    "fee": "On Enquiry (Installments Available)",
+    "accreditation": "EOSH UK Approved",
+    "mode": "Classroom + Practical Field Drills",
+    "location": "Highline Campus, Karimnagar",
+    "audience": "This course is ideal for aspiring safety officers, site supervisors, HSE managers, and working professionals seeking to upgrade their qualifications for international opportunities.",
+    "outcomes": [
+      "Identify and control critical workplace hazards.",
+      "Understand international HSE legal frameworks and compliance.",
+      "Conduct thorough risk assessments and safety audits.",
+      "Develop and implement emergency response strategies."
+    ],
+    "modules": [
+      "Module 1: Principles of Health and Safety",
+      "Module 2: Risk Assessment Methodology",
+      "Module 3: Hazard Control in the Workplace",
+      "Module 4: Incident Investigation and Reporting",
+      "Module 5: Practical Safety Drills and Application"
+    ],
+    "certification": "Upon successful completion of the assessments, candidates will be awarded the official EOSH UK Approved certificate, recognized globally by employers.",
+    "batch_dates": "Admissions Open - Flexible Weekday & Weekend Batches Available.",
+    "faqs": [
+      {
+        "q": "Are there placement opportunities after this course?",
+        "a": "Yes, Highline offers 100% placement assistance, interview preparation, and resume building for our graduates."
+      },
+      {
+        "q": "Can I pay the fees in installments?",
+        "a": "Yes, flexible installment plans are available for most diploma and advanced certification tracks."
+      },
+      {
+        "q": "Is this certification valid internationally?",
+        "a": "Absolutely. This EOSH UK Approved course is globally recognized, especially in the Gulf (GCC) countries and Europe."
+      }
+    ]
   }
 ]

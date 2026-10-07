@@ -1,9 +1,17 @@
-<!DOCTYPE html>
+import os
 
-<html lang="en">
-<head>
-<meta charset="u
+with open('website/course.html', 'r', encoding='utf-8') as f:
+    base_html = f.read()
 
+# We keep the <head> and the header/footer, but rewrite <main> and the hero script.
+header_end = base_html.find('<!-- ==================== /HEADER ==================== -->') + len('<!-- ==================== /HEADER ==================== -->')
+header_html = base_html[:header_end]
+
+footer_start = base_html.find('<!-- ============================================================ FOOTER === -->')
+footer_html = base_html[footer_start:]
+
+# New main content for course.html
+new_body = """
   <!-- ============================================================== HERO === -->
   <header class="hero hero--inner" style="min-height: 50vh; padding-top: 140px; padding-bottom: 80px;">
     <img id="course-hero-img" alt="Course Training" class="ph" fetchpriority="high" src="assets/img/hero-home.jpg" style="object-fit: cover; opacity: 0.2;" />
@@ -95,8 +103,10 @@
     </section>
 
   </main>
+"""
 
-
+# New Script for course.html
+new_script = """
 <script>
   document.addEventListener('DOMContentLoaded', function() {
     const params = new URLSearchParams(window.location.search);
@@ -174,5 +184,24 @@
       });
   });
 </script>
-</body>
-</html>
+"""
+
+# Assemble course.html
+html = header_html + '\n' + new_body + '\n' + footer_html
+# Replace old custom scripts at the end with the new one
+html = html[:html.rfind('<script>')] + new_script + '</body>\n</html>'
+
+# Add mobile responsive CSS for course grid
+resp_css = """
+/* Responsive course details grid */
+@media (max-width: 1024px) {
+  #main > .section > div { grid-template-columns: 1fr !important; gap: 40px !important; }
+  .panel { position: static !important; }
+}
+"""
+html = html.replace('</style>', resp_css + '</style>')
+
+with open('website/course.html', 'w', encoding='utf-8') as f:
+    f.write(html)
+
+print("course.html updated.")
