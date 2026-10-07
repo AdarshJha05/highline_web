@@ -1297,8 +1297,7 @@ h1, h2, h3, h4 { font-family: 'Montserrat', sans-serif; color: var(--navy); }
      the bottom. Below the nav breakpoint there is no longer room for that, so
      the copy goes back into normal flow and the panel grows to fit. */
   
-  .hero--inner,
-  .hero--contact { min-height: 480px; padding-top: 180px; }
+  
   
   
   
@@ -1381,8 +1380,7 @@ h1, h2, h3, h4 { font-family: 'Montserrat', sans-serif; color: var(--navy); }
      wraps to two or three lines depending on width, so the reserve is sized for
      the tallest case rather than a fixed offset that breaks at 360px. */
   .hero { min-height: 590px; padding: 262px 20px 26px; }
-  .hero--inner,
-  .hero--contact { min-height: 460px; padding-top: 150px; }
+  
   
   .hero--inner .hero__title,
   .hero--contact 
