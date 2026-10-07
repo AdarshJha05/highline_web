@@ -336,7 +336,7 @@ h1, h2, h3, h4 { font-family: 'Montserrat', sans-serif; color: var(--navy); }
   overflow: hidden;
   background: var(--navy);
   isolation: isolate;
-  min-height: 85vh;
+  min-height: 600px;
   display: flex;
   align-items: center;
 }
@@ -1577,7 +1577,7 @@ h1, h2, h3, h4 { font-family: 'Montserrat', sans-serif; color: var(--navy); }
   overflow: hidden;
   background: var(--navy);
   isolation: isolate;
-  min-height: 85vh;
+  min-height: 600px;
   display: flex;
   align-items: center;
 }
@@ -1938,20 +1938,9 @@ body.is-locked { overflow: hidden; }
 
 
 /* ============================================================================
-   MOBILE HERO LAYOUT FIXES
+   HERO MOBILE SPACING
    ========================================================================== */
-
-/* Remove any legacy absolute heights and ensure the header doesn't overlap the text */
-.hero--home {
-  height: auto !important;
-  min-height: 100vh !important;
-  padding-top: 100px !important; /* clear the sticky header */
-}
-
-@media (max-width: 760px) {
-  .hero--home {
-    min-height: auto !important;
-    padding-top: 120px !important; /* more clearance for mobile header */
-    padding-bottom: 60px !important;
-  }
+@media (max-width: 1024px) {
+  .hero { min-height: auto !important; padding-top: 100px; padding-bottom: 40px; }
+  .hero__content { padding: 0 var(--pad-x) !important; }
 }
