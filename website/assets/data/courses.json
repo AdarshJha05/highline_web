@@ -1,5 +1,53 @@
 [
   {
+    "id": "diploma-in-fire-safety",
+    "title": "Diploma in Fire Safety",
+    "category": "Diploma Programs",
+    "level": "Diploma",
+    "description": "The flagship DFS diploma \u2014 fire prevention, control systems, and emergency response for a career in fire safety.",
+    "image": "assets/img/course-dfs.jpg"
+  },
+  {
+    "id": "advance-diploma-in-hse",
+    "title": "Advance Diploma in HSE",
+    "category": "Diploma Programs",
+    "level": "Diploma",
+    "description": "Foundational and advanced HSE practices, safety protocols, and risk management for modern industries.",
+    "image": "assets/img/course-adhse.jpg"
+  },
+  {
+    "id": "iosh-managing-safely",
+    "title": "IOSH Managing Safely",
+    "category": "Health & Safety",
+    "level": "Certificate",
+    "description": "The globally recognized IOSH certification for managers and supervisors to effectively manage workplace risks.",
+    "image": "assets/img/course-iosh.jpg"
+  },
+  {
+    "id": "construction-industrial-safety",
+    "title": "Construction & Industrial Safety",
+    "category": "Health & Safety",
+    "level": "Diploma",
+    "description": "Specialized training for heavy industry and construction, focusing on high-risk environments and equipment.",
+    "image": "assets/img/course-cis.jpg"
+  },
+  {
+    "id": "nebosh-igc",
+    "title": "NEBOSH IGC",
+    "category": "Health & Safety",
+    "level": "Certificate",
+    "description": "The gold standard in health and safety qualifications. Comprehensive international general certificate.",
+    "image": "assets/img/course-nebosh.jpg"
+  },
+  {
+    "id": "diploma-in-oil-gas-safety",
+    "title": "Diploma in Oil & Gas Safety",
+    "category": "Diploma Programs",
+    "level": "Diploma",
+    "description": "Targeted training for the petrochemical sector covering process safety, hazard zones, and offshore regulations.",
+    "image": "assets/img/course-og.jpg"
+  },
+  {
     "id": "level-2-award-in-workplace-health-safety",
     "title": "Level 2 Award in Workplace Health & Safety",
     "category": "Health & Safety",

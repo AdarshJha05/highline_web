@@ -1,0 +1,23 @@
+All Courses</span>
+<h2 class="h2" id="courses-h">Courses for Every Career Stage</h2>
+<p class="lead">From first certificate to international accreditation — structured fire &amp; safety courses with practical drills and placement support.</p>
+</div>
+<div class="course-grid course-rail mt-56" data-rail="">
+<article class="course" data-reveal="0">
+<div class="course__photo"><img alt="Technician in fire-retardant coveralls inspecting a bank of fire suppression cylinders" class="ph" loading="lazy" src="assets/img/course-dfs.jpg"/></div>
+<div class="course__body">
+<div class="course__head">
+<h3 class="course__title">Diploma in Fire Safety</h3>
+</div>
+<p class="course__desc">The flagship DFS diploma — fire prevention, control systems, and emergency response for a career in fire safety.</p>
+<div class="course__reveal"><a class="btn" href="contact.html">View Course Details <span aria-hidden="true" class="btn__ico" style="background:#2E8FE0;color:#fff">↗</span></a></div>
+<div class="course__meta"><span>Fire Prevention</span><span class="dot"></span><span>Emergency Response</span></div>
+</div>
+</article>
+<article class="course" data-reveal="1">
+<div class="course__photo"><img alt="HSE officer briefing a group of trainees in hi-vis vests and hard hats at an industrial site" class="ph" loading="lazy" src="assets/img/course-adhse.jpg"/></div>
+<div class="course__body">
+<div class="course__head">
+<h3 class="course__title">Advance Diploma in HSE</h3>
+</div>
+<p class="course__desc">Foundatio
