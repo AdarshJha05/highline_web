@@ -281,6 +281,7 @@ h1, h2, h3, p, blockquote, figure { margin: 0; }
 .nav__links { display: flex; gap: 24px; align-items: center; }
 .nav__link { font-size: 15px; font-weight: 500; color: rgba(255,255,255,.9); transition: color .2s; }
 .nav__link:hover { color: var(--orange); }
+.nav__link.is-active { color: var(--orange); font-weight: 700; }
 .nav__right { display: flex; align-items: center; gap: 24px; }
 .nav__phone { font-size: 15px; font-weight: 600; color: #fff; }
 
