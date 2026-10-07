@@ -1872,3 +1872,69 @@ body.is-locked { overflow: hidden; }
 .drawer__link.is-active {
   color: var(--orange) !important;
 }
+
+
+/* ============================================================================
+   INFO CARD ENHANCEMENTS
+   ========================================================================== */
+
+.info-card {
+  background: var(--white) !important;
+  border: 1px solid var(--border) !important;
+  border-radius: 24px !important;
+  padding: 40px 32px !important;
+  text-align: center !important;
+  box-shadow: 0 4px 20px rgba(11, 60, 109, 0.05) !important;
+  transition: transform 0.3s var(--ease), box-shadow 0.3s var(--ease) !important;
+  display: flex !important;
+  flex-direction: column !important;
+  align-items: center !important;
+  position: relative !important;
+  overflow: hidden !important;
+}
+.info-card::before {
+  content: '';
+  position: absolute;
+  top: 0; left: 0; right: 0;
+  height: 4px;
+  background: var(--orange);
+  opacity: 0;
+  transition: opacity 0.3s;
+}
+.info-card:hover {
+  transform: translateY(-8px) !important;
+  box-shadow: 0 16px 32px rgba(11, 60, 109, 0.08) !important;
+}
+.info-card:hover::before {
+  opacity: 1;
+}
+
+.info-card > i {
+  width: 64px !important; 
+  height: 64px !important;
+  border-radius: 16px !important;
+  background: rgba(245, 124, 0, 0.1) !important; 
+  color: var(--orange) !important;
+  display: inline-flex !important; 
+  align-items: center !important; 
+  justify-content: center !important;
+  font-size: 28px !important;
+  margin-bottom: 24px !important;
+}
+
+.info-card p:first-of-type { 
+  margin-top: 0 !important; 
+  font-size: 18px !important; 
+  font-weight: 800 !important; 
+  color: var(--navy) !important;
+  line-height: 1.4 !important; 
+}
+.info-card p:first-of-type a {
+  color: var(--navy) !important;
+}
+.info-card p:last-of-type { 
+  margin-top: 12px !important; 
+  font-size: 15px !important; 
+  color: var(--muted-deep) !important; 
+  line-height: 1.6 !important; 
+}
