@@ -1948,3 +1948,7 @@ body.is-locked { overflow: hidden; }
 
 /* Add spacing above the enquire button in pricing cards now that amounts are gone */
 .price .btn { margin-top: 32px !important; }
+
+
+.team-card { transition: transform 0.3s var(--ease), box-shadow 0.3s var(--ease); }
+.team-card:hover { transform: translateY(-4px); box-shadow: var(--sh-hover) !important; }
