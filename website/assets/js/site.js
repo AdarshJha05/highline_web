@@ -345,6 +345,61 @@
     $$('[data-year]').forEach(function (el) { el.textContent = new Date().getFullYear(); });
   }
 
+  
+  /* ----------------------------------------------------------------- counters */
+  function counters() {
+    var els = $$('.counter');
+    if (!els.length) return;
+    
+    // If reduced motion is preferred, just show the final numbers
+    if (reduced || !('IntersectionObserver' in window)) {
+      els.forEach(function(el) {
+        var target = el.getAttribute('data-target');
+        var suffix = el.getAttribute('data-suffix') || '';
+        el.innerText = target + suffix;
+      });
+      return;
+    }
+
+    var observer = new IntersectionObserver(function(entries) {
+      entries.forEach(function(entry) {
+        if (entry.isIntersecting) {
+          var el = entry.target;
+          observer.unobserve(el);
+          
+          var target = parseInt(el.getAttribute('data-target'), 10);
+          var suffix = el.getAttribute('data-suffix') || '';
+          var duration = 2000; // 2 seconds
+          var frameDuration = 1000 / 60;
+          var totalFrames = Math.round(duration / frameDuration);
+          var frame = 0;
+          
+          // Easing function (easeOutExpo)
+          function easeOutExpo(t) {
+            return t === 1 ? 1 : 1 - Math.pow(2, -10 * t);
+          }
+          
+          var counter = setInterval(function() {
+            frame++;
+            var progress = easeOutExpo(frame / totalFrames);
+            var currentCount = Math.round(target * progress);
+            
+            el.innerText = currentCount + suffix;
+            
+            if (frame === totalFrames) {
+              clearInterval(counter);
+              el.innerText = target + suffix;
+            }
+          }, frameDuration);
+        }
+      });
+    }, { threshold: 0.5 });
+
+    els.forEach(function(el) {
+      observer.observe(el);
+    });
+  }
+
   function init() {
     reveal();
     charts();
@@ -355,6 +410,7 @@
     faqCategories();
     courseRail();
     drawer();
+    counters();
     forms();
     year();
   }
