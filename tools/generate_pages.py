@@ -99,7 +99,7 @@ for course in courses:
     
     # FAQs
     faqs_html = ""
-    faqs_html += f'<div style="padding: 20px; border: 1px solid var(--border); border-radius: 12px; margin-bottom: 12px;"><h4 style="font-size: 16px; font-weight: 700; color: var(--navy); margin-bottom: 8px;">Are there placement guarantees?</h4><p style="color: var(--muted-deep); font-size: 15px; margin: 0; line-height: 1.5;">No. We provide placement assistance, interview preparation, and skill building. Success depends on individual performance.</p></div>'
+    
     html = re.sub(r'<div id="course-faqs".*?>.*?</div>', f'<div id="course-faqs" style="display: flex; flex-direction: column; gap: 16px;">{faqs_html}</div>', html, flags=re.DOTALL)
     
     # Right Sidebar
