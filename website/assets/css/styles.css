@@ -2447,3 +2447,40 @@ body.is-locked { overflow: hidden; }
 @keyframes heroSlideLeft {
   to { opacity: 1; transform: translateX(0); }
 }
+
+/* ============================================================== NEW HERO BUTTON ENHANCEMENTS === */
+.hero-split__actions .btn {
+  padding: 18px 42px;
+  font-size: 17px;
+  font-weight: 700;
+  border-radius: 100px;
+  letter-spacing: 0.02em;
+  transition: all 0.3s var(--ease);
+}
+
+.hero-split__actions .btn--primary {
+  background: var(--orange);
+  color: var(--white);
+  box-shadow: 0 8px 24px rgba(245, 124, 0, 0.3);
+  border: 2px solid var(--orange);
+}
+
+.hero-split__actions .btn--primary:hover {
+  transform: translateY(-3px);
+  box-shadow: 0 14px 32px rgba(245, 124, 0, 0.45);
+  background: #E66A00; /* slightly darker orange */
+  border-color: #E66A00;
+}
+
+.hero-split__actions .btn--outline {
+  background: transparent;
+  border: 2px solid var(--navy);
+  color: var(--navy);
+}
+
+.hero-split__actions .btn--outline:hover {
+  background: var(--navy);
+  color: var(--white);
+  transform: translateY(-3px);
+  box-shadow: 0 12px 24px rgba(11, 60, 109, 0.25);
+}
