@@ -374,25 +374,23 @@
           var totalFrames = Math.round(duration / frameDuration);
           var frame = 0;
           
-          setTimeout(function() {
-            // Easing function (easeOutExpo)
-            function easeOutExpo(t) {
-              return t === 1 ? 1 : 1 - Math.pow(2, -10 * t);
-            }
+          // Easing function (easeOutExpo)
+          function easeOutExpo(t) {
+            return t === 1 ? 1 : 1 - Math.pow(2, -10 * t);
+          }
+          
+          var counter = setInterval(function() {
+            frame++;
+            var progress = easeOutExpo(frame / totalFrames);
+            var currentCount = Math.round(target * progress);
             
-            var counter = setInterval(function() {
-              frame++;
-              var progress = easeOutExpo(frame / totalFrames);
-              var currentCount = Math.round(target * progress);
-              
-              el.innerText = currentCount + suffix;
-              
-              if (frame === totalFrames) {
-                clearInterval(counter);
-                el.innerText = target + suffix;
-              }
-            }, frameDuration);
-          }, 1200); // Wait 1.2s for preloader
+            el.innerText = currentCount + suffix;
+            
+            if (frame === totalFrames) {
+              clearInterval(counter);
+              el.innerText = target + suffix;
+            }
+          }, frameDuration);
         }
       });
     }, { threshold: 0.5 });
