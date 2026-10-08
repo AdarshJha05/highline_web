@@ -44,9 +44,9 @@
   /* rhythm — overridden per breakpoint */
   --gutter: 16px;
   --pad-x: 64px;
-  --sec-y: 100px;
-  --open-y: 120px;
-  --open-y-end: 110px;
+  --sec-y: 64px;
+  --open-y: 80px;
+  --open-y-end: 72px;
   --gap: 24px;
 }
 
