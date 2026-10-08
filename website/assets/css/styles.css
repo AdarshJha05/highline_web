@@ -2703,3 +2703,77 @@ button.btn:hover .view-all-arrow,
 .acc:hover .view-all-arrow {
     transform: translateX(4px) !important;
 }
+
+/* ============================================================== PREMIUM MICRO-INTERACTIONS === */
+
+/* 1. Navigation Links Modern Slide Underline */
+.nav__link {
+    position: relative;
+    text-decoration: none !important;
+}
+.nav__link::after {
+    content: '';
+    position: absolute;
+    bottom: -6px;
+    left: 0;
+    width: 100%;
+    height: 2px;
+    background: var(--orange);
+    transform: scaleX(0);
+    transform-origin: right;
+    transition: transform 0.3s var(--ease);
+}
+.nav__link:hover::after,
+.nav__link.is-active::after {
+    transform: scaleX(1);
+    transform-origin: left;
+}
+
+/* 2. Universal Card Lift & Shadow */
+.card {
+    transition: transform 0.4s var(--ease), box-shadow 0.4s var(--ease) !important;
+}
+.card:hover {
+    transform: translateY(-6px) !important;
+    box-shadow: 0 20px 40px rgba(11, 60, 109, 0.1) !important;
+}
+
+/* 3. Image Zoom Effects on Tiles/Articles */
+.photo-tile img, .article__photo img, .sched-thumb img, .fac-clip img {
+    transition: transform 0.7s var(--ease) !important;
+}
+.photo-tile:hover img, .article:hover .article__photo img, .sched-row:hover .sched-thumb img, .fac-card:hover .fac-clip img {
+    transform: scale(1.06) !important;
+}
+
+/* 4. Stat Numbers Glow */
+.stat {
+    transition: transform 0.3s var(--ease), color 0.3s var(--ease);
+}
+.stat:hover {
+    transform: translateY(-4px);
+    color: var(--orange);
+}
+.stat:hover b {
+    color: var(--orange);
+}
+
+/* 5. Accordion Hover Shift */
+.acc-item {
+    transition: background 0.3s var(--ease), transform 0.3s var(--ease) !important;
+    border-radius: var(--r-inner);
+}
+.acc-item:hover {
+    background: rgba(11, 60, 109, 0.02) !important;
+    transform: translateX(6px) !important;
+}
+
+/* 6. Values Photo Tile (specifically prevent its inner chips from glitching) */
+.photo-tile .chip {
+    transition: transform 0.3s var(--ease), background 0.3s var(--ease);
+}
+.photo-tile:hover .chip {
+    transform: translateY(-2px);
+    background: var(--navy);
+    color: var(--white);
+}
