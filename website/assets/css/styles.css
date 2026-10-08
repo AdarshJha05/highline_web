@@ -45,8 +45,8 @@
   --gutter: 16px;
   --pad-x: 64px;
   --sec-y: 64px;
-  --open-y: 80px;
-  --open-y-end: 72px;
+  --open-y: 40px;
+  --open-y-end: 32px;
   --gap: 24px;
 }
 
@@ -1285,7 +1285,7 @@ h1, h2, h3, h4 { font-family: 'Montserrat', sans-serif; color: var(--navy); }
 
 /* ---- ≤1024px: tablet — most two-column splits stack ---- */
 @media (max-width: 1024px) {
-  :root { --pad-x: 32px; --sec-y: 72px; --open-y: 80px; --open-y-end: 72px; --gap: 20px; }
+  :root { --pad-x: 32px; --sec-y: 72px; --open-y: 40px; --open-y-end: 32px; --gap: 20px; }
 
   .nav { padding: 18px 24px; }
   .nav__links, .nav__cta { display: none; }
@@ -1366,8 +1366,8 @@ h1, h2, h3, h4 { font-family: 'Montserrat', sans-serif; color: var(--navy); }
 /* ---- ≤760px: phone ---- */
 @media (max-width: 760px) {
   :root {
-    --gutter: 12px; --pad-x: 20px; --sec-y: 56px;
-    --open-y: 64px; --open-y-end: 56px; --gap: 16px;
+    --gutter: 12px; --pad-x: 20px; --sec-y: 40px;
+    --open-y: 32px; --open-y-end: 24px; --gap: 16px;
     --r-section: 22px; --r-card: 20px;
   }
 
