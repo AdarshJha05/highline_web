@@ -2777,3 +2777,23 @@ button.btn:hover .view-all-arrow,
     background: var(--navy);
     color: var(--white);
 }
+
+/* ============================================================== EXTENDED PREMIUM INTERACTIONS === */
+/* Facilities Section Images Hover */
+.fac-photo img {
+    transition: transform 0.7s var(--ease) !important;
+}
+.fac-photo:hover img {
+    transform: scale(1.06) !important;
+}
+
+/* Facilities Chips Hover (match the values chip effect) */
+.fac-photo .chip {
+    transition: transform 0.3s var(--ease), background 0.3s var(--ease), color 0.3s var(--ease) !important;
+}
+.fac-photo:hover .chip {
+    transform: translateY(-2px) !important;
+    background: var(--navy) !important;
+    color: var(--white) !important;
+    box-shadow: 0 4px 12px rgba(11, 60, 109, 0.2);
+}
