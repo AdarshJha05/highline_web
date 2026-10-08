@@ -2627,3 +2627,15 @@ body.is-locked { overflow: hidden; }
     text-align: center;
   }
 }
+
+/* ============================================================== FOOTER SUBSCRIBE BUTTON OVERRIDE === */
+.newsletter button.btn--primary {
+    background: #E65100 !important; /* dark orange */
+    color: #ffffff !important;
+    transition: all 0.3s ease;
+}
+.newsletter button.btn--primary:hover {
+    background: #FFA726 !important; /* light orange */
+    transform: translateY(-2px);
+    box-shadow: 0 4px 16px rgba(245, 124, 0, 0.4);
+}
