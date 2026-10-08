@@ -2797,3 +2797,23 @@ button.btn:hover .view-all-arrow,
     color: var(--white) !important;
     box-shadow: 0 4px 12px rgba(11, 60, 109, 0.2);
 }
+
+/* ============================================================== SCHEDULE INTERACTION === */
+.sched-row {
+    transition: transform 0.4s var(--ease), box-shadow 0.4s var(--ease), border-color 0.4s var(--ease) !important;
+    cursor: pointer;
+}
+.sched-row:hover {
+    transform: translateX(8px) !important;
+    box-shadow: -4px 16px 32px rgba(11, 60, 109, 0.06);
+    border-color: var(--blue-300) !important;
+}
+.sched-row .btn-sm {
+    transition: background 0.3s var(--ease), color 0.3s var(--ease), transform 0.3s var(--ease) !important;
+}
+.sched-row:hover .btn-sm {
+    background: var(--navy) !important;
+    color: var(--white) !important;
+    border-color: var(--navy) !important;
+    transform: translateX(-4px);
+}
