@@ -2817,3 +2817,12 @@ button.btn:hover .view-all-arrow,
     border-color: var(--navy) !important;
     transform: translateX(-4px);
 }
+
+.process-step:hover {
+    transform: translateX(6px) !important;
+}
+.process-step:hover div:first-child {
+    background: var(--navy) !important;
+    color: var(--white) !important;
+    border-color: var(--navy) !important;
+}
