@@ -2693,3 +2693,13 @@ body.is-locked { overflow: hidden; }
 .view-all-hover:hover .view-all-arrow {
     transform: translateX(4px) !important;
 }
+
+/* ============================================================== GLOBAL SVG ARROW HOVER === */
+.course-card:hover .view-all-arrow,
+a.btn:hover .view-all-arrow,
+button.btn:hover .view-all-arrow,
+.card:hover .view-all-arrow,
+.feature__head:hover .view-all-arrow,
+.acc:hover .view-all-arrow {
+    transform: translateX(4px) !important;
+}
