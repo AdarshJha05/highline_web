@@ -369,28 +369,30 @@
           
           var target = parseInt(el.getAttribute('data-target'), 10);
           var suffix = el.getAttribute('data-suffix') || '';
-          var duration = 2000; // 2 seconds
+          var duration = 3000; // 3 seconds
           var frameDuration = 1000 / 60;
           var totalFrames = Math.round(duration / frameDuration);
           var frame = 0;
           
-          // Easing function (easeOutExpo)
-          function easeOutExpo(t) {
-            return t === 1 ? 1 : 1 - Math.pow(2, -10 * t);
-          }
-          
-          var counter = setInterval(function() {
-            frame++;
-            var progress = easeOutExpo(frame / totalFrames);
-            var currentCount = Math.round(target * progress);
-            
-            el.innerText = currentCount + suffix;
-            
-            if (frame === totalFrames) {
-              clearInterval(counter);
-              el.innerText = target + suffix;
+          setTimeout(function() {
+            // Easing function (easeOutExpo)
+            function easeOutExpo(t) {
+              return t === 1 ? 1 : 1 - Math.pow(2, -10 * t);
             }
-          }, frameDuration);
+            
+            var counter = setInterval(function() {
+              frame++;
+              var progress = easeOutExpo(frame / totalFrames);
+              var currentCount = Math.round(target * progress);
+              
+              el.innerText = currentCount + suffix;
+              
+              if (frame === totalFrames) {
+                clearInterval(counter);
+                el.innerText = target + suffix;
+              }
+            }, frameDuration);
+          }, 1200); // Wait 1.2s for preloader
         }
       });
     }, { threshold: 0.5 });
