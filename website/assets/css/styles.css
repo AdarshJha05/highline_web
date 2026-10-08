@@ -2230,7 +2230,7 @@ body.is-locked { overflow: hidden; }
 /* ============================================================== SPLIT HERO (HOME PAGE) === */
 .hero-wrap--split {
   background: var(--white);
-  padding-top: 140px; /* Account for fixed header */
+  padding-top: 40px; /* Account for fixed header */
   padding-bottom: 80px;
   position: relative;
   overflow: hidden;

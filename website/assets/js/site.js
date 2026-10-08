@@ -346,9 +346,9 @@
   }
 
   
-  /* ----------------------------------------------------------------- counters */
-  function counters() {
-    var els = $$('.counter');
+  /* ----------------------------------------------------------------- trustCounters */
+    function trustCounters() {
+      var els = $$('.counter');
     if (!els.length) return;
     
     // If reduced motion is preferred, just show the final numbers
@@ -410,7 +410,7 @@
     faqCategories();
     courseRail();
     drawer();
-    counters();
+      trustCounters();
     forms();
     year();
   }
