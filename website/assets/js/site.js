@@ -227,7 +227,7 @@
     var prev = $('[data-rail-prev]');
     var next = $('[data-rail-next]');
     var step = function () {
-      var card = rail.querySelector('.course');
+      var card = rail.querySelector('.course') || rail.querySelector('.course-card');
       return card ? card.getBoundingClientRect().width + 14 : rail.clientWidth * 0.85;
     };
     function sync() {
