@@ -2593,13 +2593,14 @@ body.is-locked { overflow: hidden; }
   flex-wrap: wrap;
 }
 .site-footer__socials a {
-  font-size: 13px;
-  font-weight: 700;
   color: var(--orange);
-  text-decoration: none;
   background: rgba(245, 124, 0, 0.1);
-  padding: 8px 16px;
-  border-radius: 100px;
+  width: 40px;
+  height: 40px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border-radius: 50%;
   transition: all 0.3s var(--ease);
 }
 .site-footer__socials a:hover {
