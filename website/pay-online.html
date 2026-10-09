@@ -4,8 +4,8 @@
 <head>
 <meta charset="utf-8"/>
 <meta content="width=device-width, initial-scale=1" name="viewport"/>
-<title>Terms of Service — Highline Fire &amp; Safety Training Institute</title>
-<meta content="Highline Fire and Safety Training Institute, Karimnagar — our vision, mission, trainers, achievements and campus. Providing comprehensive safety qualifications." name="description"/>
+<title>About — Highline Fire &amp; Safety Training Institute</title>
+<meta content="Highline Fire and Safety Training Institute, Karimnagar — our vision, mission, trainers, achievements and campus. Admissions for professional safety programs." name="description"/>
 <link href="https://highlinefireandsafety.com/about.html" rel="canonical"/>
 <meta content="About Highline Fire &amp; Safety Training Institute" property="og:title"/>
 <meta content="Developing the next safety leaders — our story, trainers and Karimnagar campus." property="og:description"/>
@@ -18,8 +18,7 @@
 <link crossorigin="" href="https://fonts.gstatic.com" rel="preconnect"/>
 <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600&amp;family=Montserrat:wght@600;700;800&amp;display=swap" rel="stylesheet"/>
 <link href="assets/css/styles.css" rel="stylesheet"/>
-
-  <script type="application/ld+json">
+<script type="application/ld+json">
   {
     "@context": "https://schema.org",
     "@type": "EducationalOrganization",
@@ -58,7 +57,7 @@
 <div class="nav__links"><a class="nav__link" href="index.html">Home</a>
 <a class="nav__link" href="courses.html">Courses</a>
 <a class="nav__link" href="about.html">About</a>
-<a class="nav__link" href="admissions.html">Admissions</a>
+<a aria-current="page" class="nav__link is-active" href="admissions.html">Admissions</a>
 <a class="nav__link" href="resources.html">Resources</a>
 <a class="nav__link" href="contact.html">Contact</a>
 <a class="nav__link" href="pay-online.html" style="color: var(--orange); font-weight: 700;">Pay Fees</a>
@@ -70,10 +69,50 @@
 </nav>
 </header>
 <!-- ==================== /HEADER ==================== -->
-<main id="main" style="padding: 160px 24px 80px; min-height: 60vh; display: flex; flex-direction: column; align-items: center; text-align: center;">
-    <h1 class="h2" style="margin-bottom: 24px;">Terms of Service</h1>
-    <p class="lead" style="font-size: 20px; color: var(--muted-deep);">[ Added Soon ]</p>
+<!-- ============================================================== HERO === -->
+<header class="hero hero--inner">
+<div class="hero-bg-container" id="hero-bg-parallax">
+  <img alt="Students registering for safety courses" class="ph hero-bg-img" fetchpriority="high" src="assets/img/hero-admissions.jpg" style="object-fit: cover; opacity: 0.35;"/>
+</div>
+<div class="hero__scrim"></div>
+<div class="hero__content">
+<span class="eyebrow eyebrow--light">Admissions &amp; Fees</span>
+<h1 class="hero__title">Start Your Training Journey</h1>
+<div class="hero__blurb">
+<p>Secure your seat and pay course fees easily and securely.</p>
+</div>
+</div>
+</header>
+<main id="main">
+<!-- ================================================= PROCESS & FEES === -->
+<style>
+  .adm-grid { display: grid; grid-template-columns: 1fr 1fr; gap: 80px; align-items: center; }
+  @media (max-width: 900px) { .adm-grid { grid-template-columns: 1fr; gap: 48px; } }
+</style>
+<!-- ================================================= APPLICATION FORM === -->
+<section class="inquiry" style="padding-top: 80px; padding-bottom: 120px; background: var(--mist);">
+<div style="grid-column: 1 / -1; max-width: 600px; margin: 0 auto; width: 100%;">
+<span class="eyebrow" style="text-align: center; display: block;">Secure Your Seat</span>
+<h2 class="h2 h2--44" style="text-align: center; margin-bottom: 40px;">Pay Fees Online</h2>
+<div style="background: var(--white); padding: 56px 48px; border-radius: 24px; box-shadow: 0 24px 48px rgba(11, 60, 109, 0.06); border: 1px solid var(--border); margin-top: 24px;">
+<form class="admissions-form" data-mailto="highlinefireandsafety@gmail.com" data-subject="Fee Payment Initiated">
+<div class="form-grid form-grid--lg" style="grid-template-columns: 1fr;">
+<label class="field field--white field--full"><span>Full Name *</span><input autocomplete="name" data-label="Full Name" name="name" placeholder="Student's name" required="" type="text"/></label>
+<label class="field field--white field--full"><span>Phone Number *</span><input autocomplete="tel" data-label="Phone Number" name="phone" placeholder="Active mobile/WhatsApp number" required="" type="tel"/></label>
+<label class="field field--white field--full"><span>Email Address *</span><input autocomplete="email" data-label="Email Address" name="email" placeholder="For payment receipt" required="" type="email"/></label>
+<label class="field field--white field--full"><span>Payment Amount (₹) *</span><input data-label="Amount" name="amount" placeholder="e.g. 5000" required="" type="number" min="100"/></label>
+</div>
+<div class="form-foot" style="margin-top: 32px; flex-direction: column; align-items: center; gap: 16px;">
+<button class="btn btn--primary btn--glow view-all-hover" style="padding: 16px 36px; border-radius: 100px; width: 100%;" type="submit">Proceed to Payment</button>
+<p style="font-size:13px; color: var(--muted-deep); text-align: center; margin:0;">You will be redirected to our secure payment gateway after submitting these details.</p>
+</div>
+<p class="form-note" data-note="" role="status"></p><div class="form-status" style="margin-top: 16px; padding: 16px; border-radius: 8px; display: none; text-align: center; font-weight: 600;"></div>
+</form>
+</div>
+</div>
+</section>
 </main>
+<!-- ============================================================ FOOTER === -->
 <footer class="site-footer">
   <div class="site-footer__container">
     <div class="site-footer__brand-col">
@@ -162,8 +201,8 @@
 <button aria-label="Close menu" class="drawer__close" data-drawer-close="" type="button">×</button>
 </div><a class="drawer__link" href="index.html">Home</a>
 <a class="drawer__link" href="courses.html">Courses</a>
-<a aria-current="page" class="drawer__link is-active" href="about.html">About</a>
-<a class="drawer__link" href="admissions.html">Admissions</a>
+<a class="drawer__link" href="about.html">About</a>
+<a aria-current="page" class="drawer__link is-active" href="admissions.html">Admissions</a>
 <a class="drawer__link" href="resources.html">Resources</a>
 <a class="drawer__link" href="contact.html">Contact</a>
   <a class="drawer__link" href="pay-online.html" style="color: var(--orange);">Pay Fees</a>
@@ -177,9 +216,9 @@
 </div>
 <script>
 window.HL_ACHIEVEMENTS = [
-  {title:'Foundation batches take off', desc:'The first DFS and ADHSE batches complete training in Karimnagar, entering the safety workforce.'},
+  {title:'Foundation batches take off', desc:'The first DFS and ADHSE batches complete training in Karimnagar, with early graduates placed at regional industrial sites.'},
   /* {title:'ISO 9001:2015 certified quality', desc:'The institute strengthens its quality systems with ISO 9001:2015 certification and IBSP approval across its course catalog.'}, */
-  {title:'IOSH-approved training provider', desc:'Highline becomes an IOSH-approved provider, bringing internationally respected managerial safety training to Karimnagar.'},
+  {title:'IOSH-accredited training provider', desc:'Highline becomes an IOSH-accredited provider, bringing internationally recognized managerial safety training to Karimnagar.'},
   
   {title:'International track expansion', desc:'NEBOSH IGC preparation and the Oil & Gas Safety diploma expand career paths into global and petrochemical roles.'},
   {title:'Upgraded campus facilities', desc:'The drill yard, smoke chamber, and PPE lab are upgraded with certified equipment for richer practical training.'}
