@@ -2920,7 +2920,7 @@ button.btn:hover .view-all-arrow,
 .path:hover > span { color: var(--blue-300) !important; }
 .path:hover h3 { color: var(--white) !important; }
 .path:hover p { color: rgba(255, 255, 255, 0.85) !important; }
-.path--hi:hover { background: var(--blue-deep) !important; border-color: var(--blue-deep) !important; }
+.path--hi:hover { background: var(--navy) !important; border-color: var(--navy) !important; }
 .path > span { transition: color 0.3s ease !important; }
 .path h3 { color: var(--navy); transition: color 0.3s ease !important; }
 .path p { transition: color 0.3s ease !important; }
