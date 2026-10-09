@@ -1761,7 +1761,7 @@ h1.hero__title {
 .drawer__meta a { color: var(--navy); font-weight: 600; }
 body.is-locked { overflow: hidden; }
 
-@media (max-width: 1024px) {
+@media (max-width: 1060px) {
   .nav__links { display: none; }
   .nav__right .btn, .nav__right .nav__phone { display: none; }
   .nav__burger { display: inline-flex; }
@@ -1772,7 +1772,7 @@ body.is-locked { overflow: hidden; }
    FORCE HEADER MOBILE RESPONSIVENESS
    ========================================================================== */
 
-@media (max-width: 1024px) {
+@media (max-width: 1060px) {
   .nav__links { display: none !important; }
   .nav__right .btn { display: none !important; }
   .nav__right .nav__phone { display: none !important; }
