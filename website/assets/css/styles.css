@@ -2884,3 +2884,19 @@ button.btn:hover .view-all-arrow,
     display: none; /* Chrome/Safari */
   }
 }
+
+
+/* ============================================================================
+   INTERACTIVE IMAGES
+   ========================================================================== */
+.img-interactive {
+  transition: transform 0.5s cubic-bezier(0.165, 0.84, 0.44, 1), box-shadow 0.5s cubic-bezier(0.165, 0.84, 0.44, 1) !important;
+  will-change: transform;
+  border-radius: inherit; /* Ensure it inherits border radius from parent if any */
+}
+.img-interactive:hover {
+  transform: scale(1.03) translateY(-4px) !important;
+  box-shadow: 0 24px 48px rgba(11, 34, 60, 0.25) !important;
+  z-index: 10;
+  position: relative;
+}
