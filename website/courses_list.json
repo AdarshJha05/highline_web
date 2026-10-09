@@ -1,0 +1,70 @@
+[
+  {
+    "title": "Advance Diploma in Health, Safety & Environment (ADHSE)",
+    "img": "assets/img/course-dfs.jpg"
+  },
+  {
+    "title": "PG Diploma in Fire Safety",
+    "img": "assets/img/course-adhse.jpg"
+  },
+  {
+    "title": "Diploma in Fire Safety",
+    "img": "assets/img/course-iosh.jpg"
+  },
+  {
+    "title": "Diploma in Construction Safety",
+    "img": "assets/img/course-cis.jpg"
+  },
+  {
+    "title": "Diploma in Industrial Safety",
+    "img": "assets/img/course-nebosh.jpg"
+  },
+  {
+    "title": "Diploma in Oil & Gas Safety",
+    "img": "assets/img/course-og.jpg"
+  },
+  {
+    "title": "BSS Advanced Diploma in Occupational Safety, Health & Environmental Management",
+    "img": "assets/img/course-dfs.jpg"
+  },
+  {
+    "title": "BSS Advanced Diploma in Fire & Industrial Safety Management",
+    "img": "assets/img/course-adhse.jpg"
+  },
+  {
+    "title": "Certificate in Risk Assessment",
+    "img": "assets/img/course-iosh.jpg"
+  },
+  {
+    "title": "Certificate in Scaffolding Safety",
+    "img": "assets/img/course-cis.jpg"
+  },
+  {
+    "title": "Certificate in Work Permit Receiver (WPR)",
+    "img": "assets/img/course-nebosh.jpg"
+  },
+  {
+    "title": "Certificate in Basic First Aid, CPR & AED",
+    "img": "assets/img/course-og.jpg"
+  },
+  {
+    "title": "EOSH (Environment, Occupational Safety & Health)",
+    "img": "assets/img/course-dfs.jpg"
+  },
+  {
+    "title": "OSHA (Occupational Safety and Health Administration)",
+    "img": "assets/img/course-adhse.jpg"
+  },
+  {
+    "title": "IOSH Managing Safely",
+    "img": "assets/img/course-iosh.jpg"
+  },
+  {
+    "title": "NEBOSH (National Examination Board in Occupational Safety and Health)",
+    "img": "assets/img/course-cis.jpg"
+  },
+  {
+    "title": "IASP OSHA 30-Hour General Industry",
+    "img": "assets/img/course-nebosh.jpg"
+  }
+]
