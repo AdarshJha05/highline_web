@@ -2900,3 +2900,27 @@ button.btn:hover .view-all-arrow,
   z-index: 10;
   position: relative;
 }
+
+
+/* ============================================================================
+   ABOUT PAGE - INTERACTIVE LEARNING PATH CARDS
+   ========================================================================== */
+.path {
+  transition: all 0.4s cubic-bezier(0.165, 0.84, 0.44, 1) !important;
+  position: relative;
+  z-index: 1;
+}
+.path:hover {
+  transform: translateY(-8px) !important;
+  background: var(--navy) !important;
+  border-color: var(--navy) !important;
+  box-shadow: 0 24px 48px rgba(11, 34, 60, 0.25) !important;
+  z-index: 2;
+}
+.path:hover > span { color: var(--blue-300) !important; }
+.path:hover h3 { color: var(--white) !important; }
+.path:hover p { color: rgba(255, 255, 255, 0.85) !important; }
+.path--hi:hover { background: var(--blue-deep) !important; border-color: var(--blue-deep) !important; }
+.path > span { transition: color 0.3s ease !important; }
+.path h3 { color: var(--navy); transition: color 0.3s ease !important; }
+.path p { transition: color 0.3s ease !important; }
