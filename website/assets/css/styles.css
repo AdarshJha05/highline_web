@@ -2826,3 +2826,61 @@ button.btn:hover .view-all-arrow,
     color: var(--white) !important;
     border-color: var(--navy) !important;
 }
+
+
+/* ============================================================================
+   COURSE FILTER NAVIGATION (Horizontal Scroll Pills)
+   ========================================================================== */
+.course-filter-nav {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 12px;
+  justify-content: center;
+  margin-top: 32px;
+}
+.course-filter-nav .btn {
+  border-radius: 100px;
+  padding: 12px 24px;
+  font-size: 15px;
+  font-weight: 600;
+  white-space: nowrap;
+  letter-spacing: 0;
+  text-transform: none;
+  box-shadow: none !important;
+  transition: all 0.2s ease;
+}
+/* Unselected State */
+.course-filter-nav .btn--secondary {
+  background: transparent;
+  border: 1px solid var(--border);
+  color: var(--navy);
+}
+.course-filter-nav .btn--secondary:hover {
+  background: var(--blue-100);
+  border-color: var(--blue-300);
+  color: var(--blue-deep);
+}
+/* Selected State */
+.course-filter-nav .btn--primary {
+  background: var(--navy);
+  border: 1px solid var(--navy);
+  color: var(--white);
+}
+
+@media (max-width: 768px) {
+  .course-filter-nav {
+    justify-content: flex-start;
+    flex-wrap: nowrap;
+    overflow-x: auto;
+    -webkit-overflow-scrolling: touch;
+    padding-bottom: 12px;
+    padding-left: var(--pad-x);
+    padding-right: var(--pad-x);
+    margin-left: calc(var(--pad-x) * -1);
+    margin-right: calc(var(--pad-x) * -1);
+    scrollbar-width: none; /* Firefox */
+  }
+  .course-filter-nav::-webkit-scrollbar {
+    display: none; /* Chrome/Safari */
+  }
+}
